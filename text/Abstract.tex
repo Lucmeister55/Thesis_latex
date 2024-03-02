@@ -1,0 +1,13 @@
+\chapter{Abstract}
+
+Cancer cells exhibit a characteristic ability to evade programmed cell death, a feature critical for their uncontrolled proliferation. An emerging strategy in cancer therapy involves targeting alternative forms of cell death, distinct from apoptosis, as evidenced by recent studies \citep{non-apoptotic2}. Non-apoptotic cell death mechanisms, including necroptosis and pyroptosis, offer promising avenues to circumvent apoptosis resistance in tumors, thus enhancing the efficacy of anticancer therapies \citep{non-apoptotic}.
+
+One such non-apoptotic pathway, ferroptosis, reliant on iron and reactive oxygen species (ROS), represents a novel approach in cancer treatment. However, inherent resistance to ferroptosis induction poses a challenge in its therapeutic application \citep{resistance}. Detecting drug resistance before treatment initiation could significantly impact treatment outcomes \citep{prediction}.
+
+Epigenetic modifications, such as DNA methylation, RNA methylation, and noncoding RNAs, have emerged as key regulators of cellular processes. Notably, DNA methylation alterations in genes associated with ferroptosis, including GPX4, FSP1, and NRF2, influence their expression levels, potentially modulating ferroptosis susceptibility \citep{methylation}.
+
+Bisulfite genomic sequencing is widely utilized for DNA methylation detection, despite its limitations. Challenges such as incomplete bisulfite conversion or assay failures may compromise data accuracy \citep{bisulfite2, bisulfite}.
+
+Recent advancements in sequencing technologies, such as nanopore sequencing, offer improved accuracy and resolution compared to traditional methods. Nanopore episequencing, in particular, shows promise in refining genetic associations and identifying novel loci previously undetected by microarray platforms \citep{npepi, npepi2}.
+
+In this project, we will aim to develop a machine learning model which, based on a nanopore episequencing profile, will be able to predict the likelihood of ferroptosis resistance for a given tumor strain. The model's capacity to generalize to other (untrained) strains will be tested. Lastly, we will identify specific methylation changes brought about by ferroptosis-inducing drugs by sequencing sensitized strains.
