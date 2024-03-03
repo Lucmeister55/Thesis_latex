@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.17.0 (TeX Live 2023)  (format=lualatex 2024.3.2)  3 MAR 2024 19:30
+This is LuaHBTeX, Version 1.17.0 (TeX Live 2023)  (format=lualatex 2024.3.2)  3 MAR 2024 21:36
  restricted system commands enabled.
 **main.tex
 (./main.tex
@@ -1395,7 +1395,10 @@ Package luatex.def Info: Cover.pdf , page1 used on input line 59.
 \tf@toc=\write6
 
 \openout6 = main.toc
- [8] (./main.lof)
+ [8] (./main.lof
+Package acronym Info: Label `acro:ONT' newly defined as it shall be overridden
+although it is yet undefined on input line 5.
+)
 \tf@lof=\write7
 
 \openout7 = main.lof
@@ -1410,18 +1413,7 @@ Package luatex.def Info: Cover.pdf , page1 used on input line 59.
 
 (./Acronyms.tex [11] [12
 
-]
-
-LaTeX Warning: Hyper reference `acro:ONT' on page xiii undefined on input line 
-9.
-
-
-LaTeX Warning: Hyper reference `acro:ONT' on page xiii undefined on input line 
-9.
-
-Package acronym Info: Acronym ONT used in text but not spelled out in full in t
-ext on input line 9.
-) [13] [14
+]) [13] [14
 
 ] (./text/Abstract.tex
 Chapter 1.
@@ -1465,7 +1457,7 @@ Overfull \hbox (13.49417pt too wide) in paragraph at lines 12--13
 -rop-to-sis is me-di-ated by [][][][]glutathione
  []
 
-<Fig/ferroptosis.png, id=370, 342.5297pt x 396.7322pt>
+<Fig/ferroptosis.png, id=398, 342.5297pt x 396.7322pt>
 File: Fig/ferroptosis.png Graphic file (type png)
 <use Fig/ferroptosis.png>
 Package luatex.def Info: Fig/ferroptosis.png  used on input line 18.
@@ -1474,36 +1466,80 @@ Package luatex.def Info: Fig/ferroptosis.png  used on input line 18.
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [4<./Fig/ferroptosis.png>]
+Package acronym Info: Label `acro:DNMT' newly defined as it shall be overridden
+
+although it is yet undefined on input line 37.
+
+Overfull \hbox (1.97464pt too wide) in paragraph at lines 37--38
+\TU/opensans(0)/m/n/12 ad-di-tion of a methyl group to the carbon-5 atom of cy-t
+o-sine within cytosine-guanine
+ []
+
+
+Overfull \hbox (6.94614pt too wide) in paragraph at lines 37--38
+\TU/opensans(0)/m/n/12 fa-cil-i-tate the trans-fer of a methyl group from the un
+i-ver-sal methyl donor, S-adenosyl-
+ []
+
+
+Overfull \hbox (2.71072pt too wide) in paragraph at lines 37--38
+\TU/opensans(0)/m/n/12 L-methionine (SAM), to the 5-position of cy-to-sine resid
+ues in DNA ([]Robert-son, []2005[]).
+ []
+
+
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [5]
 Package acronym Info: Label `acro:5mC' newly defined as it shall be overridden
-although it is yet undefined on input line 43.
+although it is yet undefined on input line 39.
+Package acronym Info: Label `acro:5hmC' newly defined as it shall be overridden
 
-Overfull \hbox (0.11526pt too wide) in paragraph at lines 43--44
-\TU/opensans(0)/m/n/12 that the am-i-na-tion re-ac-tions of cy-to-sine and [][]
-[][]5-methylcytosine ([])[] yield markedly
+although it is yet undefined on input line 39.
+Package acronym Info: Label `acro:5fC' newly defined as it shall be overridden
+although it is yet undefined on input line 39.
+Package acronym Info: Label `acro:5caC' newly defined as it shall be overridden
+
+although it is yet undefined on input line 39.
+Package acronym Info: Label `acro:TDG' newly defined as it shall be overridden
+although it is yet undefined on input line 39.
+
+Overfull \hbox (35.56555pt too wide) in paragraph at lines 39--40
+\TU/opensans(0)/m/n/12 tion. Through suc-ces-sive en-zy-matic pro-cesses, TET en
+-zymes can ox-i-dize [][][][]5-methylcytosine
  []
 
-[6]
+
+Overfull \hbox (1.4266pt too wide) in paragraph at lines 41--42
+\TU/opensans(0)/m/n/12 Con-se-quently, a sig-nif-i-cant por-tion of fa-mil-ial 
+mu-ta-tions and single-nucleotide poly-
+ []
+
+Package acronym Info: Label `acro:CGI' newly defined as it shall be overridden
+although it is yet undefined on input line 43.
+
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [7]
-<Fig/ont_epi.png, id=428, 432.11438pt x 133.24782pt>
+ [6]
+[7]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [8]
+<Fig/ont_epi.png, id=491, 432.11438pt x 133.24782pt>
 File: Fig/ont_epi.png Graphic file (type png)
 <use Fig/ont_epi.png>
-Package luatex.def Info: Fig/ont_epi.png  used on input line 61.
+Package luatex.def Info: Fig/ont_epi.png  used on input line 67.
 (luatex.def)             Requested size: 455.24411pt x 140.38602pt.
 
-[8<./Fig/ont_epi.png>]) (./text/Aims.tex [9] [10
-
-]
+[9<./Fig/ont_epi.png>]) (./text/Aims.tex [10]
 Chapter 3.
-) (./text/Methods.tex [11] [12
+) (./text/Methods.tex [11
+
+] [12
 
 ]
 Chapter 4.
-<Fig/overview_temp.png, id=463, 858.95906pt x 295.85532pt>
+<Fig/overview_temp.png, id=523, 858.95906pt x 295.85532pt>
 File: Fig/overview_temp.png Graphic file (type png)
 <use Fig/overview_temp.png>
 Package luatex.def Info: Fig/overview_temp.png  used on input line 10.
@@ -1549,46 +1585,41 @@ Overfull \hbox (0.58368pt too wide) in paragraph at lines 85--85
 ase Study 2015''. In: \TU/opensans(0)/m/it/12 The Lancet
  []
 
-[25] [26] [27] [28] [29] (./main.aux)
+[25]
+Overfull \hbox (13.24178pt too wide) in paragraph at lines 85--85
+[][]\TU/opensans(0)/m/n/12 Gardiner-Garden, M and M From-mer (July 1987). ``CpG is-lands in ver-te-brate genomes''.
+ []
+
+[26] [27] [28] [29] [30] (./main.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-02-20>
  ***********
-
-
-LaTeX Warning: There were undefined references.
-
-
-Package rerunfilecheck Warning: File `main.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `main.out':
-(rerunfilecheck)             Before: B9531CBF08B4AEB6A8B510E02960CD25;2574
-(rerunfilecheck)             After:  260FF21B66C033179F4105F0D5596B76;2579.
+Package rerunfilecheck Info: File `main.out' has not changed.
+(rerunfilecheck)             Checksum: 260FF21B66C033179F4105F0D5596B76;2579.
 Package logreq Info: Writing requests to 'main.run.xml'.
 
 \openout1 = main.run.xml
 )
 
 Here is how much of LuaTeX's memory you used:
- 37857 strings out of 476447
+ 37971 strings out of 476447
  125161,2373549 words of node,token memory allocated
- 926 words of node memory still in use:
-   6 hlist, 2 vlist, 2 rule, 2 glue, 4 kern, 1 glyph, 34 attribute, 85 glue_spec
-, 34 attribute_list, 2 write, 27 pdf_action nodes
-   avail lists: 1:1,2:974,3:549,4:88,5:174,6:66,7:6002,8:82,9:411,10:7,11:575
- 58942 multiletter control sequences out of 65536+600000
+ 936 words of node memory still in use:
+   6 hlist, 2 vlist, 2 rule, 2 glue, 4 kern, 1 glyph, 35 attribute, 85 glue_spec
+, 35 attribute_list, 2 write, 28 pdf_action nodes
+   avail lists: 1:2,2:1187,3:549,4:143,5:174,6:86,7:6352,8:82,9:453,10:7,11:596
+ 59033 multiletter control sequences out of 65536+600000
  48 fonts using 4585047 bytes
- 105i,17n,100p,1685b,1856s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 105i,17n,100p,2531b,1856s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <d:/texlive/2023/texmf-dist/fonts/opentype/public/lm/lmmono12-regular.otf><d:/te
 xlive/2023/texmf-dist/fonts/truetype/ascender/opensans/OpenSans-Italic.ttf><d:/t
 exlive/2023/texmf-dist/fonts/truetype/ascender/opensans/OpenSans-Bold.ttf><d:/te
 xlive/2023/texmf-dist/fonts/truetype/ascender/opensans/OpenSans-Regular.ttf>
-Output written on main.pdf (43 pages, 453920 bytes).
+Output written on main.pdf (44 pages, 461440 bytes).
 
-PDF statistics: 671 PDF objects out of 1000 (max. 8388607)
- 563 compressed objects within 6 object streams
- 125 named destinations out of 1000 (max. 131072)
+PDF statistics: 738 PDF objects out of 1000 (max. 8388607)
+ 628 compressed objects within 7 object streams
+ 148 named destinations out of 1000 (max. 131072)
  168 words of extra memory for PDF output out of 10000 (max. 100000000)
 

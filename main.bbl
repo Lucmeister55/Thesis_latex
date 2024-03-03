@@ -21,12 +21,12 @@
   \datalist[entry]{none/global//global/global}
     \entry{ferro_cancer}{article}{}
       \name{author}{5}{}{%
-        {{un=0,uniquepart=base,hash=c9191dc69bc22ce41fc456ae9eb63db8}{%
+        {{un=1,uniquepart=given,hash=c9191dc69bc22ce41fc456ae9eb63db8}{%
            family={Zhang},
            familyi={Z\bibinitperiod},
            given={Chen},
            giveni={C\bibinitperiod},
-           givenun=0}}%
+           givenun=1}}%
         {{un=0,uniquepart=base,hash=bd38e8192551a8d963629f85754385bc}{%
            family={Liu},
            familyi={L\bibinitperiod},
@@ -6068,12 +6068,12 @@
     \endentry
     \entry{ferro_drugs}{article}{}
       \name{author}{5}{}{%
-        {{un=0,uniquepart=base,hash=c9191dc69bc22ce41fc456ae9eb63db8}{%
+        {{un=1,uniquepart=given,hash=c9191dc69bc22ce41fc456ae9eb63db8}{%
            family={Zhang},
            familyi={Z\bibinitperiod},
            given={Chen},
            giveni={C\bibinitperiod},
-           givenun=0}}%
+           givenun=1}}%
         {{un=0,uniquepart=base,hash=bd38e8192551a8d963629f85754385bc}{%
            family={Liu},
            familyi={L\bibinitperiod},
@@ -6304,6 +6304,730 @@
       \verb http://dx.doi.org/10.1007/s12032-014-0352-6
       \endverb
     \endentry
+    \entry{dnmt_enzymes}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=90f4cb2922e199a593cdaee0d4c3f20d}{%
+           family={Jin},
+           familyi={J\bibinitperiod},
+           given={Bilian},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=36e2db9c7a29bbdca5b1534c7c142671}{%
+           family={Robertson},
+           familyi={R\bibinitperiod},
+           given={Keith\bibnamedelima D},
+           giveni={K\bibinitperiod\bibinitdelim D\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{cf9a57ce9311b861740d0458814b4d77}
+      \strng{fullhash}{cf9a57ce9311b861740d0458814b4d77}
+      \strng{bibnamehash}{cf9a57ce9311b861740d0458814b4d77}
+      \strng{authorbibnamehash}{cf9a57ce9311b861740d0458814b4d77}
+      \strng{authornamehash}{cf9a57ce9311b861740d0458814b4d77}
+      \strng{authorfullhash}{cf9a57ce9311b861740d0458814b4d77}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The maintenance DNA methyltransferase (DNMT) 1 and the de novo methyltransferases DNMT3A and DNMT3B are all essential for mammalian development. DNA methylation, catalyzed by the DNMTs, plays an important role in maintaining genome stability. Aberrant expression of DNMTs and disruption of DNA methylation patterns are closely associated with many forms of cancer, although the exact mechanisms underlying this link remain elusive. DNA damage repair systems have evolved to act as a genome-wide surveillance mechanism to maintain chromosome integrity by recognizing and repairing both exogenous and endogenous DNA insults. Impairment of these systems gives rise to mutations and directly contributes to tumorigenesis. Evidence is mounting for a direct link between DNMTs, DNA methylation, and DNA damage repair systems, which provide new insight into the development of cancer. Like tumor suppressor genes, an array of DNA repair genes frequently sustain promoter hypermethylation in a variety of tumors. In addition, DNMT1, but not the DNMT3s, appear to function coordinately with DNA damage repair pathways to protect cells from sustaining mutagenic events, which is very likely through a DNA methylation-independent mechanism. This chapter is focused on reviewing the links between DNA methylation and the DNA damage response.}
+      \field{journaltitle}{Adv. Exp. Med. Biol.}
+      \field{title}{{DNA} methyltransferases, {DNA} damage repair, and cancer}
+      \field{volume}{754}
+      \field{year}{2013}
+      \field{pages}{3\bibrangedash 29}
+      \range{pages}{27}
+    \endentry
+    \entry{dnmt}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=36e2db9c7a29bbdca5b1534c7c142671}{%
+           family={Robertson},
+           familyi={R\bibinitperiod},
+           given={Keith\bibnamedelima D},
+           giveni={K\bibinitperiod\bibinitdelim D\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \list{publisher}{2}{%
+        {Springer Science}%
+        {Business Media LLC}%
+      }
+      \strng{namehash}{36e2db9c7a29bbdca5b1534c7c142671}
+      \strng{fullhash}{36e2db9c7a29bbdca5b1534c7c142671}
+      \strng{bibnamehash}{36e2db9c7a29bbdca5b1534c7c142671}
+      \strng{authorbibnamehash}{36e2db9c7a29bbdca5b1534c7c142671}
+      \strng{authornamehash}{36e2db9c7a29bbdca5b1534c7c142671}
+      \strng{authorfullhash}{36e2db9c7a29bbdca5b1534c7c142671}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{DNA methylation is a crucial epigenetic modification of the genome that is involved in regulating many cellular processes. These include embryonic development, transcription, chromatin structure, X chromosome inactivation, genomic imprinting and chromosome stability. Consistent with these important roles, a growing number of human diseases have been found to be associated with aberrant DNA methylation. The study of these diseases has provided new and fundamental insights into the roles that DNA methylation and other epigenetic modifications have in development and normal cellular homeostasis.}
+      \field{journaltitle}{Nat. Rev. Genet.}
+      \field{month}{8}
+      \field{number}{8}
+      \field{title}{{DNA} methylation and human disease}
+      \field{volume}{6}
+      \field{year}{2005}
+      \field{pages}{597\bibrangedash 610}
+      \range{pages}{14}
+    \endentry
+    \entry{tet}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=20f257e9eefd23af0f3e7d32d7ece48c}{%
+           family={Pastor},
+           familyi={P\bibinitperiod},
+           given={William\bibnamedelima A},
+           giveni={W\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e4589bf93bf197cec9bec3c9ad81ca77}{%
+           family={Aravind},
+           familyi={A\bibinitperiod},
+           given={L},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7a6f6a5e65ac560faf78683e552eae1a}{%
+           family={Rao},
+           familyi={R\bibinitperiod},
+           given={Anjana},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \list{publisher}{2}{%
+        {Springer Science}%
+        {Business Media LLC}%
+      }
+      \strng{namehash}{30d48f4eaf2e9b0d92e6ae123f4d730f}
+      \strng{fullhash}{30d48f4eaf2e9b0d92e6ae123f4d730f}
+      \strng{bibnamehash}{30d48f4eaf2e9b0d92e6ae123f4d730f}
+      \strng{authorbibnamehash}{30d48f4eaf2e9b0d92e6ae123f4d730f}
+      \strng{authornamehash}{30d48f4eaf2e9b0d92e6ae123f4d730f}
+      \strng{authorfullhash}{30d48f4eaf2e9b0d92e6ae123f4d730f}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{In many organisms, the methylation of cytosine in DNA has a key role in silencing 'parasitic' DNA elements, regulating transcription and establishing cellular identity. The recent discovery that ten-eleven translocation (TET) proteins are 5-methylcytosine oxidases has provided several chemically plausible pathways for the reversal of DNA methylation, thus triggering a paradigm shift in our understanding of how changes in DNA methylation are coupled to cell differentiation, embryonic development and cancer.}
+      \field{journaltitle}{Nat. Rev. Mol. Cell Biol.}
+      \field{month}{6}
+      \field{number}{6}
+      \field{title}{{TETonic} shift: biological roles of {TET} proteins in {DNA} demethylation and transcription}
+      \field{volume}{14}
+      \field{year}{2013}
+      \field{pages}{341\bibrangedash 356}
+      \range{pages}{16}
+    \endentry
+    \entry{demeth}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=590eac504c8245d0573636092b85d21f}{%
+           family={Kohli},
+           familyi={K\bibinitperiod},
+           given={Rahul\bibnamedelima M},
+           giveni={R\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=1,uniquepart=given,hash=f4db9373a5ba3555eac8a45bcd339479}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Yi},
+           giveni={Y\bibinitperiod},
+           givenun=1}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \list{publisher}{2}{%
+        {Springer Science}%
+        {Business Media LLC}%
+      }
+      \strng{namehash}{4ddde130e9f42e85d28050bd8bb35506}
+      \strng{fullhash}{4ddde130e9f42e85d28050bd8bb35506}
+      \strng{bibnamehash}{4ddde130e9f42e85d28050bd8bb35506}
+      \strng{authorbibnamehash}{4ddde130e9f42e85d28050bd8bb35506}
+      \strng{authornamehash}{4ddde130e9f42e85d28050bd8bb35506}
+      \strng{authorfullhash}{4ddde130e9f42e85d28050bd8bb35506}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{DNA methylation has a profound impact on genome stability, transcription and development. Although enzymes that catalyse DNA methylation have been well characterized, those that are involved in methyl group removal have remained elusive, until recently. The transformative discovery that ten-eleven translocation (TET) family enzymes can oxidize 5-methylcytosine has greatly advanced our understanding of DNA demethylation. 5-Hydroxymethylcytosine is a key nexus in demethylation that can either be passively depleted through DNA replication or actively reverted to cytosine through iterative oxidation and thymine DNA glycosylase (TDG)-mediated base excision repair. Methylation, oxidation and repair now offer a model for a complete cycle of dynamic cytosine modification, with mounting evidence for its significance in the biological processes known to involve active demethylation.}
+      \field{journaltitle}{Nature}
+      \field{month}{10}
+      \field{number}{7472}
+      \field{title}{{TET} enzymes, {TDG} and the dynamics of {DNA} demethylation}
+      \field{volume}{502}
+      \field{year}{2013}
+      \field{pages}{472\bibrangedash 479}
+      \range{pages}{8}
+    \endentry
+    \entry{meth_p53}{article}{}
+      \name{author}{2}{}{%
+        {{un=2,uniquepart=given,hash=08ae9c78962653bcf7b55b00a7c4d354}{%
+           family={Jones},
+           familyi={J\bibinitperiod},
+           given={Peter\bibnamedelima A},
+           giveni={P\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=2}}%
+        {{un=0,uniquepart=base,hash=41a2a29cf7a1d7154da0238a4949fad5}{%
+           family={Baylin},
+           familyi={B\bibinitperiod},
+           given={Stephen\bibnamedelima B},
+           giveni={S\bibinitperiod\bibinitdelim B\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \list{publisher}{2}{%
+        {Springer Science}%
+        {Business Media LLC}%
+      }
+      \strng{namehash}{33ea79e9800bc3ddd8bdc9b53dc9a604}
+      \strng{fullhash}{33ea79e9800bc3ddd8bdc9b53dc9a604}
+      \strng{bibnamehash}{33ea79e9800bc3ddd8bdc9b53dc9a604}
+      \strng{authorbibnamehash}{33ea79e9800bc3ddd8bdc9b53dc9a604}
+      \strng{authornamehash}{33ea79e9800bc3ddd8bdc9b53dc9a604}
+      \strng{authorfullhash}{33ea79e9800bc3ddd8bdc9b53dc9a604}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Patterns of DNA methylation and chromatin structure are profoundly altered in neoplasia and include genome-wide losses of, and regional gains in, DNA methylation. The recent explosion in our knowledge of how chromatin organization modulates gene transcription has further highlighted the importance of epigenetic mechanisms in the initiation and progression of human cancer. These epigenetic changes -- in particular, aberrant promoter hypermethylation that is associated with inappropriate gene silencing -- affect virtually every step in tumour progression. In this review, we discuss these epigenetic events and the molecular alterations that might cause them and/or underlie altered gene expression in cancer.}
+      \field{journaltitle}{Nat. Rev. Genet.}
+      \field{month}{6}
+      \field{number}{6}
+      \field{title}{The fundamental role of epigenetic events in cancer}
+      \field{volume}{3}
+      \field{year}{2002}
+      \field{pages}{415\bibrangedash 428}
+      \range{pages}{14}
+    \endentry
+    \entry{cgi}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=2a628f44210194ea8f442522a7cf4511}{%
+           family={Gardiner-Garden},
+           familyi={G\bibinithyphendelim G\bibinitperiod},
+           given={M},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=157fbbc3b34da3621a80f3cc6061c97f}{%
+           family={Frommer},
+           familyi={F\bibinitperiod},
+           given={M},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier BV}%
+      }
+      \strng{namehash}{d820499da0f98e9d635400ec34d278d3}
+      \strng{fullhash}{d820499da0f98e9d635400ec34d278d3}
+      \strng{bibnamehash}{d820499da0f98e9d635400ec34d278d3}
+      \strng{authorbibnamehash}{d820499da0f98e9d635400ec34d278d3}
+      \strng{authornamehash}{d820499da0f98e9d635400ec34d278d3}
+      \strng{authorfullhash}{d820499da0f98e9d635400ec34d278d3}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Although vertebrate DNA is generally depleted in the dinucleotide CpG, it has recently been shown that some vertebrate genes contain CpG islands, regions of DNA with a high G+C content and a high frequency of CpG dinucleotides relative to the bulk genome. In this study, a large number of sequences of vertebrate genes were screened for the presence of CpG islands. Each CpG island was then analysed in terms of length, nucleotide composition, frequency of CpG dinucleotides, and location relative to the transcription unit of the associated gene. CpG islands were associated with the 5' ends of all housekeeping genes and many tissue-specific genes, and with the 3' ends of some tissue-specific genes. A few genes contained both 5' and 3' CpG islands, separated by several thousand base-pairs of CpG-depleted DNA. The 5' CpG islands extended through 5'-flanking DNA, exons and introns, whereas most of the 3' CpG islands appeared to be associated with exons. CpG islands were generally found in the same position relative to the transcription unit of equivalent genes in different species, with some notable exceptions. The locations of G/C boxes, composed of the sequence GGGCGG or its reverse complement CCGCCC, were investigated relative to the location of CpG islands. G/C boxes were found to be rare in CpG-depleted DNA and plentiful in CpG islands, where they occurred in 3' CpG islands, as well as in 5' CpG islands associated with tissue-specific and housekeeping genes. G/C boxes were located both upstream and downstream from the transcription start site of genes with 5' CpG islands. Thus, G/C boxes appeared to be a feature of CpG islands in general, rather than a feature of the promoter region of housekeeping genes. Two theories for the maintenance of a high frequency of CpG dinucleotides in CpG islands were tested: that CpG islands in methylated genomes are maintained, despite a tendency for 5mCpG to mutate by deamination to TpG+CpA, by the structural stability of a high G+C content alone, and that CpG islands associated with exons result from some selective importance of the arginine codon CGX. Neither of these theories could account for the distribution of CpG dinucleotides in the sequences analysed. Possible functions of CpG islands in transcriptional and post-transcriptional regulation of gene expression were discussed, and were related to theories for the maintenance of CpG islands as ``methylation-free zones'' in germline DNA.}
+      \field{journaltitle}{J. Mol. Biol.}
+      \field{month}{7}
+      \field{number}{2}
+      \field{title}{{CpG} islands in vertebrate genomes}
+      \field{volume}{196}
+      \field{year}{1987}
+      \field{pages}{261\bibrangedash 282}
+      \range{pages}{22}
+    \endentry
+    \entry{cgi2}{article}{}
+      \name{author}{13}{}{%
+        {{un=0,uniquepart=base,hash=9dde7613621b4b8acb3b50ffa5ed1e38}{%
+           family={Meissner},
+           familyi={M\bibinitperiod},
+           given={Alexander},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0d6b974a93a2e5f003bac64b3229df82}{%
+           family={Mikkelsen},
+           familyi={M\bibinitperiod},
+           given={Tarjei\bibnamedelima S},
+           giveni={T\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8cfd32ea1ab85b6cedda9db90972e032}{%
+           family={Gu},
+           familyi={G\bibinitperiod},
+           given={Hongcang},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b0411e17e26c22c4ca755470e12824f3}{%
+           family={Wernig},
+           familyi={W\bibinitperiod},
+           given={Marius},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a4cc6b08300e806727e822c8c3e54f0a}{%
+           family={Hanna},
+           familyi={H\bibinitperiod},
+           given={Jacob},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c6b3cb2bba6bb92cbeb3362d7d863c6a}{%
+           family={Sivachenko},
+           familyi={S\bibinitperiod},
+           given={Andrey},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=617e1823c3a52470863101944fa8e271}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Xiaolan},
+           giveni={X\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b1492fc9a6dad81cfb914cab0699b4cd}{%
+           family={Bernstein},
+           familyi={B\bibinitperiod},
+           given={Bradley\bibnamedelima E},
+           giveni={B\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=62906b245bcf166af3723a13f3db6595}{%
+           family={Nusbaum},
+           familyi={N\bibinitperiod},
+           given={Chad},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d0cab153aa79a207f7fc73922b344981}{%
+           family={Jaffe},
+           familyi={J\bibinitperiod},
+           given={David\bibnamedelima B},
+           giveni={D\bibinitperiod\bibinitdelim B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f53c256d9e569f0fff3e0f1203b33b0e}{%
+           family={Gnirke},
+           familyi={G\bibinitperiod},
+           given={Andreas},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8818ffbe614f33195f950be26ec63ca4}{%
+           family={Jaenisch},
+           familyi={J\bibinitperiod},
+           given={Rudolf},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b16d2d23aa89e27b5cb22911d6395e73}{%
+           family={Lander},
+           familyi={L\bibinitperiod},
+           given={Eric\bibnamedelima S},
+           giveni={E\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \list{publisher}{2}{%
+        {Springer Science}%
+        {Business Media LLC}%
+      }
+      \strng{namehash}{3cbfe171df6be486b9e92d960a7d41fd}
+      \strng{fullhash}{f39929ec4dd97de8a9d6ad50a94e11da}
+      \strng{bibnamehash}{3cbfe171df6be486b9e92d960a7d41fd}
+      \strng{authorbibnamehash}{3cbfe171df6be486b9e92d960a7d41fd}
+      \strng{authornamehash}{3cbfe171df6be486b9e92d960a7d41fd}
+      \strng{authorfullhash}{f39929ec4dd97de8a9d6ad50a94e11da}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{DNA methylation is essential for normal development and has been implicated in many pathologies including cancer. Our knowledge about the genome-wide distribution of DNA methylation, how it changes during cellular differentiation and how it relates to histone methylation and other chromatin modifications in mammals remains limited. Here we report the generation and analysis of genome-scale DNA methylation profiles at nucleotide resolution in mammalian cells. Using high-throughput reduced representation bisulphite sequencing and single-molecule-based sequencing, we generated DNA methylation maps covering most CpG islands, and a representative sampling of conserved non-coding elements, transposons and other genomic features, for mouse embryonic stem cells, embryonic-stem-cell-derived and primary neural cells, and eight other primary tissues. Several key findings emerge from the data. First, DNA methylation patterns are better correlated with histone methylation patterns than with the underlying genome sequence context. Second, methylation of CpGs are dynamic epigenetic marks that undergo extensive changes during cellular differentiation, particularly in regulatory regions outside of core promoters. Third, analysis of embryonic-stem-cell-derived and primary cells reveals that 'weak' CpG islands associated with a specific set of developmentally regulated genes undergo aberrant hypermethylation during extended proliferation in vitro, in a pattern reminiscent of that reported in some primary tumours. More generally, the results establish reduced representation bisulphite sequencing as a powerful technology for epigenetic profiling of cell populations relevant to developmental biology, cancer and regenerative medicine.}
+      \field{journaltitle}{Nature}
+      \field{month}{8}
+      \field{number}{7205}
+      \field{title}{Genome-scale {DNA} methylation maps of pluripotent and differentiated cells}
+      \field{volume}{454}
+      \field{year}{2008}
+      \field{pages}{766\bibrangedash 770}
+      \range{pages}{5}
+    \endentry
+    \entry{cgi3}{article}{}
+      \name{author}{22}{}{%
+        {{un=0,uniquepart=base,hash=0d6b974a93a2e5f003bac64b3229df82}{%
+           family={Mikkelsen},
+           familyi={M\bibinitperiod},
+           given={Tarjei\bibnamedelima S},
+           giveni={T\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7ddaeaceb525bb00cd6f8362547b0ffd}{%
+           family={Ku},
+           familyi={K\bibinitperiod},
+           given={Manching},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d0cab153aa79a207f7fc73922b344981}{%
+           family={Jaffe},
+           familyi={J\bibinitperiod},
+           given={David\bibnamedelima B},
+           giveni={D\bibinitperiod\bibinitdelim B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ffc53abc0807455b1dbd5506c4b3f7e2}{%
+           family={Issac},
+           familyi={I\bibinitperiod},
+           given={Biju},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0aaffafd3309acaeecbfc70d1802b667}{%
+           family={Lieberman},
+           familyi={L\bibinitperiod},
+           given={Erez},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=fed61f1d87d94484e9d684362236552b}{%
+           family={Giannoukos},
+           familyi={G\bibinitperiod},
+           given={Georgia},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c104e7c55b06362d2128a2e215475bca}{%
+           family={Alvarez},
+           familyi={A\bibinitperiod},
+           given={Pablo},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4bc1f897db8152c29a36931f2f331de2}{%
+           family={Brockman},
+           familyi={B\bibinitperiod},
+           given={William},
+           giveni={W\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9337289eef43c5b89f9e40c5b58e5412}{%
+           family={Kim},
+           familyi={K\bibinitperiod},
+           given={Tae-Kyung},
+           giveni={T\bibinithyphendelim K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d6bd2d19a12983471416da576f88cda4}{%
+           family={Koche},
+           familyi={K\bibinitperiod},
+           given={Richard\bibnamedelima P},
+           giveni={R\bibinitperiod\bibinitdelim P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=604f10696ef6e0ad0315289704f87bd6}{%
+           family={Lee},
+           familyi={L\bibinitperiod},
+           given={William},
+           giveni={W\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=84842524e8acd52ebcea9a6c83ce6886}{%
+           family={Mendenhall},
+           familyi={M\bibinitperiod},
+           given={Eric},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7afd8a7e5a7fbdd76f2017cf055bcba8}{%
+           family={O'Donovan},
+           familyi={O\bibinitperiod},
+           given={Aisling},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2ce7f9dd4924927afc8d82c99c056058}{%
+           family={Presser},
+           familyi={P\bibinitperiod},
+           given={Aviva},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4a37153058f96bd5189af9d352f477f7}{%
+           family={Russ},
+           familyi={R\bibinitperiod},
+           given={Carsten},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=80995e442d7d89d8247316162a3e1945}{%
+           family={Xie},
+           familyi={X\bibinitperiod},
+           given={Xiaohui},
+           giveni={X\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9dde7613621b4b8acb3b50ffa5ed1e38}{%
+           family={Meissner},
+           familyi={M\bibinitperiod},
+           given={Alexander},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b0411e17e26c22c4ca755470e12824f3}{%
+           family={Wernig},
+           familyi={W\bibinitperiod},
+           given={Marius},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8818ffbe614f33195f950be26ec63ca4}{%
+           family={Jaenisch},
+           familyi={J\bibinitperiod},
+           given={Rudolf},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=62906b245bcf166af3723a13f3db6595}{%
+           family={Nusbaum},
+           familyi={N\bibinitperiod},
+           given={Chad},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b16d2d23aa89e27b5cb22911d6395e73}{%
+           family={Lander},
+           familyi={L\bibinitperiod},
+           given={Eric\bibnamedelima S},
+           giveni={E\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b1492fc9a6dad81cfb914cab0699b4cd}{%
+           family={Bernstein},
+           familyi={B\bibinitperiod},
+           given={Bradley\bibnamedelima E},
+           giveni={B\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \list{publisher}{2}{%
+        {Springer Science}%
+        {Business Media LLC}%
+      }
+      \strng{namehash}{66fa0ff3d840b5bb49b70b8e71134a60}
+      \strng{fullhash}{d61755cc8864d2d78a4ab6b155282ce8}
+      \strng{bibnamehash}{66fa0ff3d840b5bb49b70b8e71134a60}
+      \strng{authorbibnamehash}{66fa0ff3d840b5bb49b70b8e71134a60}
+      \strng{authornamehash}{66fa0ff3d840b5bb49b70b8e71134a60}
+      \strng{authorfullhash}{d61755cc8864d2d78a4ab6b155282ce8}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{We report the application of single-molecule-based sequencing technology for high-throughput profiling of histone modifications in mammalian cells. By obtaining over four billion bases of sequence from chromatin immunoprecipitated DNA, we generated genome-wide chromatin-state maps of mouse embryonic stem cells, neural progenitor cells and embryonic fibroblasts. We find that lysine 4 and lysine 27 trimethylation effectively discriminates genes that are expressed, poised for expression, or stably repressed, and therefore reflect cell state and lineage potential. Lysine 36 trimethylation marks primary coding and non-coding transcripts, facilitating gene annotation. Trimethylation of lysine 9 and lysine 20 is detected at satellite, telomeric and active long-terminal repeats, and can spread into proximal unique sequences. Lysine 4 and lysine 9 trimethylation marks imprinting control regions. Finally, we show that chromatin state can be read in an allele-specific manner by using single nucleotide polymorphisms. This study provides a framework for the application of comprehensive chromatin profiling towards characterization of diverse mammalian cell populations.}
+      \field{journaltitle}{Nature}
+      \field{month}{8}
+      \field{number}{7153}
+      \field{title}{Genome-wide maps of chromatin state in pluripotent and lineage-committed cells}
+      \field{volume}{448}
+      \field{year}{2007}
+      \field{pages}{553\bibrangedash 560}
+      \range{pages}{8}
+    \endentry
+    \entry{meth_chrom}{article}{}
+      \name{author}{27}{}{%
+        {{un=0,uniquepart=base,hash=3a7dba42b71de1b349df495d9f222fd9}{%
+           family={Eckhardt},
+           familyi={E\bibinitperiod},
+           given={Florian},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ede366fe8d5c003a69ef6b7e46387f1c}{%
+           family={Lewin},
+           familyi={L\bibinitperiod},
+           given={Joern},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=eb6e4631dec90fba6fafc364c94b27f6}{%
+           family={Cortese},
+           familyi={C\bibinitperiod},
+           given={Rene},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=382fdaf26e261f86da438d74a28a5337}{%
+           family={Rakyan},
+           familyi={R\bibinitperiod},
+           given={Vardhman\bibnamedelima K},
+           giveni={V\bibinitperiod\bibinitdelim K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=21c582a4f0d0d20b7049853968cdcf79}{%
+           family={Attwood},
+           familyi={A\bibinitperiod},
+           given={John},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=85dc1e8d4cc35f3405028fc9fdfaa704}{%
+           family={Burger},
+           familyi={B\bibinitperiod},
+           given={Matthias},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f4321218d206345f01e5997e25e42fc3}{%
+           family={Burton},
+           familyi={B\bibinitperiod},
+           given={John},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=54207d89a20f2202479551d560a91bb7}{%
+           family={Cox},
+           familyi={C\bibinitperiod},
+           given={Tony\bibnamedelima V},
+           giveni={T\bibinitperiod\bibinitdelim V\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=fc94a151f33661c6bd88d07b4ef023f7}{%
+           family={Davies},
+           familyi={D\bibinitperiod},
+           given={Rob},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8d96babb68fb2a8958911d8d3dc4f20e}{%
+           family={Down},
+           familyi={D\bibinitperiod},
+           given={Thomas\bibnamedelima A},
+           giveni={T\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6ccd7e784b4fc236e90ebfc8cd3e0a62}{%
+           family={Haefliger},
+           familyi={H\bibinitperiod},
+           given={Carolina},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0080f968729b22b5f1adc89c6a4dc9e7}{%
+           family={Horton},
+           familyi={H\bibinitperiod},
+           given={Roger},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=01bda5c026bc235c4c9f50adffdcbb80}{%
+           family={Howe},
+           familyi={H\bibinitperiod},
+           given={Kevin},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e259814a186f49da4c52677abad06c15}{%
+           family={Jackson},
+           familyi={J\bibinitperiod},
+           given={David\bibnamedelima K},
+           giveni={D\bibinitperiod\bibinitdelim K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=39e70c1b945222031de53477a7f567bf}{%
+           family={Kunde},
+           familyi={K\bibinitperiod},
+           given={Jan},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=689272a0fcde1817b10783fcd2c2bff5}{%
+           family={Koenig},
+           familyi={K\bibinitperiod},
+           given={Christoph},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=dfdbc806e61c670767d223397d7fa1fc}{%
+           family={Liddle},
+           familyi={L\bibinitperiod},
+           given={Jennifer},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0e5c9b142d92bbb6fa5e4b8f680310aa}{%
+           family={Niblett},
+           familyi={N\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b1725fd146fa4e15e2287dac20f5e214}{%
+           family={Otto},
+           familyi={O\bibinitperiod},
+           given={Thomas},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=69dc93099b975ad29c8f184056ab4a0c}{%
+           family={Pettett},
+           familyi={P\bibinitperiod},
+           given={Roger},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=69b679d457c3f3e54d9c498e2a89fa5d}{%
+           family={Seemann},
+           familyi={S\bibinitperiod},
+           given={Stefanie},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=da90f6c5040b4614f2486d979088ca67}{%
+           family={Thompson},
+           familyi={T\bibinitperiod},
+           given={Christian},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0a9a9f272d921cd0654bbb309232671c}{%
+           family={West},
+           familyi={W\bibinitperiod},
+           given={Tony},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b3bbb5d856a0caf0acb7d8ac8e67218d}{%
+           family={Rogers},
+           familyi={R\bibinitperiod},
+           given={Jane},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6157b632aa9b6147990a1aca20c960e4}{%
+           family={Olek},
+           familyi={O\bibinitperiod},
+           given={Alex},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=99f37864d322351c24c25c6240a32cde}{%
+           family={Berlin},
+           familyi={B\bibinitperiod},
+           given={Kurt},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5ed4e49521d41ef705639694dcfd2455}{%
+           family={Beck},
+           familyi={B\bibinitperiod},
+           given={Stephan},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \list{publisher}{2}{%
+        {Springer Science}%
+        {Business Media LLC}%
+      }
+      \strng{namehash}{775923f9fe495ded8d26fd2bbd3c037b}
+      \strng{fullhash}{3eedf15f9a7cdb3ac2e31d5c012508b5}
+      \strng{bibnamehash}{775923f9fe495ded8d26fd2bbd3c037b}
+      \strng{authorbibnamehash}{775923f9fe495ded8d26fd2bbd3c037b}
+      \strng{authornamehash}{775923f9fe495ded8d26fd2bbd3c037b}
+      \strng{authorfullhash}{3eedf15f9a7cdb3ac2e31d5c012508b5}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Nat. Genet.}
+      \field{month}{12}
+      \field{number}{12}
+      \field{title}{{DNA} methylation profiling of human chromosomes 6, 20 and 22}
+      \field{volume}{38}
+      \field{year}{2006}
+      \field{pages}{1378\bibrangedash 1385}
+      \range{pages}{8}
+    \endentry
     \entry{meth_cancer}{article}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=c584630261fd06b1d2b927734d68e88c}{%
@@ -6312,12 +7036,12 @@
            given={Jueng\bibnamedelima Soo},
            giveni={J\bibinitperiod\bibinitdelim S\bibinitperiod},
            givenun=0}}%
-        {{un=0,uniquepart=base,hash=08ae9c78962653bcf7b55b00a7c4d354}{%
+        {{un=2,uniquepart=given,hash=08ae9c78962653bcf7b55b00a7c4d354}{%
            family={Jones},
            familyi={J\bibinitperiod},
            given={Peter\bibnamedelima A.},
            giveni={P\bibinitperiod\bibinitdelim A\bibinitperiod},
-           givenun=0}}%
+           givenun=2}}%
       }
       \list{publisher}{1}{%
         {Elsevier BV}%
@@ -6328,8 +7052,8 @@
       \strng{authorbibnamehash}{b11d5bda2dd75a71ab728427d6c17f4c}
       \strng{authornamehash}{b11d5bda2dd75a71ab728427d6c17f4c}
       \strng{authorfullhash}{b11d5bda2dd75a71ab728427d6c17f4c}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \field{labelnamesource}{author}
@@ -6380,8 +7104,8 @@
       \strng{authorbibnamehash}{2c49090bb8d55062f61285c834d57e1c}
       \strng{authornamehash}{2c49090bb8d55062f61285c834d57e1c}
       \strng{authorfullhash}{2c49090bb8d55062f61285c834d57e1c}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \field{labelnamesource}{author}
@@ -6459,8 +7183,8 @@
       \strng{authorbibnamehash}{f095e3e259dcd9d00d6abe3d5ab90e85}
       \strng{authornamehash}{f095e3e259dcd9d00d6abe3d5ab90e85}
       \strng{authorfullhash}{635426ad56cbe902f7f098be1de343b5}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \field{labelnamesource}{author}
@@ -6496,8 +7220,8 @@
       \strng{authorbibnamehash}{caf945cedf9f57295a694d6e7c1a9386}
       \strng{authornamehash}{caf945cedf9f57295a694d6e7c1a9386}
       \strng{authorfullhash}{caf945cedf9f57295a694d6e7c1a9386}
-      \field{sortinit}{3}
-      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \field{labelnamesource}{author}
@@ -6538,8 +7262,8 @@
       \strng{authorbibnamehash}{b5701a6872d343802a59544a4c83be06}
       \strng{authornamehash}{b5701a6872d343802a59544a4c83be06}
       \strng{authorfullhash}{b5701a6872d343802a59544a4c83be06}
-      \field{sortinit}{3}
-      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \field{labelnamesource}{author}
@@ -6599,8 +7323,8 @@
       \strng{authorbibnamehash}{273a9af1a743ad2b73eefe5e16b949af}
       \strng{authornamehash}{273a9af1a743ad2b73eefe5e16b949af}
       \strng{authorfullhash}{ea6a6670ec665aae3539b1cf7bec8785}
-      \field{sortinit}{3}
-      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \field{labelnamesource}{author}
@@ -6657,8 +7381,8 @@
       \strng{authorbibnamehash}{e53c0df8aef709bf5270c9e1c7ac22e0}
       \strng{authornamehash}{e53c0df8aef709bf5270c9e1c7ac22e0}
       \strng{authorfullhash}{319957af7ebb94d350f83fca1e795a57}
-      \field{sortinit}{3}
-      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \field{labelnamesource}{author}
@@ -6709,8 +7433,8 @@
       \strng{authorbibnamehash}{e45aaea03400cb42750f0d48c5b82f7a}
       \strng{authornamehash}{e45aaea03400cb42750f0d48c5b82f7a}
       \strng{authorfullhash}{e45aaea03400cb42750f0d48c5b82f7a}
-      \field{sortinit}{3}
-      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \field{labelnamesource}{author}
@@ -6790,8 +7514,8 @@
       \strng{authorbibnamehash}{2ad0b7d19bf53b8f5442266a5613e499}
       \strng{authornamehash}{2ad0b7d19bf53b8f5442266a5613e499}
       \strng{authorfullhash}{fd10a4c1849ef00f9b341fef09876326}
-      \field{sortinit}{3}
-      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \field{labelnamesource}{author}
@@ -6845,8 +7569,8 @@
       \strng{authorbibnamehash}{a3e95bd2db70783cfd893af81ba1f27b}
       \strng{authornamehash}{a3e95bd2db70783cfd893af81ba1f27b}
       \strng{authorfullhash}{843d65f1c376927b377a1d30bf93a286}
-      \field{sortinit}{3}
-      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \field{labelnamesource}{author}
@@ -6909,8 +7633,8 @@
       \strng{authorbibnamehash}{99437e5c5dbea99b85cf5a42641070fb}
       \strng{authornamehash}{99437e5c5dbea99b85cf5a42641070fb}
       \strng{authorfullhash}{fb12f25e4a770dac72a7d44b456a6885}
-      \field{sortinit}{3}
-      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \field{labelnamesource}{author}
@@ -7058,8 +7782,8 @@
       \strng{authorbibnamehash}{f76c1b8b52b4aab688fb5fea8c091040}
       \strng{authornamehash}{f76c1b8b52b4aab688fb5fea8c091040}
       \strng{authorfullhash}{d29d09ede4cc350cfa86c14b9bc563a4}
-      \field{sortinit}{3}
-      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \field{labelnamesource}{author}
@@ -7158,8 +7882,8 @@
       \strng{authorbibnamehash}{f80c97e300d4387d2ebd0a9a5444d0fb}
       \strng{authornamehash}{f80c97e300d4387d2ebd0a9a5444d0fb}
       \strng{authorfullhash}{37a3bf842f43613136a8d61cc93caab7}
-      \field{sortinit}{4}
-      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \field{labelnamesource}{author}
