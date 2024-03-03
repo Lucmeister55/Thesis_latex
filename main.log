@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.17.0 (TeX Live 2023)  (format=lualatex 2024.3.2)  3 MAR 2024 19:07
+This is LuaHBTeX, Version 1.17.0 (TeX Live 2023)  (format=lualatex 2024.3.2)  3 MAR 2024 19:30
  restricted system commands enabled.
 **main.tex
 (./main.tex
@@ -1478,9 +1478,9 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [5]
 Package acronym Info: Label `acro:5mC' newly defined as it shall be overridden
-although it is yet undefined on input line 41.
+although it is yet undefined on input line 43.
 
-Overfull \hbox (0.11526pt too wide) in paragraph at lines 41--42
+Overfull \hbox (0.11526pt too wide) in paragraph at lines 43--44
 \TU/opensans(0)/m/n/12 that the am-i-na-tion re-ac-tions of cy-to-sine and [][]
 [][]5-methylcytosine ([])[] yield markedly
  []
@@ -1492,7 +1492,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 <Fig/ont_epi.png, id=428, 432.11438pt x 133.24782pt>
 File: Fig/ont_epi.png Graphic file (type png)
 <use Fig/ont_epi.png>
-Package luatex.def Info: Fig/ont_epi.png  used on input line 59.
+Package luatex.def Info: Fig/ont_epi.png  used on input line 61.
 (luatex.def)             Requested size: 455.24411pt x 140.38602pt.
 
 [8<./Fig/ont_epi.png>]) (./text/Aims.tex [9] [10
@@ -1558,8 +1558,14 @@ L3 programming layer <2024-02-20>
 
 LaTeX Warning: There were undefined references.
 
-Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: B9531CBF08B4AEB6A8B510E02960CD25;2574.
+
+Package rerunfilecheck Warning: File `main.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `main.out':
+(rerunfilecheck)             Before: B9531CBF08B4AEB6A8B510E02960CD25;2574
+(rerunfilecheck)             After:  260FF21B66C033179F4105F0D5596B76;2579.
 Package logreq Info: Writing requests to 'main.run.xml'.
 
 \openout1 = main.run.xml
@@ -1579,7 +1585,7 @@ Here is how much of LuaTeX's memory you used:
 xlive/2023/texmf-dist/fonts/truetype/ascender/opensans/OpenSans-Italic.ttf><d:/t
 exlive/2023/texmf-dist/fonts/truetype/ascender/opensans/OpenSans-Bold.ttf><d:/te
 xlive/2023/texmf-dist/fonts/truetype/ascender/opensans/OpenSans-Regular.ttf>
-Output written on main.pdf (43 pages, 453928 bytes).
+Output written on main.pdf (43 pages, 453920 bytes).
 
 PDF statistics: 671 PDF objects out of 1000 (max. 8388607)
  563 compressed objects within 6 object streams
