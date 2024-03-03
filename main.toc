@@ -1,18 +1,19 @@
 \contentsline {chapter}{Preface}{v}{chapter*.1}%
 \contentsline {chapter}{\numberline {1}Abstract}{1}{chapter.1}%
 \contentsline {chapter}{\numberline {2}Introduction}{3}{chapter.2}%
-\contentsline {section}{\numberline {2.1}The occurrence of ferroptosis}{3}{section.2.1}%
-\contentsline {section}{\numberline {2.2}Ferroptosis in cancer therapy}{5}{section.2.2}%
-\contentsline {section}{\numberline {2.3}Oxford Nanopore Episequencing}{5}{section.2.3}%
-\contentsline {chapter}{\numberline {3}Aims}{7}{chapter.3}%
-\contentsline {chapter}{\numberline {4}Methods}{9}{chapter.4}%
-\contentsline {section}{\numberline {4.1}Introduction}{9}{section.4.1}%
-\contentsline {section}{\numberline {4.2}Samples}{10}{section.4.2}%
-\contentsline {section}{\numberline {4.3}Gene Whitelist}{10}{section.4.3}%
-\contentsline {section}{\numberline {4.4}RNA-seq}{10}{section.4.4}%
-\contentsline {section}{\numberline {4.5}ONT-seq}{10}{section.4.5}%
-\contentsline {section}{\numberline {4.6}Differential Gene Expression Analysis}{11}{section.4.6}%
-\contentsline {section}{\numberline {4.7}Feature Reduction}{11}{section.4.7}%
-\contentsline {chapter}{\numberline {5}Results}{13}{chapter.5}%
-\contentsline {chapter}{\numberline {6}Discussion}{15}{chapter.6}%
-\contentsline {chapter}{\numberline {A}Appendix}{17}{appendix.A}%
+\contentsline {section}{\numberline {2.1}The Occurrence of Ferroptosis}{3}{section.2.1}%
+\contentsline {section}{\numberline {2.2}The Prospect of Ferroptosis in Cancer Therapy}{5}{section.2.2}%
+\contentsline {section}{\numberline {2.3}The Role of DNA Methylation in Cancer}{6}{section.2.3}%
+\contentsline {section}{\numberline {2.4}DNA Methylation Detection Techniques}{6}{section.2.4}%
+\contentsline {chapter}{\numberline {3}Aims}{11}{chapter.3}%
+\contentsline {chapter}{\numberline {4}Methods}{13}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Introduction}{13}{section.4.1}%
+\contentsline {section}{\numberline {4.2}Samples}{14}{section.4.2}%
+\contentsline {section}{\numberline {4.3}Gene Whitelist}{14}{section.4.3}%
+\contentsline {section}{\numberline {4.4}RNA-seq}{14}{section.4.4}%
+\contentsline {section}{\numberline {4.5}ONT-seq}{14}{section.4.5}%
+\contentsline {section}{\numberline {4.6}Differential Gene Expression Analysis}{15}{section.4.6}%
+\contentsline {section}{\numberline {4.7}Feature Reduction}{15}{section.4.7}%
+\contentsline {chapter}{\numberline {5}Results}{17}{chapter.5}%
+\contentsline {chapter}{\numberline {6}Discussion}{19}{chapter.6}%
+\contentsline {chapter}{\numberline {A}Appendix}{21}{appendix.A}%

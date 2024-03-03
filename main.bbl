@@ -6134,6 +6134,486 @@
       \verb http://dx.doi.org/10.1186/s12943-022-01530-y
       \endverb
     \endentry
+    \entry{p53}{article}{}
+      \name{author}{8}{}{%
+        {{un=0,uniquepart=base,hash=911a175440312c8b0d17175c646aa298}{%
+           family={Jiang},
+           familyi={J\bibinitperiod},
+           given={Le},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=104146d2806d029cb6fb016233b4410e}{%
+           family={Kon},
+           familyi={K\bibinitperiod},
+           given={Ning},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3b51a6cae85085fb25b4cb17a96ea900}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Tongyuan},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b725f6edd1e252e6021bc970ca96b724}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Shang-Jui},
+           giveni={S\bibinithyphendelim J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4ffeed742aedff0a56d14e2675001522}{%
+           family={Su},
+           familyi={S\bibinitperiod},
+           given={Tao},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=bf3ca0ff95d8a258e47bcbde7cd60ee9}{%
+           family={Hibshoosh},
+           familyi={H\bibinitperiod},
+           given={Hanina},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a1f425ad0ed146e6154220b604627f28}{%
+           family={Baer},
+           familyi={B\bibinitperiod},
+           given={Richard},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=696af0f4cf091320a42e0ee90fd1a6a0}{%
+           family={Gu},
+           familyi={G\bibinitperiod},
+           given={Wei},
+           giveni={W\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{2}{%
+        {Springer Science}%
+        {Business Media LLC}%
+      }
+      \strng{namehash}{a244cad6488831c17cf55fc323864b53}
+      \strng{fullhash}{af9048e555113261ca74fa62b13657f0}
+      \strng{bibnamehash}{a244cad6488831c17cf55fc323864b53}
+      \strng{authorbibnamehash}{a244cad6488831c17cf55fc323864b53}
+      \strng{authornamehash}{a244cad6488831c17cf55fc323864b53}
+      \strng{authorfullhash}{af9048e555113261ca74fa62b13657f0}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{1476-4687}
+      \field{journaltitle}{Nature}
+      \field{month}{3}
+      \field{number}{7545}
+      \field{title}{Ferroptosis as a p53-mediated activity during tumour suppression}
+      \field{volume}{520}
+      \field{year}{2015}
+      \field{pages}{57\bibrangedash 62}
+      \range{pages}{6}
+      \verb{doi}
+      \verb 10.1038/nature14344
+      \endverb
+      \verb{urlraw}
+      \verb http://dx.doi.org/10.1038/nature14344
+      \endverb
+      \verb{url}
+      \verb http://dx.doi.org/10.1038/nature14344
+      \endverb
+    \endentry
+    \entry{ferro_res}{article}{}
+      \name{author}{8}{}{%
+        {{un=0,uniquepart=base,hash=d2f7fd6776c2cd943da3b024cd30e114}{%
+           family={Yang},
+           familyi={Y\bibinitperiod},
+           given={Cuixia},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e066175f85c0a9f2572023841f62ebc2}{%
+           family={He},
+           familyi={H\bibinitperiod},
+           given={Linyan},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d2435e196798ae6e6b40bb3d9dd6baa6}{%
+           family={He},
+           familyi={H\bibinitperiod},
+           given={Pingqing},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=32b922ddfcc61eed31e7e99e697143b9}{%
+           family={Liu},
+           familyi={L\bibinitperiod},
+           given={Yiwen},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8e88bfa4c3b3cd6b221cc90769bef2f4}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Wenjuan},
+           giveni={W\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ab13155e54d3c939d6d51bb2a70261f6}{%
+           family={He},
+           familyi={H\bibinitperiod},
+           given={Yiqing},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=81cce0fcabcdae5aa49e07548d22eeca}{%
+           family={Du},
+           familyi={D\bibinitperiod},
+           given={Yan},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c8c5bb9f8ba6ff0df0521ea75cae9bda}{%
+           family={Gao},
+           familyi={G\bibinitperiod},
+           given={Feng},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{2}{%
+        {Springer Science}%
+        {Business Media LLC}%
+      }
+      \strng{namehash}{b142205b39428d2f34c57a57557b624b}
+      \strng{fullhash}{aa79d33a7b4030b39c29d07ecd84f9ed}
+      \strng{bibnamehash}{b142205b39428d2f34c57a57557b624b}
+      \strng{authorbibnamehash}{b142205b39428d2f34c57a57557b624b}
+      \strng{authornamehash}{b142205b39428d2f34c57a57557b624b}
+      \strng{authorfullhash}{aa79d33a7b4030b39c29d07ecd84f9ed}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{1559-131X}
+      \field{journaltitle}{Medical Oncology}
+      \field{month}{1}
+      \field{number}{2}
+      \field{title}{Increased drug resistance in breast cancer by tumor-associated macrophages through IL-10/STAT3/bcl-2 signaling pathway}
+      \field{volume}{32}
+      \field{year}{2015}
+      \verb{doi}
+      \verb 10.1007/s12032-014-0352-6
+      \endverb
+      \verb{urlraw}
+      \verb http://dx.doi.org/10.1007/s12032-014-0352-6
+      \endverb
+      \verb{url}
+      \verb http://dx.doi.org/10.1007/s12032-014-0352-6
+      \endverb
+    \endentry
+    \entry{meth_cancer}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=c584630261fd06b1d2b927734d68e88c}{%
+           family={You},
+           familyi={Y\bibinitperiod},
+           given={Jueng\bibnamedelima Soo},
+           giveni={J\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=08ae9c78962653bcf7b55b00a7c4d354}{%
+           family={Jones},
+           familyi={J\bibinitperiod},
+           given={Peter\bibnamedelima A.},
+           giveni={P\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier BV}%
+      }
+      \strng{namehash}{b11d5bda2dd75a71ab728427d6c17f4c}
+      \strng{fullhash}{b11d5bda2dd75a71ab728427d6c17f4c}
+      \strng{bibnamehash}{b11d5bda2dd75a71ab728427d6c17f4c}
+      \strng{authorbibnamehash}{b11d5bda2dd75a71ab728427d6c17f4c}
+      \strng{authornamehash}{b11d5bda2dd75a71ab728427d6c17f4c}
+      \strng{authorfullhash}{b11d5bda2dd75a71ab728427d6c17f4c}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{1535-6108}
+      \field{journaltitle}{Cancer Cell}
+      \field{month}{7}
+      \field{number}{1}
+      \field{title}{Cancer Genetics and Epigenetics: Two Sides of the Same Coin?}
+      \field{volume}{22}
+      \field{year}{2012}
+      \field{pages}{9\bibrangedash 20}
+      \range{pages}{12}
+      \verb{doi}
+      \verb 10.1016/j.ccr.2012.06.008
+      \endverb
+      \verb{urlraw}
+      \verb http://dx.doi.org/10.1016/j.ccr.2012.06.008
+      \endverb
+      \verb{url}
+      \verb http://dx.doi.org/10.1016/j.ccr.2012.06.008
+      \endverb
+    \endentry
+    \entry{meth_cancer2}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=9c8b741d2c8c28b13b59cd96340147de}{%
+           family={Hanahan},
+           familyi={H\bibinitperiod},
+           given={Douglas},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=210950b656205c0ffb9448f44441751d}{%
+           family={Weinberg},
+           familyi={W\bibinitperiod},
+           given={Robert\bibnamedelima A},
+           giveni={R\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier BV}%
+      }
+      \strng{namehash}{2c49090bb8d55062f61285c834d57e1c}
+      \strng{fullhash}{2c49090bb8d55062f61285c834d57e1c}
+      \strng{bibnamehash}{2c49090bb8d55062f61285c834d57e1c}
+      \strng{authorbibnamehash}{2c49090bb8d55062f61285c834d57e1c}
+      \strng{authornamehash}{2c49090bb8d55062f61285c834d57e1c}
+      \strng{authorfullhash}{2c49090bb8d55062f61285c834d57e1c}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The hallmarks of cancer comprise six biological capabilities acquired during the multistep development of human tumors. The hallmarks constitute an organizing principle for rationalizing the complexities of neoplastic disease. They include sustaining proliferative signaling, evading growth suppressors, resisting cell death, enabling replicative immortality, inducing angiogenesis, and activating invasion and metastasis. Underlying these hallmarks are genome instability, which generates the genetic diversity that expedites their acquisition, and inflammation, which fosters multiple hallmark functions. Conceptual progress in the last decade has added two emerging hallmarks of potential generality to this list-reprogramming of energy metabolism and evading immune destruction. In addition to cancer cells, tumors exhibit another dimension of complexity: they contain a repertoire of recruited, ostensibly normal cells that contribute to the acquisition of hallmark traits by creating the ``tumor microenvironment.'' Recognition of the widespread applicability of these concepts will increasingly affect the development of new means to treat human cancer.}
+      \field{journaltitle}{Cell}
+      \field{month}{3}
+      \field{number}{5}
+      \field{title}{Hallmarks of cancer: the next generation}
+      \field{volume}{144}
+      \field{year}{2011}
+      \field{pages}{646\bibrangedash 674}
+      \range{pages}{29}
+    \endentry
+    \entry{bisulfite_ori}{article}{}
+      \name{author}{8}{}{%
+        {{un=0,uniquepart=base,hash=157fbbc3b34da3621a80f3cc6061c97f}{%
+           family={Frommer},
+           familyi={F\bibinitperiod},
+           given={M},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5442f09aa5f8c49ef8c076b40a8569e6}{%
+           family={McDonald},
+           familyi={M\bibinitperiod},
+           given={L\bibnamedelima E},
+           giveni={L\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=065c3905539664a2bbaa246d6febf1fc}{%
+           family={Millar},
+           familyi={M\bibinitperiod},
+           given={D\bibnamedelima S},
+           giveni={D\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f58fdfad8c6b29ddf8500901d9d6f654}{%
+           family={Collis},
+           familyi={C\bibinitperiod},
+           given={C\bibnamedelima M},
+           giveni={C\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f27532cbbd06167efc9675552c1d3cee}{%
+           family={Watt},
+           familyi={W\bibinitperiod},
+           given={F},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=dc85af5767257da1e761fc15ab7b3add}{%
+           family={Grigg},
+           familyi={G\bibinitperiod},
+           given={G\bibnamedelima W},
+           giveni={G\bibinitperiod\bibinitdelim W\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6b6582701beeb591ee24229a23bb46ee}{%
+           family={Molloy},
+           familyi={M\bibinitperiod},
+           given={P\bibnamedelima L},
+           giveni={P\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6f1240ba3ab88a2995cad475bd7542dc}{%
+           family={Paul},
+           familyi={P\bibinitperiod},
+           given={C\bibnamedelima L},
+           giveni={C\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \list{publisher}{1}{%
+        {Proceedings of the National Academy of Sciences}%
+      }
+      \strng{namehash}{f095e3e259dcd9d00d6abe3d5ab90e85}
+      \strng{fullhash}{635426ad56cbe902f7f098be1de343b5}
+      \strng{bibnamehash}{f095e3e259dcd9d00d6abe3d5ab90e85}
+      \strng{authorbibnamehash}{f095e3e259dcd9d00d6abe3d5ab90e85}
+      \strng{authornamehash}{f095e3e259dcd9d00d6abe3d5ab90e85}
+      \strng{authorfullhash}{635426ad56cbe902f7f098be1de343b5}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The modulation of DNA-protein interactions by methylation of protein-binding sites in DNA and the occurrence in genomic imprinting, X chromosome inactivation, and fragile X syndrome of different methylation patterns in DNA of different chromosomal origin have underlined the need to establish methylation patterns in individual strands of particular genomic sequences. We report a genomic sequencing method that provides positive identification of 5-methylcytosine residues and yields strand-specific sequences of individual molecules in genomic DNA. The method utilizes bisulfite-induced modification of genomic DNA, under conditions whereby cytosine is converted to uracil, but 5-methylcytosine remains nonreactive. The sequence under investigation is then amplified by PCR with two sets of strand-specific primers to yield a pair of fragments, one from each strand, in which all uracil and thymine residues have been amplified as thymine and only 5-methylcytosine residues have been amplified as cytosine. The PCR products can be sequenced directly to provide a strand-specific average sequence for the population of molecules or can be cloned and sequenced to provide methylation maps of single DNA molecules. We tested the method by defining the methylation status within single DNA strands of two closely spaced CpG dinucleotides in the promoter of the human kininogen gene. During the analysis, we encountered in sperm DNA an unusual methylation pattern, which suggests that the high methylation level of single-copy sequences in sperm may be locally modulated by binding of protein factors in germ-line cells.}
+      \field{journaltitle}{Proc. Natl. Acad. Sci. U. S. A.}
+      \field{month}{3}
+      \field{number}{5}
+      \field{title}{A genomic sequencing protocol that yields a positive display of 5-methylcytosine residues in individual {DNA} strands}
+      \field{volume}{89}
+      \field{year}{1992}
+      \field{pages}{1827\bibrangedash 1831}
+      \range{pages}{5}
+    \endentry
+    \entry{bisulfite_failed_conv}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=caf945cedf9f57295a694d6e7c1a9386}{%
+           family={Bird},
+           familyi={B\bibinitperiod},
+           given={A},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier BV}%
+      }
+      \strng{namehash}{caf945cedf9f57295a694d6e7c1a9386}
+      \strng{fullhash}{caf945cedf9f57295a694d6e7c1a9386}
+      \strng{bibnamehash}{caf945cedf9f57295a694d6e7c1a9386}
+      \strng{authorbibnamehash}{caf945cedf9f57295a694d6e7c1a9386}
+      \strng{authornamehash}{caf945cedf9f57295a694d6e7c1a9386}
+      \strng{authorfullhash}{caf945cedf9f57295a694d6e7c1a9386}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Cell}
+      \field{month}{7}
+      \field{number}{1}
+      \field{title}{The essentials of {DNA} methylation}
+      \field{volume}{70}
+      \field{year}{1992}
+      \field{pages}{5\bibrangedash 8}
+      \range{pages}{4}
+    \endentry
+    \entry{bisulfite_inappr_conv}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=c17b08493600d8545143308a437e3a18}{%
+           family={Shiraishi},
+           familyi={S\bibinitperiod},
+           given={Masahiko},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b77d1db8444d1993fbb9e6d0404fadc8}{%
+           family={Hayatsu},
+           familyi={H\bibinitperiod},
+           given={Hikoya},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \list{publisher}{1}{%
+        {Oxford University Press (OUP)}%
+      }
+      \strng{namehash}{b5701a6872d343802a59544a4c83be06}
+      \strng{fullhash}{b5701a6872d343802a59544a4c83be06}
+      \strng{bibnamehash}{b5701a6872d343802a59544a4c83be06}
+      \strng{authorbibnamehash}{b5701a6872d343802a59544a4c83be06}
+      \strng{authornamehash}{b5701a6872d343802a59544a4c83be06}
+      \strng{authorfullhash}{b5701a6872d343802a59544a4c83be06}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Bisulfite genomic sequencing is a widely used technique for analyzing cytosine-methylation of DNA. By treating DNA with bisulfite, cytosine residues are deaminated to uracil, while leaving 5-methylcytosine largely intact. Subsequent PCR and nucleotide sequence analysis permit unequivocal determination of the methylation status at cytosine residues. A major caveat associated with the currently practiced procedure is that it takes 16-20 hr for completion of the conversion of cytosine to uracil. Here we report that a complete deamination of cytosine to uracil can be achieved in shorter periods by using a highly concentrated bisulfite solution at an elevated temperature. Time course experiments demonstrated that treating DNA with 9 M bisulfite for 20 min at 90 degrees C or 40 min at 70 degrees C all cytosine residues in the DNA were converted to uracil. Under these conditions, the majority of 5-methylcytosines remained intact. When a high molecular weight DNA derived from a cell line (containing a number of genes whose methylation status was known) was treated with bisulfite under the above conditions and amplified and sequenced, the results obtained were consistent with those reported in the literature. Although some degradation of DNA occurred during this process, the amount of treated DNA required for the amplification was nearly equal to that required for the conventional bisulfite genomic sequencing procedure. The increased speed of DNA methylation analysis with this novel procedure is expected to advance various aspects of DNA sciences.}
+      \field{journaltitle}{DNA Res.}
+      \field{month}{12}
+      \field{number}{6}
+      \field{title}{High-speed conversion of cytosine to uracil in bisulfite genomic sequencing analysis of {DNA} methylation}
+      \field{volume}{11}
+      \field{year}{2004}
+      \field{pages}{409\bibrangedash 415}
+      \range{pages}{7}
+    \endentry
+    \entry{ont_vs_bisulfite}{article}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=0775590691f98d0dea14fb8836df5a24}{%
+           family={López-Catalina},
+           familyi={L\bibinithyphendelim C\bibinitperiod},
+           given={Adrián},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b26975b628d0a9065bde2b4750eb7131}{%
+           family={Costes},
+           familyi={C\bibinitperiod},
+           given={Valentin},
+           giveni={V\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7c6c38fa7a4af497172cb4c8b499e408}{%
+           family={Peiró-Pastor},
+           familyi={P\bibinithyphendelim P\bibinitperiod},
+           given={Ramón},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9a42c639ed06568259dd5b2505a9748b}{%
+           family={Kiefer},
+           familyi={K\bibinitperiod},
+           given={Hélène},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0a877b69bc55bcb8ddce4bb782373e03}{%
+           family={González-Recio},
+           familyi={G\bibinithyphendelim R\bibinitperiod},
+           given={Oscar},
+           giveni={O\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier BV}%
+      }
+      \strng{namehash}{273a9af1a743ad2b73eefe5e16b949af}
+      \strng{fullhash}{ea6a6670ec665aae3539b1cf7bec8785}
+      \strng{bibnamehash}{273a9af1a743ad2b73eefe5e16b949af}
+      \strng{authorbibnamehash}{273a9af1a743ad2b73eefe5e16b949af}
+      \strng{authornamehash}{273a9af1a743ad2b73eefe5e16b949af}
+      \strng{authorfullhash}{ea6a6670ec665aae3539b1cf7bec8785}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Livest. Sci.}
+      \field{month}{1}
+      \field{number}{105377}
+      \field{title}{Oxford nanopore sequencing as an alternative to reduced representation bisulphite sequencing for the identification of {CpGs} of interest in livestock populations}
+      \field{volume}{279}
+      \field{year}{2024}
+      \field{pages}{105377}
+      \range{pages}{1}
+    \endentry
     \entry{ont}{article}{}
       \name{author}{5}{}{%
         {{un=1,uniquepart=given,hash=66672206087f35488e29a02160327315}{%
@@ -6177,8 +6657,8 @@
       \strng{authorbibnamehash}{e53c0df8aef709bf5270c9e1c7ac22e0}
       \strng{authornamehash}{e53c0df8aef709bf5270c9e1c7ac22e0}
       \strng{authorfullhash}{319957af7ebb94d350f83fca1e795a57}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \field{labelnamesource}{author}
@@ -6201,6 +6681,184 @@
       \verb{url}
       \verb http://dx.doi.org/10.1038/s41587-021-01108-x
       \endverb
+    \endentry
+    \entry{short_reads}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=9bf9629d8eaa0ad67ca5cb7a448907ea}{%
+           family={Heather},
+           familyi={H\bibinitperiod},
+           given={James\bibnamedelima M},
+           giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d59f6ed39676f37bedea512e3fe4eda8}{%
+           family={Chain},
+           familyi={C\bibinitperiod},
+           given={Benjamin},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier BV}%
+      }
+      \strng{namehash}{e45aaea03400cb42750f0d48c5b82f7a}
+      \strng{fullhash}{e45aaea03400cb42750f0d48c5b82f7a}
+      \strng{bibnamehash}{e45aaea03400cb42750f0d48c5b82f7a}
+      \strng{authorbibnamehash}{e45aaea03400cb42750f0d48c5b82f7a}
+      \strng{authornamehash}{e45aaea03400cb42750f0d48c5b82f7a}
+      \strng{authorfullhash}{e45aaea03400cb42750f0d48c5b82f7a}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Determining the order of nucleic acid residues in biological samples is an integral component of a wide variety of research applications. Over the last fifty years large numbers of researchers have applied themselves to the production of techniques and technologies to facilitate this feat, sequencing DNA and RNA molecules. This time-scale has witnessed tremendous changes, moving from sequencing short oligonucleotides to millions of bases, from struggling towards the deduction of the coding sequence of a single gene to rapid and widely available whole genome sequencing. This article traverses those years, iterating through the different generations of sequencing technology, highlighting some of the key discoveries, researchers, and sequences along the way.}
+      \field{journaltitle}{Genomics}
+      \field{month}{1}
+      \field{number}{1}
+      \field{title}{The sequence of sequencers: The history of sequencing {DNA}}
+      \field{volume}{107}
+      \field{year}{2016}
+      \field{pages}{1\bibrangedash 8}
+      \range{pages}{8}
+      \keyw{DNA; History; RNA; Sequencer; Sequencing}
+    \endentry
+    \entry{long_read_adv}{article}{}
+      \name{author}{8}{}{%
+        {{un=0,uniquepart=base,hash=a1cd9aabc536f6ca28f6fa46abed0cc1}{%
+           family={Depledge},
+           familyi={D\bibinitperiod},
+           given={Daniel\bibnamedelima P},
+           giveni={D\bibinitperiod\bibinitdelim P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=13cab7127fa62b554f8591e7ce7c96df}{%
+           family={Srinivas},
+           familyi={S\bibinitperiod},
+           given={Kalanghad\bibnamedelima Puthankalam},
+           giveni={K\bibinitperiod\bibinitdelim P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d1365f6654186645f90d106115fa05be}{%
+           family={Sadaoka},
+           familyi={S\bibinitperiod},
+           given={Tomohiko},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ecc6eaa362aaef6422c349ec088ec43b}{%
+           family={Bready},
+           familyi={B\bibinitperiod},
+           given={Devin},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=41353c6db0a8b0f26f2a559eba1e8b30}{%
+           family={Mori},
+           familyi={M\bibinitperiod},
+           given={Yasuko},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=fa40f397d94461e303d02498bee160fc}{%
+           family={Placantonakis},
+           familyi={P\bibinitperiod},
+           given={Dimitris\bibnamedelima G},
+           giveni={D\bibinitperiod\bibinitdelim G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=336cede0211107a8319e6c19ac268857}{%
+           family={Mohr},
+           familyi={M\bibinitperiod},
+           given={Ian},
+           giveni={I\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d48bdf8d2be36a594ababd2c2584a128}{%
+           family={Wilson},
+           familyi={W\bibinitperiod},
+           given={Angus\bibnamedelima C},
+           giveni={A\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \list{publisher}{2}{%
+        {Springer Science}%
+        {Business Media LLC}%
+      }
+      \strng{namehash}{2ad0b7d19bf53b8f5442266a5613e499}
+      \strng{fullhash}{fd10a4c1849ef00f9b341fef09876326}
+      \strng{bibnamehash}{2ad0b7d19bf53b8f5442266a5613e499}
+      \strng{authorbibnamehash}{2ad0b7d19bf53b8f5442266a5613e499}
+      \strng{authornamehash}{2ad0b7d19bf53b8f5442266a5613e499}
+      \strng{authorfullhash}{fd10a4c1849ef00f9b341fef09876326}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Characterizing complex viral transcriptomes by conventional RNA sequencing approaches is complicated by high gene density, overlapping reading frames, and complex splicing patterns. Direct RNA sequencing (direct RNA-seq) using nanopore arrays offers an exciting alternative whereby individual polyadenylated RNAs are sequenced directly, without the recoding and amplification biases inherent to other sequencing methodologies. Here we use direct RNA-seq to profile the herpes simplex virus type 1 (HSV-1) transcriptome during productive infection of primary cells. We show how direct RNA-seq data can be used to define transcription initiation and RNA cleavage sites associated with all polyadenylated viral RNAs and demonstrate that low level read-through transcription produces a novel class of chimeric HSV-1 transcripts, including a functional mRNA encoding a fusion of the viral E3 ubiquitin ligase ICP0 and viral membrane glycoprotein L. Thus, direct RNA-seq offers a powerful method to characterize the changing transcriptional landscape of viruses with complex genomes.}
+      \field{journaltitle}{Nat. Commun.}
+      \field{month}{2}
+      \field{number}{1}
+      \field{title}{Direct {RNA} sequencing on nanopore arrays redefines the transcriptional complexity of a viral pathogen}
+      \field{volume}{10}
+      \field{year}{2019}
+      \field{pages}{754}
+      \range{pages}{1}
+    \endentry
+    \entry{long_read_adv2}{article}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=69b0334e7ea34ae0513b0f377b2ccdc5}{%
+           family={Yuan},
+           familyi={Y\bibinitperiod},
+           given={Yuxuan},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5bc2437a9cd66938c85ab0cac50d3b8c}{%
+           family={Bayer},
+           familyi={B\bibinitperiod},
+           given={Philipp\bibnamedelima E},
+           giveni={P\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=866b209bb3292c3fe34318239f0ba0fc}{%
+           family={Batley},
+           familyi={B\bibinitperiod},
+           given={Jacqueline},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ec58316fb3cb15aaa01b1f3d00a464b1}{%
+           family={Edwards},
+           familyi={E\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier BV}%
+      }
+      \strng{namehash}{a3e95bd2db70783cfd893af81ba1f27b}
+      \strng{fullhash}{843d65f1c376927b377a1d30bf93a286}
+      \strng{bibnamehash}{a3e95bd2db70783cfd893af81ba1f27b}
+      \strng{authorbibnamehash}{a3e95bd2db70783cfd893af81ba1f27b}
+      \strng{authornamehash}{a3e95bd2db70783cfd893af81ba1f27b}
+      \strng{authorfullhash}{843d65f1c376927b377a1d30bf93a286}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Trends Biotechnol.}
+      \field{month}{6}
+      \field{number}{6}
+      \field{title}{Improvements in genomic technologies: Application to crop genomics}
+      \field{volume}{35}
+      \field{year}{2017}
+      \field{pages}{547\bibrangedash 558}
+      \range{pages}{12}
     \endentry
     \entry{ont_as}{article}{}
       \name{author}{6}{}{%
@@ -6251,8 +6909,8 @@
       \strng{authorbibnamehash}{99437e5c5dbea99b85cf5a42641070fb}
       \strng{authornamehash}{99437e5c5dbea99b85cf5a42641070fb}
       \strng{authorfullhash}{fb12f25e4a770dac72a7d44b456a6885}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \field{labelnamesource}{author}
@@ -6400,8 +7058,8 @@
       \strng{authorbibnamehash}{f76c1b8b52b4aab688fb5fea8c091040}
       \strng{authornamehash}{f76c1b8b52b4aab688fb5fea8c091040}
       \strng{authorfullhash}{d29d09ede4cc350cfa86c14b9bc563a4}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \field{labelnamesource}{author}
@@ -6500,8 +7158,8 @@
       \strng{authorbibnamehash}{f80c97e300d4387d2ebd0a9a5444d0fb}
       \strng{authornamehash}{f80c97e300d4387d2ebd0a9a5444d0fb}
       \strng{authorfullhash}{37a3bf842f43613136a8d61cc93caab7}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \field{labelnamesource}{author}
