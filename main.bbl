@@ -66,8 +66,8 @@
       \strng{authornamehash}{2348f5826634af872a0634ea83f5916a}
       \strng{authorfullhash}{44f826d45fbf77ad35f00624cce19880}
       \field{extraname}{1}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradate}{1}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
@@ -114,8 +114,8 @@
       \strng{authorbibnamehash}{3d420cb1d8f384f71a81154c0c983255}
       \strng{authornamehash}{3d420cb1d8f384f71a81154c0c983255}
       \strng{authorfullhash}{3d420cb1d8f384f71a81154c0c983255}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \field{labelnamesource}{author}
@@ -196,8 +196,8 @@
       \strng{authorbibnamehash}{9c8dd826631f12a6ea4b569ed32dfba6}
       \strng{authornamehash}{9c8dd826631f12a6ea4b569ed32dfba6}
       \strng{authorfullhash}{6d05f4635ab6f81e0bbdafeff205b94a}
-      \field{sortinit}{3}
-      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \field{labelnamesource}{author}
@@ -242,8 +242,8 @@
       \strng{authorbibnamehash}{512c56f56edcd7ff9392423977ffbb7b}
       \strng{authornamehash}{512c56f56edcd7ff9392423977ffbb7b}
       \strng{authorfullhash}{512c56f56edcd7ff9392423977ffbb7b}
-      \field{sortinit}{4}
-      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \field{labelnamesource}{author}
@@ -292,8 +292,8 @@
       \strng{authorbibnamehash}{7b221f0ca85dbec2b5f7106f8b2d4bea}
       \strng{authornamehash}{7b221f0ca85dbec2b5f7106f8b2d4bea}
       \strng{authorfullhash}{7b221f0ca85dbec2b5f7106f8b2d4bea}
-      \field{sortinit}{5}
-      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \field{labelnamesource}{author}
@@ -350,8 +350,8 @@
       \strng{authorbibnamehash}{57bef7caaa4dfb2a820bcc907dbdcf50}
       \strng{authornamehash}{57bef7caaa4dfb2a820bcc907dbdcf50}
       \strng{authorfullhash}{1abf1e4f3302cc8e4456acaded956bbd}
-      \field{sortinit}{6}
-      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \field{labelnamesource}{author}
@@ -398,8 +398,8 @@
       \strng{authorbibnamehash}{dd3e75d13ed29c57c1928593ba113164}
       \strng{authornamehash}{dd3e75d13ed29c57c1928593ba113164}
       \strng{authorfullhash}{dd3e75d13ed29c57c1928593ba113164}
-      \field{sortinit}{7}
-      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \field{labelnamesource}{author}
@@ -446,8 +446,8 @@
       \strng{authorbibnamehash}{916e9631c9bd928738373b5f5fd61185}
       \strng{authornamehash}{916e9631c9bd928738373b5f5fd61185}
       \strng{authorfullhash}{916e9631c9bd928738373b5f5fd61185}
-      \field{sortinit}{7}
-      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \field{labelnamesource}{author}
@@ -554,8 +554,8 @@
       \strng{authorbibnamehash}{c1e2290abada53b39da22d45d8d3e0d3}
       \strng{authornamehash}{c1e2290abada53b39da22d45d8d3e0d3}
       \strng{authorfullhash}{dec18aff62d809666915f56e8e63a803}
-      \field{sortinit}{8}
-      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \field{labelnamesource}{author}
@@ -643,8 +643,8 @@
       \strng{authorbibnamehash}{2ee90e3bc5c777a95b18648b07a01e32}
       \strng{authornamehash}{2ee90e3bc5c777a95b18648b07a01e32}
       \strng{authorfullhash}{e007ff12b8e3ac605b0b29c76780711d}
-      \field{sortinit}{8}
-      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \field{labelnamesource}{author}
@@ -723,8 +723,8 @@
       \strng{authorbibnamehash}{f6455986b8ad588332aedfff2057af8e}
       \strng{authornamehash}{f6455986b8ad588332aedfff2057af8e}
       \strng{authorfullhash}{1db07eb9b678395b1635a59115232f11}
-      \field{sortinit}{9}
-      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \field{labelnamesource}{author}
@@ -922,6 +922,97 @@
       \verb http://dx.doi.org/10.1016/j.blre.2008.08.001
       \endverb
     \endentry
+    \entry{iron_importance}{article}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=6b0d094e343cc94fad8e090999917e61}{%
+           family={Lieu},
+           familyi={L\bibinitperiod},
+           given={P\bibnamedelima T},
+           giveni={P\bibinitperiod\bibinitdelim T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c4beaa020958c01f4bdd8f26cd126d6c}{%
+           family={Heiskala},
+           familyi={H\bibinitperiod},
+           given={M},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=20cc90796d66d7ee1ef5af6886550688}{%
+           family={Peterson},
+           familyi={P\bibinitperiod},
+           given={P\bibnamedelima A},
+           giveni={P\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=865de0ad624b442a018417bf6b85083e}{%
+           family={Yang},
+           familyi={Y\bibinitperiod},
+           given={Y},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier BV}%
+      }
+      \strng{namehash}{8b754e4e2c7c7adae6dc009d11f7ad63}
+      \strng{fullhash}{24e773e022abf094a2377a7c5191b838}
+      \strng{bibnamehash}{8b754e4e2c7c7adae6dc009d11f7ad63}
+      \strng{authorbibnamehash}{8b754e4e2c7c7adae6dc009d11f7ad63}
+      \strng{authornamehash}{8b754e4e2c7c7adae6dc009d11f7ad63}
+      \strng{authorfullhash}{24e773e022abf094a2377a7c5191b838}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Iron is vital for almost all living organisms by participating in a wide variety of metabolic processes, including oxygen transport, DNA synthesis, and electron transport. However, iron concentrations in body tissues must be tightly regulated because excessive iron leads to tissue damage, as a result of formation of free radicals. Disorders of iron metabolism are among the most common diseases of humans and encompass a broad spectrum of diseases with diverse clinical manifestations, ranging from anemia to iron overload and, possibly, to neurodegenerative diseases. The molecular understanding of iron regulation in the body is critical in identifying the underlying causes for each disease and in providing proper diagnosis and treatments. Recent advances in genetics, molecular biology and biochemistry of iron metabolism have assisted in elucidating the molecular mechanisms of iron homeostasis. The coordinate control of iron uptake and storage is tightly regulated by the feedback system of iron responsive element-containing gene products and iron regulatory proteins that modulate the expression levels of the genes involved in iron metabolism. Recent identification and characterization of the hemochromatosis protein HFE, the iron importer Nramp2, the iron exporter ferroportin1, and the second transferrin-binding and -transport protein transferrin receptor 2, have demonstrated their important roles in maintaining body's iron homeostasis. Functional studies of these gene products have expanded our knowledge at the molecular level about the pathways of iron metabolism and have provided valuable insight into the defects of iron metabolism disorders. In addition, a variety of animal models have implemented the identification of many genetic defects that lead to abnormal iron homeostasis and have provided crucial clinical information about the pathophysiology of iron disorders. In this review, we discuss the latest progress in studies of iron metabolism and our current understanding of the molecular mechanisms of iron absorption, transport, utilization, and storage. Finally, we will discuss the clinical presentations of iron metabolism disorders, including secondary iron disorders that are either associated with or the result of abnormal iron accumulation.}
+      \field{journaltitle}{Mol. Aspects Med.}
+      \field{month}{2}
+      \field{number}{1-2}
+      \field{title}{The roles of iron in health and disease}
+      \field{volume}{22}
+      \field{year}{2001}
+      \field{pages}{1\bibrangedash 87}
+      \range{pages}{87}
+    \endentry
+    \entry{fenton2}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=552927af58fdcccafa7fb10b15a381e9}{%
+           family={Imlay},
+           familyi={I\bibinitperiod},
+           given={James\bibnamedelima A},
+           giveni={J\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \list{publisher}{1}{%
+        {Annual Reviews}%
+      }
+      \strng{namehash}{552927af58fdcccafa7fb10b15a381e9}
+      \strng{fullhash}{552927af58fdcccafa7fb10b15a381e9}
+      \strng{bibnamehash}{552927af58fdcccafa7fb10b15a381e9}
+      \strng{authorbibnamehash}{552927af58fdcccafa7fb10b15a381e9}
+      \strng{authornamehash}{552927af58fdcccafa7fb10b15a381e9}
+      \strng{authorfullhash}{552927af58fdcccafa7fb10b15a381e9}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The phenomenon of oxygen toxicity is universal, but only recently have we begun to understand its basis in molecular terms. Redox enzymes are notoriously nonspecific, transferring electrons to any good acceptor with which they make electronic contact. This poses a problem for aerobic organisms, since molecular oxygen is small enough to penetrate all but the most shielded active sites of redox enzymes. Adventitious electron transfers to oxygen create superoxide and hydrogen peroxide, which are partially reduced species that can oxidize biomolecules with which oxygen itself reacts poorly. This review attempts to present our still-incomplete understanding of how reactive oxygen species are formed inside cells and the mechanisms by which they damage specific target molecules. The vulnerability of cells to oxidation lies at the root of obligate anaerobiosis, spontaneous mutagenesis, and the use of oxidative stress as a biological weapon.}
+      \field{journaltitle}{Annu. Rev. Microbiol.}
+      \field{number}{1}
+      \field{title}{Pathways of oxidative damage}
+      \field{volume}{57}
+      \field{year}{2003}
+      \field{pages}{395\bibrangedash 418}
+      \range{pages}{24}
+    \endentry
     \entry{labile_iron}{article}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=999b9f9339d75156bb1e067f86e555c6}{%
@@ -961,6 +1052,50 @@
       \verb{url}
       \verb http://dx.doi.org/10.3389/fphar.2014.00045
       \endverb
+    \endentry
+    \entry{oxidative_stress}{article}{}
+      \name{author}{3}{}{%
+        {{un=1,uniquepart=given,hash=b69479832de5932df9676289a0fc03bc}{%
+           family={Pham-Huy},
+           familyi={P\bibinithyphendelim H\bibinitperiod},
+           given={Lien\bibnamedelima Ai},
+           giveni={L\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=1}}%
+        {{un=0,uniquepart=base,hash=2909c7ce0a545c65dba3a93751e7c419}{%
+           family={He},
+           familyi={H\bibinitperiod},
+           given={Hua},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{un=1,uniquepart=given,hash=df00a2268e1230efb248fded4b078eec}{%
+           family={Pham-Huy},
+           familyi={P\bibinithyphendelim H\bibinitperiod},
+           given={Chuong},
+           giveni={C\bibinitperiod},
+           givenun=1}}%
+      }
+      \list{publisher}{1}{%
+        {Master Publishing Group}%
+      }
+      \strng{namehash}{77bc73605fecefa284258a45d14dc2f3}
+      \strng{fullhash}{77bc73605fecefa284258a45d14dc2f3}
+      \strng{bibnamehash}{77bc73605fecefa284258a45d14dc2f3}
+      \strng{authorbibnamehash}{77bc73605fecefa284258a45d14dc2f3}
+      \strng{authornamehash}{77bc73605fecefa284258a45d14dc2f3}
+      \strng{authorfullhash}{77bc73605fecefa284258a45d14dc2f3}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{International journal of biomedical science: IJBS}
+      \field{number}{2}
+      \field{title}{Free radicals, antioxidants in disease and health}
+      \field{volume}{4}
+      \field{year}{2008}
+      \field{pages}{89}
+      \range{pages}{1}
     \endentry
     \entry{lpperox}{article}{}
       \name{author}{3}{}{%
@@ -1015,6 +1150,54 @@
       \verb http://dx.doi.org/10.1155/2014/360438
       \endverb
     \endentry
+    \entry{lpperox2}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=e4250da7306d4ec5fbf1d3de77201190}{%
+           family={Yin},
+           familyi={Y\bibinitperiod},
+           given={Huiyong},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1ba7e868dcfcf0c417f857466c495532}{%
+           family={Xu},
+           familyi={X\bibinitperiod},
+           given={Libin},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=37563b4f32743717c3accc84d28fde30}{%
+           family={Porter},
+           familyi={P\bibinitperiod},
+           given={Ned\bibnamedelima A},
+           giveni={N\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \list{publisher}{1}{%
+        {American Chemical Society (ACS)}%
+      }
+      \strng{namehash}{f6d9e89b430a24bd68500dcd75e88e21}
+      \strng{fullhash}{f6d9e89b430a24bd68500dcd75e88e21}
+      \strng{bibnamehash}{f6d9e89b430a24bd68500dcd75e88e21}
+      \strng{authorbibnamehash}{f6d9e89b430a24bd68500dcd75e88e21}
+      \strng{authornamehash}{f6d9e89b430a24bd68500dcd75e88e21}
+      \strng{authorfullhash}{f6d9e89b430a24bd68500dcd75e88e21}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Chem. Rev.}
+      \field{month}{10}
+      \field{number}{10}
+      \field{title}{Free radical lipid peroxidation: mechanisms and analysis}
+      \field{volume}{111}
+      \field{year}{2011}
+      \field{pages}{5944\bibrangedash 5972}
+      \range{pages}{29}
+    \endentry
     \entry{lppmembrane}{article}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=8a99836d151e08ec6f32a7ebe19b1c37}{%
@@ -1039,8 +1222,8 @@
       \strng{authorbibnamehash}{c3e859ae416ce35feccf05511a3f3d38}
       \strng{authornamehash}{c3e859ae416ce35feccf05511a3f3d38}
       \strng{authorfullhash}{c3e859ae416ce35feccf05511a3f3d38}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \field{labelnamesource}{author}
@@ -1101,8 +1284,8 @@
       \strng{authorbibnamehash}{0eef4678f42948a8019785b5fb4eea01}
       \strng{authornamehash}{0eef4678f42948a8019785b5fb4eea01}
       \strng{authorfullhash}{4c47059e38c567ebd619d2c1e0e493d5}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \field{labelnamesource}{author}
@@ -1162,8 +1345,8 @@
       \strng{authorbibnamehash}{c668d127e318958fc17d21c229f4ff72}
       \strng{authornamehash}{c668d127e318958fc17d21c229f4ff72}
       \strng{authorfullhash}{a25e4a581f496ada5cb46fe2c0c922ae}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \field{labelnamesource}{author}
@@ -1205,8 +1388,8 @@
       \strng{authorbibnamehash}{b9df408ccda65531e2922e3eb3fcdc89}
       \strng{authornamehash}{b9df408ccda65531e2922e3eb3fcdc89}
       \strng{authorfullhash}{b9df408ccda65531e2922e3eb3fcdc89}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \field{labelnamesource}{author}
@@ -1277,8 +1460,8 @@
       \strng{authorbibnamehash}{67039d73670d4f2a35bca8b779357424}
       \strng{authornamehash}{67039d73670d4f2a35bca8b779357424}
       \strng{authorfullhash}{a7ed2953247e3eb6a7e631528f53035a}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \field{labelnamesource}{author}
@@ -1354,8 +1537,8 @@
       \strng{authorbibnamehash}{187cf6f5ed7ed13c933eea6e1c544fd4}
       \strng{authornamehash}{187cf6f5ed7ed13c933eea6e1c544fd4}
       \strng{authorfullhash}{45b39185e42009eb845e1691a25ac0c4}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \field{labelnamesource}{author}
@@ -6066,6 +6249,208 @@
       \verb http://dx.doi.org/10.1016/S0140-6736(16)31012-1
       \endverb
     \endentry
+    \entry{therapies}{article}{}
+      \name{author}{8}{}{%
+        {{un=0,uniquepart=base,hash=b9208838da12a010bf786db1e87d2472}{%
+           family={Debela},
+           familyi={D\bibinitperiod},
+           given={Dejene\bibnamedelima Tolossa},
+           giveni={D\bibinitperiod\bibinitdelim T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8fb8db971bfd78c336467581c0f13d41}{%
+           family={Muzazu},
+           familyi={M\bibinitperiod},
+           given={Seke\bibnamedelima Gy},
+           giveni={S\bibinitperiod\bibinitdelim G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9ccfdcabbc04ceb006221fd16f5eadfc}{%
+           family={Heraro},
+           familyi={H\bibinitperiod},
+           given={Kidist\bibnamedelima Digamo},
+           giveni={K\bibinitperiod\bibinitdelim D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=17f565c434c8e043b55dc408cf7df732}{%
+           family={Ndalama},
+           familyi={N\bibinitperiod},
+           given={Maureen\bibnamedelima Tayamika},
+           giveni={M\bibinitperiod\bibinitdelim T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6031c89bbd5a3f8bb939a6a10a87100b}{%
+           family={Mesele},
+           familyi={M\bibinitperiod},
+           given={Betelhiem\bibnamedelima Woldemedhin},
+           giveni={B\bibinitperiod\bibinitdelim W\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c7deb1797a97f192912f06c069573142}{%
+           family={Haile},
+           familyi={H\bibinitperiod},
+           given={Dagimawi\bibnamedelima Chilot},
+           giveni={D\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4829415eea4e9eb816e0a9aa4f124f11}{%
+           family={Kitui},
+           familyi={K\bibinitperiod},
+           given={Sophia\bibnamedelima Khalayi},
+           giveni={S\bibinitperiod\bibinitdelim K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=da0ba7de7c6ace26f415da0cdbee6567}{%
+           family={Manyazewal},
+           familyi={M\bibinitperiod},
+           given={Tsegahun},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \list{publisher}{1}{%
+        {SAGE Publications}%
+      }
+      \strng{namehash}{151f8bad0e090f435d373f7f2bb45952}
+      \strng{fullhash}{f4fada7f166d1b4a32ba4096be01c1d9}
+      \strng{bibnamehash}{151f8bad0e090f435d373f7f2bb45952}
+      \strng{authorbibnamehash}{151f8bad0e090f435d373f7f2bb45952}
+      \strng{authornamehash}{151f8bad0e090f435d373f7f2bb45952}
+      \strng{authorfullhash}{f4fada7f166d1b4a32ba4096be01c1d9}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Cancer is a global health problem responsible for one in six deaths worldwide. Treating cancer has been a highly complex process. Conventional treatment approaches, such as surgery, chemotherapy, and radiotherapy, have been in use, while significant advances are being made in recent times, including stem cell therapy, targeted therapy, ablation therapy, nanoparticles, natural antioxidants, radionics, chemodynamic therapy, sonodynamic therapy, and ferroptosis-based therapy. Current methods in oncology focus on the development of safe and efficient cancer nanomedicines. Stem cell therapy has brought promising efficacy in regenerating and repairing diseased or damaged tissues by targeting both primary and metastatic cancer foci, and nanoparticles brought new diagnostic and therapeutic options. Targeted therapy possessed breakthrough potential inhibiting the growth and spread of specific cancer cells, causing less damage to healthy cells. Ablation therapy has emerged as a minimally invasive procedure that burns or freezes cancers without the need for open surgery. Natural antioxidants demonstrated potential tracking down free radicals and neutralizing their harmful effects thereby treating or preventing cancer. Several new technologies are currently under research in clinical trials, and some of them have already been approved. This review presented an update on recent advances and breakthroughs in cancer therapies.}
+      \field{journaltitle}{SAGE Open Med.}
+      \field{month}{8}
+      \field{title}{New approaches and procedures for cancer treatment: Current perspectives}
+      \field{volume}{9}
+      \field{year}{2021}
+      \field{pages}{20503121211034366}
+      \range{pages}{1}
+      \keyw{Cancer; ablation; gene therapy; natural antioxidants; stem cell; targeted drugs; treatment}
+    \endentry
+    \entry{therapy_resistance}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=dfee4b4f9db3e24f277548aeb67827e3}{%
+           family={Bukowski},
+           familyi={B\bibinitperiod},
+           given={Karol},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6a0135916b45342be8bacf6ff7afe8bc}{%
+           family={Kciuk},
+           familyi={K\bibinitperiod},
+           given={Mateusz},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=18d80828fe416beb2f11eb6e32d2a960}{%
+           family={Kontek},
+           familyi={K\bibinitperiod},
+           given={Renata},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \list{publisher}{1}{%
+        {MDPI AG}%
+      }
+      \strng{namehash}{85f95a85498099c90fcdb5f41be16bbe}
+      \strng{fullhash}{85f95a85498099c90fcdb5f41be16bbe}
+      \strng{bibnamehash}{85f95a85498099c90fcdb5f41be16bbe}
+      \strng{authorbibnamehash}{85f95a85498099c90fcdb5f41be16bbe}
+      \strng{authornamehash}{85f95a85498099c90fcdb5f41be16bbe}
+      \strng{authorfullhash}{85f95a85498099c90fcdb5f41be16bbe}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Cancer is one of the main causes of death worldwide. Despite the significant development of methods of cancer healing during the past decades, chemotherapy still remains the main method for cancer treatment. Depending on the mechanism of action, commonly used chemotherapeutic agents can be divided into several classes (antimetabolites, alkylating agents, mitotic spindle inhibitors, topoisomerase inhibitors, and others). Multidrug resistance (MDR) is responsible for over 90\% of deaths in cancer patients receiving traditional chemotherapeutics or novel targeted drugs. The mechanisms of MDR include elevated metabolism of xenobiotics, enhanced efflux of drugs, growth factors, increased DNA repair capacity, and genetic factors (gene mutations, amplifications, and epigenetic alterations). Rapidly increasing numbers of biomedical studies are focused on designing chemotherapeutics that are able to evade or reverse MDR. The aim of this review is not only to demonstrate the latest data on the mechanisms of cellular resistance to anticancer agents currently used in clinical treatment but also to present the mechanisms of action of novel potential antitumor drugs which have been designed to overcome these resistance mechanisms. Better understanding of the mechanisms of MDR and targets of novel chemotherapy agents should provide guidance for future research concerning new effective strategies in cancer treatment.}
+      \field{journaltitle}{Int. J. Mol. Sci.}
+      \field{month}{5}
+      \field{number}{9}
+      \field{title}{Mechanisms of multidrug resistance in cancer chemotherapy}
+      \field{volume}{21}
+      \field{year}{2020}
+      \field{pages}{3233}
+      \range{pages}{1}
+      \keyw{DNA repair; P-glycoprotein; cancer; chemotherapeutics; drug metabolism; epigenetic alterations; growth factors; inhibitors; microRNA; multidrug resistance}
+    \endentry
+    \entry{therapy_resistance2}{article}{}
+      \name{author}{7}{}{%
+        {{un=0,uniquepart=base,hash=34bdf511708fb034aa189466666559bf}{%
+           family={Housman},
+           familyi={H\bibinitperiod},
+           given={Genevieve},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0f31234a60c5eb35d718378dbe4b5f8a}{%
+           family={Byler},
+           familyi={B\bibinitperiod},
+           given={Shannon},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ca320002d3279570f6252d71cd9e0b8f}{%
+           family={Heerboth},
+           familyi={H\bibinitperiod},
+           given={Sarah},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c50451b117474dbd83e4e57062ba2f23}{%
+           family={Lapinska},
+           familyi={L\bibinitperiod},
+           given={Karolina},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=975603ea8bbbfcb572b8129483aed23f}{%
+           family={Longacre},
+           familyi={L\bibinitperiod},
+           given={Mckenna},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=273fe27894c2bd3898b48ff62ef5436a}{%
+           family={Snyder},
+           familyi={S\bibinitperiod},
+           given={Nicole},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=833b44e8cb2095e635e1bbcf4bdb222a}{%
+           family={Sarkar},
+           familyi={S\bibinitperiod},
+           given={Sibaji},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \list{publisher}{1}{%
+        {MDPI AG}%
+      }
+      \strng{namehash}{b9b0741ba44714e237bff80e6f70e283}
+      \strng{fullhash}{051176a15bc3f6ea27150787b50699ff}
+      \strng{bibnamehash}{b9b0741ba44714e237bff80e6f70e283}
+      \strng{authorbibnamehash}{b9b0741ba44714e237bff80e6f70e283}
+      \strng{authornamehash}{b9b0741ba44714e237bff80e6f70e283}
+      \strng{authorfullhash}{051176a15bc3f6ea27150787b50699ff}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Cancers have the ability to develop resistance to traditional therapies, and the increasing prevalence of these drug resistant cancers necessitates further research and treatment development. This paper outlines the current knowledge of mechanisms that promote or enable drug resistance, such as drug inactivation, drug target alteration, drug efflux, DNA damage repair, cell death inhibition, and the epithelial-mesenchymal transition, as well as how inherent tumor cell heterogeneity plays a role in drug resistance. It also describes the epigenetic modifications that can induce drug resistance and considers how such epigenetic factors may contribute to the development of cancer progenitor cells, which are not killed by conventional cancer therapies. Lastly, this review concludes with a discussion on the best treatment options for existing drug resistant cancers, ways to prevent the formation of drug resistant cancers and cancer progenitor cells, and future directions of study.}
+      \field{journaltitle}{Cancers (Basel)}
+      \field{month}{9}
+      \field{number}{3}
+      \field{title}{Drug resistance in cancer: an overview}
+      \field{volume}{6}
+      \field{year}{2014}
+      \field{pages}{1769\bibrangedash 1792}
+      \range{pages}{24}
+    \endentry
     \entry{ferro_drugs}{article}{}
       \name{author}{5}{}{%
         {{un=1,uniquepart=given,hash=c9191dc69bc22ce41fc456ae9eb63db8}{%
@@ -6110,8 +6495,8 @@
       \strng{authornamehash}{2348f5826634af872a0634ea83f5916a}
       \strng{authorfullhash}{44f826d45fbf77ad35f00624cce19880}
       \field{extraname}{2}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{extradate}{2}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
@@ -6195,8 +6580,8 @@
       \strng{authorbibnamehash}{a244cad6488831c17cf55fc323864b53}
       \strng{authornamehash}{a244cad6488831c17cf55fc323864b53}
       \strng{authorfullhash}{af9048e555113261ca74fa62b13657f0}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \field{labelnamesource}{author}
@@ -6281,8 +6666,8 @@
       \strng{authorbibnamehash}{b142205b39428d2f34c57a57557b624b}
       \strng{authornamehash}{b142205b39428d2f34c57a57557b624b}
       \strng{authorfullhash}{aa79d33a7b4030b39c29d07ecd84f9ed}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \field{labelnamesource}{author}
@@ -6328,8 +6713,8 @@
       \strng{authorbibnamehash}{cf9a57ce9311b861740d0458814b4d77}
       \strng{authornamehash}{cf9a57ce9311b861740d0458814b4d77}
       \strng{authorfullhash}{cf9a57ce9311b861740d0458814b4d77}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \field{labelnamesource}{author}
@@ -6364,8 +6749,8 @@
       \strng{authorbibnamehash}{36e2db9c7a29bbdca5b1534c7c142671}
       \strng{authornamehash}{36e2db9c7a29bbdca5b1534c7c142671}
       \strng{authorfullhash}{36e2db9c7a29bbdca5b1534c7c142671}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \field{labelnamesource}{author}
@@ -6414,8 +6799,8 @@
       \strng{authorbibnamehash}{30d48f4eaf2e9b0d92e6ae123f4d730f}
       \strng{authornamehash}{30d48f4eaf2e9b0d92e6ae123f4d730f}
       \strng{authorfullhash}{30d48f4eaf2e9b0d92e6ae123f4d730f}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \field{labelnamesource}{author}
@@ -6458,8 +6843,8 @@
       \strng{authorbibnamehash}{4ddde130e9f42e85d28050bd8bb35506}
       \strng{authornamehash}{4ddde130e9f42e85d28050bd8bb35506}
       \strng{authorfullhash}{4ddde130e9f42e85d28050bd8bb35506}
-      \field{sortinit}{3}
-      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \field{labelnamesource}{author}
@@ -6502,8 +6887,8 @@
       \strng{authorbibnamehash}{33ea79e9800bc3ddd8bdc9b53dc9a604}
       \strng{authornamehash}{33ea79e9800bc3ddd8bdc9b53dc9a604}
       \strng{authorfullhash}{33ea79e9800bc3ddd8bdc9b53dc9a604}
-      \field{sortinit}{3}
-      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \field{labelnamesource}{author}
@@ -6545,8 +6930,8 @@
       \strng{authorbibnamehash}{d820499da0f98e9d635400ec34d278d3}
       \strng{authornamehash}{d820499da0f98e9d635400ec34d278d3}
       \strng{authorfullhash}{d820499da0f98e9d635400ec34d278d3}
-      \field{sortinit}{3}
-      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \field{labelnamesource}{author}
@@ -6655,8 +7040,8 @@
       \strng{authorbibnamehash}{3cbfe171df6be486b9e92d960a7d41fd}
       \strng{authornamehash}{3cbfe171df6be486b9e92d960a7d41fd}
       \strng{authorfullhash}{f39929ec4dd97de8a9d6ad50a94e11da}
-      \field{sortinit}{3}
-      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \field{labelnamesource}{author}
@@ -6819,8 +7204,8 @@
       \strng{authorbibnamehash}{66fa0ff3d840b5bb49b70b8e71134a60}
       \strng{authornamehash}{66fa0ff3d840b5bb49b70b8e71134a60}
       \strng{authorfullhash}{d61755cc8864d2d78a4ab6b155282ce8}
-      \field{sortinit}{3}
-      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \field{labelnamesource}{author}
@@ -7013,8 +7398,8 @@
       \strng{authorbibnamehash}{775923f9fe495ded8d26fd2bbd3c037b}
       \strng{authornamehash}{775923f9fe495ded8d26fd2bbd3c037b}
       \strng{authorfullhash}{3eedf15f9a7cdb3ac2e31d5c012508b5}
-      \field{sortinit}{3}
-      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \field{labelnamesource}{author}
@@ -7052,8 +7437,8 @@
       \strng{authorbibnamehash}{b11d5bda2dd75a71ab728427d6c17f4c}
       \strng{authornamehash}{b11d5bda2dd75a71ab728427d6c17f4c}
       \strng{authorfullhash}{b11d5bda2dd75a71ab728427d6c17f4c}
-      \field{sortinit}{3}
-      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \field{labelnamesource}{author}
@@ -7104,8 +7489,8 @@
       \strng{authorbibnamehash}{2c49090bb8d55062f61285c834d57e1c}
       \strng{authornamehash}{2c49090bb8d55062f61285c834d57e1c}
       \strng{authorfullhash}{2c49090bb8d55062f61285c834d57e1c}
-      \field{sortinit}{3}
-      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \field{labelnamesource}{author}
@@ -7183,8 +7568,8 @@
       \strng{authorbibnamehash}{f095e3e259dcd9d00d6abe3d5ab90e85}
       \strng{authornamehash}{f095e3e259dcd9d00d6abe3d5ab90e85}
       \strng{authorfullhash}{635426ad56cbe902f7f098be1de343b5}
-      \field{sortinit}{3}
-      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \field{labelnamesource}{author}
@@ -7220,8 +7605,8 @@
       \strng{authorbibnamehash}{caf945cedf9f57295a694d6e7c1a9386}
       \strng{authornamehash}{caf945cedf9f57295a694d6e7c1a9386}
       \strng{authorfullhash}{caf945cedf9f57295a694d6e7c1a9386}
-      \field{sortinit}{4}
-      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \field{labelnamesource}{author}
@@ -7262,8 +7647,8 @@
       \strng{authorbibnamehash}{b5701a6872d343802a59544a4c83be06}
       \strng{authornamehash}{b5701a6872d343802a59544a4c83be06}
       \strng{authorfullhash}{b5701a6872d343802a59544a4c83be06}
-      \field{sortinit}{4}
-      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \field{labelnamesource}{author}
@@ -7323,8 +7708,8 @@
       \strng{authorbibnamehash}{273a9af1a743ad2b73eefe5e16b949af}
       \strng{authornamehash}{273a9af1a743ad2b73eefe5e16b949af}
       \strng{authorfullhash}{ea6a6670ec665aae3539b1cf7bec8785}
-      \field{sortinit}{4}
-      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \field{labelnamesource}{author}
@@ -7381,8 +7766,8 @@
       \strng{authorbibnamehash}{e53c0df8aef709bf5270c9e1c7ac22e0}
       \strng{authornamehash}{e53c0df8aef709bf5270c9e1c7ac22e0}
       \strng{authorfullhash}{319957af7ebb94d350f83fca1e795a57}
-      \field{sortinit}{4}
-      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \field{labelnamesource}{author}
@@ -7433,8 +7818,8 @@
       \strng{authorbibnamehash}{e45aaea03400cb42750f0d48c5b82f7a}
       \strng{authornamehash}{e45aaea03400cb42750f0d48c5b82f7a}
       \strng{authorfullhash}{e45aaea03400cb42750f0d48c5b82f7a}
-      \field{sortinit}{4}
-      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \field{labelnamesource}{author}
@@ -7514,8 +7899,8 @@
       \strng{authorbibnamehash}{2ad0b7d19bf53b8f5442266a5613e499}
       \strng{authornamehash}{2ad0b7d19bf53b8f5442266a5613e499}
       \strng{authorfullhash}{fd10a4c1849ef00f9b341fef09876326}
-      \field{sortinit}{4}
-      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \field{labelnamesource}{author}
@@ -7569,8 +7954,8 @@
       \strng{authorbibnamehash}{a3e95bd2db70783cfd893af81ba1f27b}
       \strng{authornamehash}{a3e95bd2db70783cfd893af81ba1f27b}
       \strng{authorfullhash}{843d65f1c376927b377a1d30bf93a286}
-      \field{sortinit}{4}
-      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \field{labelnamesource}{author}
@@ -7633,8 +8018,8 @@
       \strng{authorbibnamehash}{99437e5c5dbea99b85cf5a42641070fb}
       \strng{authornamehash}{99437e5c5dbea99b85cf5a42641070fb}
       \strng{authorfullhash}{fb12f25e4a770dac72a7d44b456a6885}
-      \field{sortinit}{4}
-      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \field{labelnamesource}{author}
@@ -7782,8 +8167,8 @@
       \strng{authorbibnamehash}{f76c1b8b52b4aab688fb5fea8c091040}
       \strng{authornamehash}{f76c1b8b52b4aab688fb5fea8c091040}
       \strng{authorfullhash}{d29d09ede4cc350cfa86c14b9bc563a4}
-      \field{sortinit}{4}
-      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \field{labelnamesource}{author}
@@ -7882,8 +8267,8 @@
       \strng{authorbibnamehash}{f80c97e300d4387d2ebd0a9a5444d0fb}
       \strng{authornamehash}{f80c97e300d4387d2ebd0a9a5444d0fb}
       \strng{authorfullhash}{37a3bf842f43613136a8d61cc93caab7}
-      \field{sortinit}{5}
-      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \field{labelnamesource}{author}

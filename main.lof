@@ -1,11 +1,12 @@
 \addvspace {10\p@ }
 \addvspace {10\p@ }
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {2.1}{\ignorespaces Figure depicting the various regulatory pathways associated with ferroptosis \citep {ferro_cancer}.}}{4}{figure.caption.13}%
-\contentsline {figure}{\numberline {2.2}{\ignorespaces Direct base modification detection with \ac {ONT}.}}{9}{figure.caption.21}%
+\contentsline {figure}{\numberline {2.1}{\ignorespaces Lipid Peroxidation Mechanism. (1) Initiation begins when R (an \ac {ROS}) abstracts a hydrogen from the highlighted region. The carbon-centered lipid radical is stabilized by molecular rearrangement, forming a conjugated diene. (2) In propagation, lipid radicals rapidly react with oxygen to form a lipid peroxyl radical. (3) Propagation continues with the lipid peroxyl radical abstracting a hydrogen from another lipid molecule. This generates another unsaturated lipid radical as well as a lipid hydroperoxide. (4) Termination of the radical reaction occurs when antioxidants donate a hydrogen atom to the lipid peroxyl radical species, forming nonradical products. However, termination is not possible in the absence of radical species. Therefore, propagation will continue until there is a radical sink. Figure created using BioRender and redrawn from \blx@tocontentsinit {0}\cite {lpperox}}}{5}{figure.caption.11}%
+\contentsline {figure}{\numberline {2.2}{\ignorespaces Overview of the various regulatory pathways associated with ferroptosis \citep {ferro_cancer}.}}{6}{figure.caption.14}%
+\contentsline {figure}{\numberline {2.3}{\ignorespaces Direct base modification detection with \ac {ONT}.}}{11}{figure.caption.24}%
 \addvspace {10\p@ }
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {4.1}{\ignorespaces Overview workflow.}}{13}{figure.caption.22}%
+\contentsline {figure}{\numberline {4.1}{\ignorespaces Overview workflow.}}{15}{figure.caption.25}%
 \addvspace {10\p@ }
 \addvspace {10\p@ }
 \addvspace {10\p@ }
