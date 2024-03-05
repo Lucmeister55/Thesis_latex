@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.17.0 (TeX Live 2023)  (format=lualatex 2024.3.2)  4 MAR 2024 19:03
+This is LuaHBTeX, Version 1.17.0 (TeX Live 2023)  (format=lualatex 2024.3.2)  5 MAR 2024 16:57
  restricted system commands enabled.
 **main.tex
 (./main.tex
@@ -1420,15 +1420,17 @@ although it is yet undefined on input line 6.
 \openout8 = main.lot
  (./Acronyms.tex [11] [12
 
-]) [13] [14
-
 ]
-(./text/Abstract.tex
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [13])
+[14] (./text/Abstract.tex
 Chapter 1.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [1
+
 
 ]
 Overfull \hbox (9.07361pt too wide) in paragraph at lines 11--12
@@ -1457,102 +1459,131 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 ]
 Package acronym Info: Label `acro:PUFA' newly defined as it shall be overridden
 
-although it is yet undefined on input line 19.
-<Fig/lpperox.jpg, id=417, 1027.84pt x 718.685pt>
+although it is yet undefined on input line 18.
+<Fig/lpperox.jpg, id=446, 1027.84pt x 718.685pt>
 File: Fig/lpperox.jpg Graphic file (type jpg)
 <use Fig/lpperox.jpg>
-Package luatex.def Info: Fig/lpperox.jpg  used on input line 23.
+Package luatex.def Info: Fig/lpperox.jpg  used on input line 22.
 (luatex.def)             Requested size: 364.19667pt x 254.65793pt.
 Package acronym Info: Label `acro:GPX4' newly defined as it shall be overridden
 
-although it is yet undefined on input line 30.
+although it is yet undefined on input line 29.
 Package acronym Info: Label `acro:GSH' newly defined as it shall be overridden
-although it is yet undefined on input line 30.
+although it is yet undefined on input line 29.
+Package acronym Info: Label `acro:l-CysH' newly defined as it shall be overridd
+en
+although it is yet undefined on input line 29.
 
-Overfull \hbox (13.49417pt too wide) in paragraph at lines 30--31
+Overfull \hbox (13.49417pt too wide) in paragraph at lines 29--30
 \TU/opensans(0)/m/n/12 lu-lar mech-a-nism of pro-tec-tion against oxy-to-sis/fer
 -rop-to-sis is me-di-ated by [][][][]glutathione
+ []
+
+
+Overfull \hbox (0.24902pt too wide) in paragraph at lines 29--30
+\TU/opensans(0)/m/n/12 the cell di-rectly, play-ing the role of an-tiox-i-dant 
+([]Averill-Bates, []2023[]). For an overview
  []
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [4]
-<Fig/ferroptosis.png, id=451, 342.5297pt x 396.7322pt>
+Package acronym Info: Label `acro:SxC-' newly defined as it shall be overridden
+
+although it is yet undefined on input line 31.
+Package acronym Info: Label `acro:l-Cys2' newly defined as it shall be overridd
+en
+although it is yet undefined on input line 31.
+Package acronym Info: Label `acro:l-Glu' newly defined as it shall be overridde
+n
+although it is yet undefined on input line 31.
+
+[5<./Fig/lpperox.jpg>]
+<Fig/ferroptosis.png, id=497, 342.5297pt x 396.7322pt>
 File: Fig/ferroptosis.png Graphic file (type png)
 <use Fig/ferroptosis.png>
-Package luatex.def Info: Fig/ferroptosis.png  used on input line 36.
+Package luatex.def Info: Fig/ferroptosis.png  used on input line 39.
 (luatex.def)             Requested size: 227.62206pt x 263.64803pt.
+ [6<./Fig/ferroptosis.png>]
+Package acronym Info: Label `acro:SDT' newly defined as it shall be overridden
+although it is yet undefined on input line 54.
+Package acronym Info: Label `acro:PDT' newly defined as it shall be overridden
+although it is yet undefined on input line 54.
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [5<./Fig/lpperox.jpg>] [6<./Fig/ferroptosis.png>]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [7]
+Package acronym Info: Label `acro:CpG' newly defined as it shall be overridden
+although it is yet undefined on input line 60.
 Package acronym Info: Label `acro:DNMT' newly defined as it shall be overridden
 
-although it is yet undefined on input line 57.
+although it is yet undefined on input line 60.
 Package acronym Info: Label `acro:SAM' newly defined as it shall be overridden
-although it is yet undefined on input line 57.
+although it is yet undefined on input line 60.
 
-Overfull \hbox (1.97464pt too wide) in paragraph at lines 57--58
+Overfull \hbox (1.97464pt too wide) in paragraph at lines 60--61
 \TU/opensans(0)/m/n/12 ad-di-tion of a methyl group to the carbon-5 atom of cy-t
-o-sine within cytosine-guanine
+o-sine within [][][][]cytosine-guanine
  []
 
 
-Overfull \hbox (6.94614pt too wide) in paragraph at lines 57--58
+Overfull \hbox (6.94614pt too wide) in paragraph at lines 60--61
 \TU/opensans(0)/m/n/12 fa-cil-i-tate the trans-fer of a methyl group from the un
 i-ver-sal methyl donor, [][][][]S-adenosyl-
  []
 
 
-Overfull \hbox (2.91855pt too wide) in paragraph at lines 57--58
+Overfull \hbox (2.91855pt too wide) in paragraph at lines 60--61
 \TU/opensans(0)/m/n/12 L-methionine ([])[], to the 5-position of cy-to-sine resi
 dues in DNA ([]Robert-son, []2005[]).
  []
 
 Package acronym Info: Label `acro:TET' newly defined as it shall be overridden
-although it is yet undefined on input line 59.
+although it is yet undefined on input line 62.
 Package acronym Info: Label `acro:5mC' newly defined as it shall be overridden
-although it is yet undefined on input line 59.
+although it is yet undefined on input line 62.
 Package acronym Info: Label `acro:5hmC' newly defined as it shall be overridden
 
-although it is yet undefined on input line 59.
+although it is yet undefined on input line 62.
 Package acronym Info: Label `acro:5fC' newly defined as it shall be overridden
-although it is yet undefined on input line 59.
+although it is yet undefined on input line 62.
 Package acronym Info: Label `acro:5caC' newly defined as it shall be overridden
 
-although it is yet undefined on input line 59.
+although it is yet undefined on input line 62.
 Package acronym Info: Label `acro:TDG' newly defined as it shall be overridden
-although it is yet undefined on input line 59.
+although it is yet undefined on input line 62.
 
-Overfull \hbox (0.54965pt too wide) in paragraph at lines 59--60
+Overfull \hbox (0.54965pt too wide) in paragraph at lines 62--63
 \TU/opensans(0)/m/n/12 zymes can ox-i-dize [][][][]5-methylcytosine ([])[] to [
 ][][][]5-hydroxymethylcytosine ([])[], and
  []
 
-
-Overfull \hbox (1.4266pt too wide) in paragraph at lines 61--62
+[8]
+Overfull \hbox (1.4266pt too wide) in paragraph at lines 64--65
 \TU/opensans(0)/m/n/12 Con-se-quently, a sig-nif-i-cant por-tion of fa-mil-ial 
 mu-ta-tions and single-nucleotide poly-
  []
 
-[8]
 Package acronym Info: Label `acro:CGI' newly defined as it shall be overridden
-although it is yet undefined on input line 63.
+although it is yet undefined on input line 66.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
  [9]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [10]
-<Fig/ont_epi.png, id=556, 432.11438pt x 133.24782pt>
+<Fig/ont_epi.png, id=603, 432.11438pt x 133.24782pt>
 File: Fig/ont_epi.png Graphic file (type png)
 <use Fig/ont_epi.png>
-Package luatex.def Info: Fig/ont_epi.png  used on input line 87.
+Package luatex.def Info: Fig/ont_epi.png  used on input line 90.
 (luatex.def)             Requested size: 455.24411pt x 140.38602pt.
 
-[11<./Fig/ont_epi.png>]) (./text/Aims.tex [12]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [11])
+(./text/Aims.tex [12<./Fig/ont_epi.png>]
 Chapter 3.
 ) (./text/Methods.tex [13
 
@@ -1560,7 +1591,7 @@ Chapter 3.
 
 ]
 Chapter 4.
-<Fig/overview_temp.png, id=589, 858.95906pt x 295.85532pt>
+<Fig/overview_temp.png, id=635, 858.95906pt x 295.85532pt>
 File: Fig/overview_temp.png Graphic file (type png)
 <use Fig/overview_temp.png>
 Package luatex.def Info: Fig/overview_temp.png  used on input line 10.
@@ -1591,7 +1622,10 @@ Overfull \hbox (12.20995pt too wide) in paragraph at lines 89--89
 mi-croar-rays''. In: \TU/opensans(0)/m/it/12 Hu-man Molec-
  []
 
-[26]
+[26] [27
+Missing character: There is no ⁻ (U+207B) in font name:opensans:mode=node;scri
+pt=latn;language=dflt;+tlig;!
+]
 Overfull \hbox (4.10587pt too wide) in paragraph at lines 89--89
 \TU/opensans(0)/m/n/12 cause mor-tal-ity, and cause-specific mor-tal-ity for 249
  causes of death, 1980–2015:
@@ -1603,7 +1637,7 @@ Overfull \hbox (0.58368pt too wide) in paragraph at lines 89--89
 ase Study 2015''. In: \TU/opensans(0)/m/it/12 The Lancet
  []
 
-[27]
+
 Overfull \hbox (55.57303pt too wide) in paragraph at lines 89--89
 \TU/opensans(0)/m/n/12 can-cer treat-ment: Cur-rent per-spec-tives''. en. In: \
 TU/opensans(0)/m/it/12 SAGE Open Med. \TU/opensans(0)/m/n/12 9, p. 2050312121103
@@ -1635,14 +1669,14 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 )
 
 Here is how much of LuaTeX's memory you used:
- 38062 strings out of 476447
+ 38143 strings out of 476447
  125161,2373549 words of node,token memory allocated
  950 words of node memory still in use:
    6 hlist, 2 vlist, 2 rule, 2 glue, 4 kern, 1 glyph, 37 attribute, 85 glue_spec
 , 37 attribute_list, 2 write, 29 pdf_action nodes
-   avail lists: 1:1,2:1096,3:543,4:160,5:177,6:101,7:6231,8:82,9:501,10:30,11:62
-3
- 59107 multiletter control sequences out of 65536+600000
+   avail lists: 1:1,2:1164,3:496,4:182,5:184,6:118,7:6283,8:82,9:561,10:30,11:65
+1
+ 59171 multiletter control sequences out of 65536+600000
  50 fonts using 4885863 bytes
  105i,17n,100p,2531b,1951s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <d:/texlive/2023/texmf-dist/fonts/opentype/public/lm/lmmono12-regular.otf><d:/te
@@ -1653,10 +1687,10 @@ texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><d:/texlive/202
 3/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb><d:/texlive/2023/texmf-dist
 /fonts/type1/public/amsfonts/cm/cmsy10.pfb><d:/texlive/2023/texmf-dist/fonts/typ
 e1/public/amsfonts/cm/cmsy8.pfb>
-Output written on main.pdf (46 pages, 553176 bytes).
+Output written on main.pdf (46 pages, 556257 bytes).
 
-PDF statistics: 816 PDF objects out of 1000 (max. 8388607)
- 697 compressed objects within 7 object streams
- 162 named destinations out of 1000 (max. 131072)
+PDF statistics: 863 PDF objects out of 1000 (max. 8388607)
+ 743 compressed objects within 8 object streams
+ 179 named destinations out of 1000 (max. 131072)
  168 words of extra memory for PDF output out of 10000 (max. 100000000)
 

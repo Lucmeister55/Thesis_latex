@@ -1411,6 +1411,55 @@
       \verb http://dx.doi.org/10.1016/bs.vh.2022.09.002
       \endverb
     \endentry
+    \entry{sxc-}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=efbb30ea40a7edde0bf59ff443ce67c4}{%
+           family={Bridges},
+           familyi={B\bibinitperiod},
+           given={Richard\bibnamedelima J},
+           giveni={R\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d4a12bbf04fb6aa2cd5d3ae84ce542ad}{%
+           family={Natale},
+           familyi={N\bibinitperiod},
+           given={Nicholas\bibnamedelima R},
+           giveni={N\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1d4c0fbe4ce7646f2840b5e70df8f30d}{%
+           family={Patel},
+           familyi={P\bibinitperiod},
+           given={Sarjubhai\bibnamedelima A},
+           giveni={S\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \list{publisher}{1}{%
+        {Wiley}%
+      }
+      \strng{namehash}{880f77a6d701e20d12c6ce2946a436fc}
+      \strng{fullhash}{880f77a6d701e20d12c6ce2946a436fc}
+      \strng{bibnamehash}{880f77a6d701e20d12c6ce2946a436fc}
+      \strng{authorbibnamehash}{880f77a6d701e20d12c6ce2946a436fc}
+      \strng{authornamehash}{880f77a6d701e20d12c6ce2946a436fc}
+      \strng{authorfullhash}{880f77a6d701e20d12c6ce2946a436fc}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{System x(c)(-) is an amino acid antiporter that typically mediates the exchange of extracellular l-cystine and intracellular L-glutamate across the cellular plasma membrane. Studied in a variety of cell types, the import of L-cystine through this transporter is critical to glutathione production and oxidative protection. The exchange-mediated export of L-glutamate takes on added significance within the CNS, as it represents a non-vesicular route of release through which this excitatory neurotransmitter can participate in either neuronal signalling or excitotoxic pathology. When both the import of L-cystine and the export of L-glutamate are taken into consideration, system x(c)(-) has now been linked to a wide range of CNS functions, including oxidative protection, the operation of the blood-brain barrier, neurotransmitter release, synaptic organization, viral pathology, drug addiction, chemosensitivity and chemoresistance, and brain tumour growth. The ability to selectively manipulate system x(c)(-), delineate its function, probe its structure and evaluate it as a therapeutic target is closely linked to understanding its pharmacology and the subsequent development of selective inhibitors and substrates. Towards that goal, this review will examine the current status of our understanding of system x(c)(-) pharmacology and the structure-activity relationships that have guided the development of an initial pharmacophore model, including the presence of lipophilic domains adjacent to the substrate binding site. A special emphasis is placed on the roles of system x(c)(-) within the CNS, as it is these actions that are among the most exciting as potential long-range therapeutic targets.}
+      \field{journaltitle}{Br. J. Pharmacol.}
+      \field{month}{1}
+      \field{number}{1}
+      \field{title}{System xc⁻ cystine/glutamate antiporter: an update on molecular pharmacology and roles within the {CNS}}
+      \field{volume}{165}
+      \field{year}{2012}
+      \field{pages}{20\bibrangedash 34}
+      \range{pages}{15}
+    \endentry
     \entry{mito_ferro2}{article}{}
       \name{author}{6}{}{%
         {{un=0,uniquepart=base,hash=98a0a66d38a9d8520101724a56eaa1bc}{%
@@ -1482,6 +1531,237 @@
       \verb{url}
       \verb http://dx.doi.org/10.1038/s41419-023-06045-y
       \endverb
+    \endentry
+    \entry{mito_ferro3}{article}{}
+      \name{author}{22}{}{%
+        {{un=0,uniquepart=base,hash=49b48c26298be15b59ceb340826431e3}{%
+           family={Doll},
+           familyi={D\bibinitperiod},
+           given={Sebastian},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8771866d5efda15864420ffbe03c6133}{%
+           family={Proneth},
+           familyi={P\bibinitperiod},
+           given={Bettina},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=840a517ec96ea71404ec3adadc9e4dce}{%
+           family={Tyurina},
+           familyi={T\bibinitperiod},
+           given={Yulia\bibnamedelima Y},
+           giveni={Y\bibinitperiod\bibinitdelim Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=25052f1b222b754ff8e40640a9937dbe}{%
+           family={Panzilius},
+           familyi={P\bibinitperiod},
+           given={Elena},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=028b1bbf4af026ecf87f6b44e7ca8158}{%
+           family={Kobayashi},
+           familyi={K\bibinitperiod},
+           given={Sho},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ff4aef3774b56f96afaa2c3cd0d7e592}{%
+           family={Ingold},
+           familyi={I\bibinitperiod},
+           given={Irina},
+           giveni={I\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e7aff6aeb1e064d8f8c09e2b9b31d0aa}{%
+           family={Irmler},
+           familyi={I\bibinitperiod},
+           given={Martin},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=60a41999ca85e51bb3c978cefdfab411}{%
+           family={Beckers},
+           familyi={B\bibinitperiod},
+           given={Johannes},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7f84e6f3e623694bab10deddb046f65f}{%
+           family={Aichler},
+           familyi={A\bibinitperiod},
+           given={Michaela},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=91c66f1cc20c78c28a99050c5686d1d6}{%
+           family={Walch},
+           familyi={W\bibinitperiod},
+           given={Axel},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ab33ea4a26ea4e4882779e86f07b816d}{%
+           family={Prokisch},
+           familyi={P\bibinitperiod},
+           given={Holger},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e4c4a2fb393db68ce0970b9dd4d3d0bd}{%
+           family={Trümbach},
+           familyi={T\bibinitperiod},
+           given={Dietrich},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=adf438295f32db33b0f32dd34eb9fc6b}{%
+           family={Mao},
+           familyi={M\bibinitperiod},
+           given={Gaowei},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c9e41cd027151c41ff466f41da389637}{%
+           family={Qu},
+           familyi={Q\bibinitperiod},
+           given={Feng},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ea2bda8cd6b88550d141263d91e9e7b9}{%
+           family={Bayir},
+           familyi={B\bibinitperiod},
+           given={Hulya},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=24c846e8b84534da20593b34cf506a9d}{%
+           family={Füllekrug},
+           familyi={F\bibinitperiod},
+           given={Joachim},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=da56e27239c328b6484bd12ad3a6d005}{%
+           family={Scheel},
+           familyi={S\bibinitperiod},
+           given={Christina\bibnamedelima H},
+           giveni={C\bibinitperiod\bibinitdelim H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=39f0264772b09e386b77fb16f7814c46}{%
+           family={Wurst},
+           familyi={W\bibinitperiod},
+           given={Wolfgang},
+           giveni={W\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=13be45d33ba6da4e9a5088f3c9c28876}{%
+           family={Schick},
+           familyi={S\bibinitperiod},
+           given={Joel\bibnamedelima A},
+           giveni={J\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ce2b40431cad56d45dc3b66cfb997583}{%
+           family={Kagan},
+           familyi={K\bibinitperiod},
+           given={Valerian\bibnamedelima E},
+           giveni={V\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3e188d907fc7c7b0d173a4172095da23}{%
+           family={Angeli},
+           familyi={A\bibinitperiod},
+           given={José\bibnamedelimb Pedro\bibnamedelima Friedmann},
+           giveni={J\bibinitperiod\bibinitdelim P\bibinitperiod\bibinitdelim F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=80e037cf803650ba8637053a5b5b7f42}{%
+           family={Conrad},
+           familyi={C\bibinitperiod},
+           given={Marcus},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \list{publisher}{2}{%
+        {Springer Science}%
+        {Business Media LLC}%
+      }
+      \strng{namehash}{a6f6ca42ed06bbdc5b4cb50e71779d90}
+      \strng{fullhash}{c8717d2327947dbb7db8745e625d7a2a}
+      \strng{bibnamehash}{a6f6ca42ed06bbdc5b4cb50e71779d90}
+      \strng{authorbibnamehash}{a6f6ca42ed06bbdc5b4cb50e71779d90}
+      \strng{authornamehash}{a6f6ca42ed06bbdc5b4cb50e71779d90}
+      \strng{authorfullhash}{c8717d2327947dbb7db8745e625d7a2a}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Ferroptosis is a form of regulated necrotic cell death controlled by glutathione peroxidase 4 (GPX4). At present, mechanisms that could predict sensitivity and/or resistance and that may be exploited to modulate ferroptosis are needed. We applied two independent approaches-a genome-wide CRISPR-based genetic screen and microarray analysis of ferroptosis-resistant cell lines-to uncover acyl-CoA synthetase long-chain family member 4 (ACSL4) as an essential component for ferroptosis execution. Specifically, Gpx4-Acsl4 double-knockout cells showed marked resistance to ferroptosis. Mechanistically, ACSL4 enriched cellular membranes with long polyunsaturated $\omega$6 fatty acids. Moreover, ACSL4 was preferentially expressed in a panel of basal-like breast cancer cell lines and predicted their sensitivity to ferroptosis. Pharmacological targeting of ACSL4 with thiazolidinediones, a class of antidiabetic compound, ameliorated tissue demise in a mouse model of ferroptosis, suggesting that ACSL4 inhibition is a viable therapeutic approach to preventing ferroptosis-related diseases.}
+      \field{journaltitle}{Nat. Chem. Biol.}
+      \field{month}{1}
+      \field{number}{1}
+      \field{title}{{ACSL4} dictates ferroptosis sensitivity by shaping cellular lipid composition}
+      \field{volume}{13}
+      \field{year}{2017}
+      \field{pages}{91\bibrangedash 98}
+      \range{pages}{8}
+    \endentry
+    \entry{mito_ferro4}{article}{}
+      \name{author}{6}{}{%
+        {{un=0,uniquepart=base,hash=9382f2fd0a6f6ee38ec6f8f89d6c5afa}{%
+           family={Krainz},
+           familyi={K\bibinitperiod},
+           given={Tanja},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8a99836d151e08ec6f32a7ebe19b1c37}{%
+           family={Gaschler},
+           familyi={G\bibinitperiod},
+           given={Michael\bibnamedelima M},
+           giveni={M\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b0b0fd6587f041476ea020ee295db09d}{%
+           family={Lim},
+           familyi={L\bibinitperiod},
+           given={Chaemin},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d54e748e7693f9b597d4f599d432c949}{%
+           family={Sacher},
+           familyi={S\bibinitperiod},
+           given={Joshua\bibnamedelima R},
+           giveni={J\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1ba17c81c7b8c1b8be7d96ad105f0c93}{%
+           family={Stockwell},
+           familyi={S\bibinitperiod},
+           given={Brent\bibnamedelima R},
+           giveni={B\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c8c90b47b62b1a9bea7997d5149fdfb6}{%
+           family={Wipf},
+           familyi={W\bibinitperiod},
+           given={Peter},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \list{publisher}{1}{%
+        {American Chemical Society (ACS)}%
+      }
+      \strng{namehash}{ddb34d8388e2b92997a0407970f860f7}
+      \strng{fullhash}{6b92e498a7e3f7257d714d457f38ff11}
+      \strng{bibnamehash}{ddb34d8388e2b92997a0407970f860f7}
+      \strng{authorbibnamehash}{ddb34d8388e2b92997a0407970f860f7}
+      \strng{authornamehash}{ddb34d8388e2b92997a0407970f860f7}
+      \strng{authorfullhash}{6b92e498a7e3f7257d714d457f38ff11}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Discovering compounds and mechanisms for inhibiting ferroptosis, a form of regulated, nonapoptotic cell death, has been of great interest in recent years. In this study, we demonstrate the ability of XJB-5-131, JP4-039, and other nitroxide-based lipid peroxidation mitigators to prevent ferroptotic cell death in HT-1080, BJeLR, and panc-1 cells. Several analogues of the reactive oxygen species (ROS) scavengers XJB-5-131 and JP4-039 were synthesized to probe structure--activity relationships and the influence of subcellular localization on the potency of these novel ferroptosis suppressors. Their biological activity correlated well over several orders of magnitude with their structure, relative lipophilicity, and respective enrichment in mitochondria, revealing a critical role of intramitochondrial lipid peroxidation in ferroptosis. These results also suggest that preventing mitochondrial lipid oxidation might offer a viable therapeutic opportunity in ischemia/reperfusion-induced tissue injury, acute kidney injury, and other pathologies that involve ferroptotic cell death pathways.}
+      \field{journaltitle}{ACS Cent. Sci.}
+      \field{month}{9}
+      \field{number}{9}
+      \field{title}{A mitochondrial-targeted nitroxide is a potent inhibitor of ferroptosis}
+      \field{volume}{2}
+      \field{year}{2016}
+      \field{pages}{653\bibrangedash 659}
+      \range{pages}{7}
     \endentry
     \entry{mito_ferro}{article}{}
       \name{author}{7}{}{%
@@ -6224,8 +6504,8 @@
       \strng{authorbibnamehash}{4a339299efa3f5bcc291ab6074fe05fe}
       \strng{authornamehash}{4a339299efa3f5bcc291ab6074fe05fe}
       \strng{authorfullhash}{e02eb94a9893cef0352190be191cf993}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \field{labelnamesource}{author}
@@ -6749,8 +7029,8 @@
       \strng{authorbibnamehash}{36e2db9c7a29bbdca5b1534c7c142671}
       \strng{authornamehash}{36e2db9c7a29bbdca5b1534c7c142671}
       \strng{authorfullhash}{36e2db9c7a29bbdca5b1534c7c142671}
-      \field{sortinit}{3}
-      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \field{labelnamesource}{author}
@@ -6799,8 +7079,8 @@
       \strng{authorbibnamehash}{30d48f4eaf2e9b0d92e6ae123f4d730f}
       \strng{authornamehash}{30d48f4eaf2e9b0d92e6ae123f4d730f}
       \strng{authorfullhash}{30d48f4eaf2e9b0d92e6ae123f4d730f}
-      \field{sortinit}{3}
-      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \field{labelnamesource}{author}
@@ -7489,8 +7769,8 @@
       \strng{authorbibnamehash}{2c49090bb8d55062f61285c834d57e1c}
       \strng{authornamehash}{2c49090bb8d55062f61285c834d57e1c}
       \strng{authorfullhash}{2c49090bb8d55062f61285c834d57e1c}
-      \field{sortinit}{4}
-      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \field{labelnamesource}{author}
@@ -7568,8 +7848,8 @@
       \strng{authorbibnamehash}{f095e3e259dcd9d00d6abe3d5ab90e85}
       \strng{authornamehash}{f095e3e259dcd9d00d6abe3d5ab90e85}
       \strng{authorfullhash}{635426ad56cbe902f7f098be1de343b5}
-      \field{sortinit}{4}
-      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \field{labelnamesource}{author}
@@ -7954,8 +8234,8 @@
       \strng{authorbibnamehash}{a3e95bd2db70783cfd893af81ba1f27b}
       \strng{authornamehash}{a3e95bd2db70783cfd893af81ba1f27b}
       \strng{authorfullhash}{843d65f1c376927b377a1d30bf93a286}
-      \field{sortinit}{5}
-      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \field{labelnamesource}{author}
@@ -8018,8 +8298,8 @@
       \strng{authorbibnamehash}{99437e5c5dbea99b85cf5a42641070fb}
       \strng{authornamehash}{99437e5c5dbea99b85cf5a42641070fb}
       \strng{authorfullhash}{fb12f25e4a770dac72a7d44b456a6885}
-      \field{sortinit}{5}
-      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \field{labelnamesource}{author}
@@ -8167,8 +8447,8 @@
       \strng{authorbibnamehash}{f76c1b8b52b4aab688fb5fea8c091040}
       \strng{authornamehash}{f76c1b8b52b4aab688fb5fea8c091040}
       \strng{authorfullhash}{d29d09ede4cc350cfa86c14b9bc563a4}
-      \field{sortinit}{5}
-      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \field{labelnamesource}{author}
