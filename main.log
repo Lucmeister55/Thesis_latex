@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.17.0 (TeX Live 2023)  (format=lualatex 2024.3.2)  6 MAR 2024 10:20
+This is LuaHBTeX, Version 1.17.0 (TeX Live 2023)  (format=lualatex 2024.3.2)  6 MAR 2024 11:20
  restricted system commands enabled.
 **main.tex
 (./main.tex
@@ -1351,7 +1351,7 @@ LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
 (Font)                  OT1/cmss/bx/n --> TU/lmss/b/n on input line 60.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
 (Font)                  OT1/cmtt/m/n --> TU/lmtt/b/n on input line 60.
-<Cover.pdf, id=83, 597.55246pt x 845.07724pt>
+<Cover.pdf, id=99, 597.55246pt x 845.07724pt>
 File: Cover.pdf Graphic file (type pdf)
 <use Cover.pdf>
 Package luatex.def Info: Cover.pdf  used on input line 63.
@@ -1360,7 +1360,7 @@ File: Cover.pdf Graphic file (type pdf)
 <use Cover.pdf>
 Package luatex.def Info: Cover.pdf  used on input line 63.
 (luatex.def)             Requested size: 597.551pt x 845.07518pt.
-<Cover.pdf, id=86, page=1, 597.55246pt x 845.07724pt>
+<Cover.pdf, id=102, page=1, 597.55246pt x 845.07724pt>
 File: Cover.pdf Graphic file (type pdf)
 <use Cover.pdf, page 1>
 Package luatex.def Info: Cover.pdf , page1 used on input line 63.
@@ -1391,11 +1391,15 @@ Package luatex.def Info: Cover.pdf , page1 used on input line 63.
 
 ] [6
 
-] (./main.toc [7])
+] (./main.toc
+Underfull \vbox (badness 1442) has occurred while \output is active []
+
+ [7])
 \tf@toc=\write6
 
 \openout6 = main.toc
- [8] (./main.lof
+
+[8] (./main.lof
 Package acronym Info: Label `acro:ROS' newly defined as it shall be overridden
 although it is yet undefined on input line 4.
 
@@ -1406,19 +1410,23 @@ a-tion be-gins when R (an [][][][]reactive
 
 Package acronym Info: Label `acro:ONT' newly defined as it shall be overridden
 although it is yet undefined on input line 6.
-)
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [9
+
+])
 \tf@lof=\write7
 
 \openout7 = main.lof
- [9
 
-] [10
-
-] (./main.lot)
+[10] (./main.lot)
 \tf@lot=\write8
 
 \openout8 = main.lot
- (./Acronyms.tex [11] [12
+ (./Acronyms.tex [11
+
+] [12
 
 ]
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -1460,7 +1468,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Package acronym Info: Label `acro:PUFA' newly defined as it shall be overridden
 
 although it is yet undefined on input line 18.
-<Fig/lpperox.jpg, id=451, 1027.84pt x 718.685pt>
+<Fig/lpperox.jpg, id=496, 1027.84pt x 718.685pt>
 File: Fig/lpperox.jpg Graphic file (type jpg)
 <use Fig/lpperox.jpg>
 Package luatex.def Info: Fig/lpperox.jpg  used on input line 22.
@@ -1498,22 +1506,33 @@ although it is yet undefined on input line 31.
 Package acronym Info: Label `acro:l-Glu' newly defined as it shall be overridde
 n
 although it is yet undefined on input line 31.
+Package acronym Info: Label `acro:FSP1' newly defined as it shall be overridden
+
+although it is yet undefined on input line 33.
+Package acronym Info: Label `acro:CoQ10' newly defined as it shall be overridde
+n
+although it is yet undefined on input line 33.
+Package acronym Info: Label `acro:CoQ10H2' newly defined as it shall be overrid
+den
+although it is yet undefined on input line 33.
 
 [5<./Fig/lpperox.jpg>]
-<Fig/ferroptosis.png, id=501, 342.5297pt x 396.7322pt>
+<Fig/ferroptosis.png, id=560, 342.5297pt x 396.7322pt>
 File: Fig/ferroptosis.png Graphic file (type png)
 <use Fig/ferroptosis.png>
 Package luatex.def Info: Fig/ferroptosis.png  used on input line 39.
 (luatex.def)             Requested size: 227.62206pt x 263.64803pt.
+
+Underfull \vbox (badness 2689) has occurred while \output is active []
+
  [6<./Fig/ferroptosis.png>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [7]
 Package acronym Info: Label `acro:SDT' newly defined as it shall be overridden
 although it is yet undefined on input line 54.
 Package acronym Info: Label `acro:PDT' newly defined as it shall be overridden
 although it is yet undefined on input line 54.
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [7]
 Package acronym Info: Label `acro:CpG' newly defined as it shall be overridden
 although it is yet undefined on input line 60.
 Package acronym Info: Label `acro:DNMT' newly defined as it shall be overridden
@@ -1539,6 +1558,7 @@ Overfull \hbox (2.91855pt too wide) in paragraph at lines 60--61
 dues in DNA ([]Robert-son, []2005[]).
  []
 
+[8]
 Package acronym Info: Label `acro:TET' newly defined as it shall be overridden
 although it is yet undefined on input line 62.
 Package acronym Info: Label `acro:5mC' newly defined as it shall be overridden
@@ -1559,7 +1579,7 @@ Overfull \hbox (0.54965pt too wide) in paragraph at lines 62--63
 ][][][]5-hydroxymethylcytosine ([])[], and
  []
 
-[8]
+
 Overfull \hbox (1.4266pt too wide) in paragraph at lines 64--65
 \TU/opensans(0)/m/n/12 Con-se-quently, a sig-nif-i-cant por-tion of fa-mil-ial 
 mu-ta-tions and single-nucleotide poly-
@@ -1574,58 +1594,91 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Package acronym Info: Label `acro:PCR' newly defined as it shall be overridden
 although it is yet undefined on input line 74.
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
+Underfull \vbox (badness 1502) has occurred while \output is active []
 
  [10]
-<Fig/ont_epi.png, id=619, 432.11438pt x 133.24782pt>
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [11]
+<Fig/ont_epi.png, id=688, 432.11438pt x 133.24782pt>
 File: Fig/ont_epi.png Graphic file (type png)
 <use Fig/ont_epi.png>
 Package luatex.def Info: Fig/ont_epi.png  used on input line 90.
 (luatex.def)             Requested size: 455.24411pt x 140.38602pt.
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
+[12<./Fig/ont_epi.png>]) (./text/Aims.tex [13] [14
 
- [11])
-(./text/Aims.tex [12<./Fig/ont_epi.png>]
+]
 Chapter 3.
-) (./text/Methods.tex [13
-
-] [14
+) (./text/Methods.tex [15] [16
 
 ]
 Chapter 4.
-<Fig/overview_temp.png, id=651, 858.95906pt x 295.85532pt>
+<Fig/overview_temp.png, id=723, 858.95906pt x 295.85532pt>
 File: Fig/overview_temp.png Graphic file (type png)
 <use Fig/overview_temp.png>
 Package luatex.def Info: Fig/overview_temp.png  used on input line 10.
 (luatex.def)             Requested size: 455.24411pt x 156.80257pt.
-[15<./Fig/overview_temp.png>]
+[17<./Fig/overview_temp.png>]
 Overfull \hbox (19.68143pt too wide) in paragraph at lines 45--46
 \TU/opensans(0)/m/n/12 For the epise-quenc-ing, a Prome-thION nanopore se-quenc-
 ing de-vice based at OHMX.bio
  []
 
-[16]) (./text/Results.tex [17] [18
+Package acronym Info: Label `acro:gDNA' newly defined as it shall be overridden
+
+although it is yet undefined on input line 49.
+[18]) (./text/Results.tex [19] [20
 
 ]
 Chapter 5.
-) (./text/Discussion.tex [19] [20
+<Fig/DE_volcano_human_RvsS_full.png, id=750, 1204.5pt x 1003.75pt>
+File: Fig/DE_volcano_human_RvsS_full.png Graphic file (type png)
+<use Fig/DE_volcano_human_RvsS_full.png>
+Package luatex.def Info: Fig/DE_volcano_human_RvsS_full.png  used on input line
+ 7.
+(luatex.def)             Requested size: 227.62206pt x 189.67299pt.
+<Fig/DE_MAplot_human_RvsS_full.png, id=751, 1505.625pt x 1003.75pt>
+File: Fig/DE_MAplot_human_RvsS_full.png Graphic file (type png)
+<use Fig/DE_MAplot_human_RvsS_full.png>
+Package luatex.def Info: Fig/DE_MAplot_human_RvsS_full.png  used on input line 
+14.
+(luatex.def)             Requested size: 227.62206pt x 151.73534pt.
+<Fig/PCA_full.png, id=752, 903.375pt x 903.375pt>
+File: Fig/PCA_full.png Graphic file (type png)
+<use Fig/PCA_full.png>
+Package luatex.def Info: Fig/PCA_full.png  used on input line 21.
+(luatex.def)             Requested size: 227.62206pt x 227.62138pt.
+<Fig/rld_hist_full.png, id=753, 481.8pt x 481.8pt>
+File: Fig/rld_hist_full.png Graphic file (type png)
+<use Fig/rld_hist_full.png>
+Package luatex.def Info: Fig/rld_hist_full.png  used on input line 28.
+(luatex.def)             Requested size: 227.62206pt x 227.62228pt.
+) (./text/Discussion.tex [21<./Fig/DE_volcano_human_RvsS_full.png>] [22<./Fig/DE
+_MAplot_human_RvsS_full.png><./Fig/PCA_full.png>] [23<./Fig/rld_hist_full.png>]
+ [24
 
 ]
 Chapter 6.
-) (./text/Appendix.tex [21] [22
+) (./text/Appendix.tex [25] [26
 
 ]
 Appendix A.
-) [23] [24
+) [27] [28
 
-] [25]
+] [29]
 Overfull \hbox (12.20995pt too wide) in paragraph at lines 89--89
 \TU/opensans(0)/m/n/12 epi-demi-ol-ogy: a com-par-i-son with DNA methy-la-tion 
 mi-croar-rays''. In: \TU/opensans(0)/m/it/12 Hu-man Molec-
  []
 
-[26] [27
+[30]
+Overfull \hbox (6.91975pt too wide) in paragraph at lines 89--89
+[][]\TU/opensans(0)/m/n/12 Ye, Yuanzhi et al. (Dec. 2022). ``Re-pres-sion of the
+ an-tiporter SLC7A11/glu-tathione/glu-
+ []
+
+[31
 Missing character: There is no ⁻ (U+207B) in font name:opensans:mode=node;scri
 pt=latn;language=dflt;+tlig;!
 ]
@@ -1654,32 +1707,32 @@ In: \TU/opensans(0)/m/it/12 Int. J. Mol. Sci. \TU/opensans(0)/m/n/12 21.9, p. 32
 33. 
  []
 
-[28]
+[32]
 Overfull \hbox (13.24178pt too wide) in paragraph at lines 89--89
 [][]\TU/opensans(0)/m/n/12 Gardiner-Garden, M and M From-mer (July 1987). ``CpG is-lands in ver-te-brate genomes''.
  []
 
-[29] [30] [31] [32] (./main.aux)
+[33] [34] [35] [36] [37] (./main.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-02-20>
  ***********
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 260FF21B66C033179F4105F0D5596B76;2579.
+(rerunfilecheck)             Checksum: 8E029410F7BC7466A3CC25FFE9E556FA;3277.
 Package logreq Info: Writing requests to 'main.run.xml'.
 
 \openout1 = main.run.xml
 )
 
 Here is how much of LuaTeX's memory you used:
- 38152 strings out of 476468
+ 38272 strings out of 476468
  125161,2373549 words of node,token memory allocated
  950 words of node memory still in use:
    6 hlist, 2 vlist, 2 rule, 2 glue, 4 kern, 1 glyph, 37 attribute, 85 glue_spec
 , 37 attribute_list, 2 write, 29 pdf_action nodes
-   avail lists: 1:1,2:1164,3:496,4:182,5:184,6:118,7:6283,8:82,9:561,10:30,11:65
-1
- 59157 multiletter control sequences out of 65536+600000
+   avail lists: 1:1,2:1191,3:482,4:183,5:184,6:120,7:6259,8:82,9:561,10:30,11:57
+4
+ 59241 multiletter control sequences out of 65536+600000
  50 fonts using 4885863 bytes
  105i,17n,100p,2531b,1951s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <c:/texlive/2023/texmf-dist/fonts/opentype/public/lm/lmmono12-regular.otf><c:/te
@@ -1690,10 +1743,10 @@ texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><c:/texlive/202
 3/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb><c:/texlive/2023/texmf-dist
 /fonts/type1/public/amsfonts/cm/cmsy10.pfb><c:/texlive/2023/texmf-dist/fonts/typ
 e1/public/amsfonts/cm/cmsy8.pfb>
-Output written on main.pdf (46 pages, 556938 bytes).
+Output written on main.pdf (51 pages, 640208 bytes).
 
-PDF statistics: 879 PDF objects out of 1000 (max. 8388607)
- 759 compressed objects within 8 object streams
- 181 named destinations out of 1000 (max. 131072)
- 168 words of extra memory for PDF output out of 10000 (max. 100000000)
+PDF statistics: 975 PDF objects out of 1000 (max. 8388607)
+ 841 compressed objects within 9 object streams
+ 205 named destinations out of 1000 (max. 131072)
+ 200 words of extra memory for PDF output out of 10000 (max. 100000000)
 
