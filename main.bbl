@@ -141,12 +141,12 @@
     \endentry
     \entry{non-apoptotic}{article}{}
       \name{author}{8}{}{%
-        {{un=0,uniquepart=base,hash=41b29c66713d7e710644f4a5bba3229d}{%
+        {{un=1,uniquepart=given,hash=41b29c66713d7e710644f4a5bba3229d}{%
            family={Ye},
            familyi={Y\bibinitperiod},
            given={Jing},
            giveni={J\bibinitperiod},
-           givenun=0}}%
+           givenun=1}}%
         {{un=0,uniquepart=base,hash=b90b3b518892cc5beb9ace7a81cbe628}{%
            family={Zhang},
            familyi={Z\bibinitperiod},
@@ -1460,6 +1460,423 @@
       \field{pages}{20\bibrangedash 34}
       \range{pages}{15}
     \endentry
+    \entry{gsh_system}{article}{}
+      \name{author}{13}{}{%
+        {{un=1,uniquepart=given,hash=88cb13c0e4baf0245fa227c5132a82e3}{%
+           family={Ye},
+           familyi={Y\bibinitperiod},
+           given={Yuanzhi},
+           giveni={Y\bibinitperiod},
+           givenun=1}}%
+        {{un=0,uniquepart=base,hash=9f5cb6384f1a9f812bbbab0023b6ecf5}{%
+           family={Chen},
+           familyi={C\bibinitperiod},
+           given={An},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=502de95c3193f5c283f4ef712520a97e}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Li},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a743ea73aa08d63a68ad382534dbf78f}{%
+           family={Liang},
+           familyi={L\bibinitperiod},
+           given={Qingchun},
+           giveni={Q\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=be64dc25dedceb6e16dc35c0c1e5a833}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Siyi},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=480030bba02f401bf7dd3a477130e0fe}{%
+           family={Dong},
+           familyi={D\bibinitperiod},
+           given={Qianqian},
+           giveni={Q\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=bcf07cb5f397db88a90d2d22ed1d571e}{%
+           family={Fu},
+           familyi={F\bibinitperiod},
+           given={Mingwei},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=37d33d871c20f722e5d1b9f1241f0ae0}{%
+           family={Lan},
+           familyi={L\bibinitperiod},
+           given={Zirong},
+           giveni={Z\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=dad450e6e17a141f48b97abc563bf1b0}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Yining},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ade4ff8a004de17a9e5eb07f4850ba81}{%
+           family={Liu},
+           familyi={L\bibinitperiod},
+           given={Xiaoyu},
+           giveni={X\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=521691ff0890ad8d7bf6bcf22db4d88f}{%
+           family={Ou},
+           familyi={O\bibinitperiod},
+           given={Jing-Song},
+           giveni={J\bibinithyphendelim S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=866f897073206c7d979767fb71ea14e5}{%
+           family={Lu},
+           familyi={L\bibinitperiod},
+           given={Lihe},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4febe22e2e8d21917e521e11b8f76e55}{%
+           family={Yan},
+           familyi={Y\bibinitperiod},
+           given={Jianyun},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier BV}%
+      }
+      \strng{namehash}{7f5c1417f9a426206f250992f240c58e}
+      \strng{fullhash}{a966f58e38305b773cd70bf2559807b5}
+      \strng{bibnamehash}{7f5c1417f9a426206f250992f240c58e}
+      \strng{authorbibnamehash}{7f5c1417f9a426206f250992f240c58e}
+      \strng{authornamehash}{7f5c1417f9a426206f250992f240c58e}
+      \strng{authorfullhash}{a966f58e38305b773cd70bf2559807b5}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Vascular calcification is a common pathologic condition in patients with chronic kidney disease (CKD). Cell death such as apoptosis plays a critical role in vascular calcification. Ferroptosis is a type of iron-catalyzed and regulated cell death resulting from excessive iron-dependent reactive oxygen species and lipid peroxidation. However, it is unclear whether ferroptosis of vascular smooth muscle cells (VSMCs) regulates vascular calcification in CKD. Our results showed that high calcium and phosphate concentrations induced ferroptosis in rat VSMCs in vitro. Inhibition of ferroptosis by ferrostatin-1 dose-dependently reduced mineral deposition in rat VSMCs under pro-osteogenic conditions, as indicated by alizarin red staining and quantification of calcium content. In addition, gene expression analysis revealed that ferrostatin-1 inhibited osteogenic differentiation of rat VSMCs. Similarly, ferrostatin-1 remarkably attenuated calcification of rat and human arterial rings ex vivo and aortic calcification in vitamin D3-overloaded mice in vivo. Moreover, inhibition of ferroptosis by either ferrostatin-1 or deferoxamine attenuated aortic calcification in rats with CKD. Mechanistically, high calcium and phosphate downregulated expression of SLC7A11 (a cystine-glutamate antiporter), and reduced glutathione (GSH) content in VSMCs. Additionally, GSH depletion induced by erastin (a small molecule initiating ferroptotic cell death) significantly promoted calcification of VSMCs under pro-osteogenic conditions, whereas GSH supplement by N-acetylcysteine reduced calcification of VSMCs. Consistently, knockdown of SLC7A11 by siRNA markedly promoted VSMC calcification. Furthermore, high calcium and phosphate downregulated glutathione peroxidase 4 (GPX4) expression, and reduced glutathione peroxidase activity. Inhibition of GPX4 by RSL3 promoted VSMC calcification. Thus, repression of the SLC7A11/GSH/GPX4 axis triggers ferroptosis of VSMCs to promote vascular calcification under CKD conditions, providing a novel targeting strategy for vascular calcification.}
+      \field{journaltitle}{Kidney Int.}
+      \field{month}{12}
+      \field{number}{6}
+      \field{title}{Repression of the antiporter {SLC7A11/glutathione/glutathione} peroxidase 4 axis drives ferroptosis of vascular smooth muscle cells to facilitate vascular calcification}
+      \field{volume}{102}
+      \field{year}{2022}
+      \field{pages}{1259\bibrangedash 1275}
+      \range{pages}{17}
+      \keyw{SLC7A11; chronic kidney disease; ferroptosis; oxidative stress; vascular calcification; vascular smooth muscle cell}
+    \endentry
+    \entry{fsp1}{article}{}
+      \name{author}{32}{ul=2}{%
+        {{un=0,uniquepart=base,hash=49b48c26298be15b59ceb340826431e3}{%
+           family={Doll},
+           familyi={D\bibinitperiod},
+           given={Sebastian},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=103ea3a7901822049514ffa00e28e3bf}{%
+           family={Freitas},
+           familyi={F\bibinitperiod},
+           given={Florencio\bibnamedelima Porto},
+           giveni={F\bibinitperiod\bibinitdelim P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=33e794b9dcf1976bacb7d2dd08ca8df7}{%
+           family={Shah},
+           familyi={S\bibinitperiod},
+           given={Ron},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=cec04e0c00ef9fef69a34e5670034dac}{%
+           family={Aldrovandi},
+           familyi={A\bibinitperiod},
+           given={Maceler},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d7a96ce2806c8811c841aa558742c079}{%
+           family={Silva},
+           familyi={S\bibinitperiod},
+           given={Milene\bibnamedelima Costa},
+           giveni={M\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0,
+           prefix={da},
+           prefixi={d\bibinitperiod},
+           prefixun=0}}%
+        {{un=0,uniquepart=base,hash=ff4aef3774b56f96afaa2c3cd0d7e592}{%
+           family={Ingold},
+           familyi={I\bibinitperiod},
+           given={Irina},
+           giveni={I\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d84fcad06fb9bcbfe7925f7f621ce37f}{%
+           family={Goya\bibnamedelima Grocin},
+           familyi={G\bibinitperiod\bibinitdelim G\bibinitperiod},
+           given={Andrea},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=58a9a36b64bc3cd1171e337e2880ad22}{%
+           family={Xavier\bibnamedelimb da\bibnamedelima Silva},
+           familyi={X\bibinitperiod\bibinitdelim d\bibinitperiod\bibinitdelim S\bibinitperiod},
+           given={Thamara\bibnamedelima Nishida},
+           giveni={T\bibinitperiod\bibinitdelim N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=25052f1b222b754ff8e40640a9937dbe}{%
+           family={Panzilius},
+           familyi={P\bibinitperiod},
+           given={Elena},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=da56e27239c328b6484bd12ad3a6d005}{%
+           family={Scheel},
+           familyi={S\bibinitperiod},
+           given={Christina\bibnamedelima H},
+           giveni={C\bibinitperiod\bibinitdelim H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=15515d5a19c0acdb8cbdf4afd2ae29e2}{%
+           family={Mourão},
+           familyi={M\bibinitperiod},
+           given={André},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3d15979f44ae97b05ba58518a57e20d5}{%
+           family={Buday},
+           familyi={B\bibinitperiod},
+           given={Katalin},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4c0ef04c558fcb52bad2566f2960c9c7}{%
+           family={Sato},
+           familyi={S\bibinitperiod},
+           given={Mami},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=acd472b65e950421a9f321e3079cab2a}{%
+           family={Wanninger},
+           familyi={W\bibinitperiod},
+           given={Jonas},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c3d82ff8c1f6d9e6de735eca2ab17385}{%
+           family={Vignane},
+           familyi={V\bibinitperiod},
+           given={Thibaut},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8ee82495d79c8b07879e3ec695c886c3}{%
+           family={Mohana},
+           familyi={M\bibinitperiod},
+           given={Vaishnavi},
+           giveni={V\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=79d397d88820216543fabf62a8fe2e1e}{%
+           family={Rehberg},
+           familyi={R\bibinitperiod},
+           given={Markus},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0cb564979cad324ba03665c52cb5ed21}{%
+           family={Flatley},
+           familyi={F\bibinitperiod},
+           given={Andrew},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3bdd59468ee8eb30d8fed14edf922e9a}{%
+           family={Schepers},
+           familyi={S\bibinitperiod},
+           given={Aloys},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e07a93c9bfb6ef9f70950b33e3a7591b}{%
+           family={Kurz},
+           familyi={K\bibinitperiod},
+           given={Andreas},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7b4c18b7472567438ba853167e6e0870}{%
+           family={White},
+           familyi={W\bibinitperiod},
+           given={Daniel},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3a9c064d0cebd533f906c51db634be38}{%
+           family={Sauer},
+           familyi={S\bibinitperiod},
+           given={Markus},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=89fcc46cc1a3711ac70c79e1055687d3}{%
+           family={Sattler},
+           familyi={S\bibinitperiod},
+           given={Michael},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b7f4df90fca872e9669f64a20ee5bfd2}{%
+           family={Tate},
+           familyi={T\bibinitperiod},
+           given={Edward\bibnamedelima William},
+           giveni={E\bibinitperiod\bibinitdelim W\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=05e33cbd36a80594c16f251cc7f0836e}{%
+           family={Schmitz},
+           familyi={S\bibinitperiod},
+           given={Werner},
+           giveni={W\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2453bd7b03b9a453c26bd843601b28f4}{%
+           family={Schulze},
+           familyi={S\bibinitperiod},
+           given={Almut},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ab8ea55408fa95771e3ff7828949ce14}{%
+           family={O'Donnell},
+           familyi={O\bibinitperiod},
+           given={Valerie},
+           giveni={V\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8771866d5efda15864420ffbe03c6133}{%
+           family={Proneth},
+           familyi={P\bibinitperiod},
+           given={Bettina},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2d3b3d3a9e27d1f2633ec1f880a4c62a}{%
+           family={Popowicz},
+           familyi={P\bibinitperiod},
+           given={Grzegorz\bibnamedelima M},
+           giveni={G\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9c4d3b7c2fa273380ad228a877acb30e}{%
+           family={Pratt},
+           familyi={P\bibinitperiod},
+           given={Derek\bibnamedelima A},
+           giveni={D\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3e188d907fc7c7b0d173a4172095da23}{%
+           family={Angeli},
+           familyi={A\bibinitperiod},
+           given={José\bibnamedelimb Pedro\bibnamedelima Friedmann},
+           giveni={J\bibinitperiod\bibinitdelim P\bibinitperiod\bibinitdelim F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=80e037cf803650ba8637053a5b5b7f42}{%
+           family={Conrad},
+           familyi={C\bibinitperiod},
+           given={Marcus},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \list{publisher}{2}{%
+        {Springer Science}%
+        {Business Media LLC}%
+      }
+      \strng{namehash}{78bf2dd93eea89b5c8d4400dc99518b7}
+      \strng{fullhash}{fff2fe5e0f3ff335ef6912f53928bb03}
+      \strng{bibnamehash}{78bf2dd93eea89b5c8d4400dc99518b7}
+      \strng{authorbibnamehash}{78bf2dd93eea89b5c8d4400dc99518b7}
+      \strng{authornamehash}{78bf2dd93eea89b5c8d4400dc99518b7}
+      \strng{authorfullhash}{fff2fe5e0f3ff335ef6912f53928bb03}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Ferroptosis is an iron-dependent form of necrotic cell death marked by oxidative damage to phospholipids1,2. To date, ferroptosis has been thought to be controlled only by the phospholipid hydroperoxide-reducing enzyme glutathione peroxidase 4 (GPX4)3,4 and radical-trapping antioxidants5,6. However, elucidation of the factors that underlie the sensitivity of a given cell type to ferroptosis7 is crucial to understand the pathophysiological role of ferroptosis and how it may be exploited for the treatment of cancer. Although metabolic constraints8 and phospholipid composition9,10 contribute to ferroptosis sensitivity, no cell-autonomous mechanisms have been identified that account for the resistance of cells to ferroptosis. Here we used an expression cloning approach to identify genes in human cancer cells that are able to complement the loss of GPX4. We found that the flavoprotein apoptosis-inducing factor mitochondria-associated 2 (AIFM2) is a previously unrecognized anti-ferroptotic gene. AIFM2, which we renamed ferroptosis suppressor protein 1 (FSP1) and which was initially described as a pro-apoptotic gene11, confers protection against ferroptosis elicited by GPX4 deletion. We further demonstrate that the suppression of ferroptosis by FSP1 is mediated by ubiquinone (also known as coenzyme Q10, CoQ10): the reduced form, ubiquinol, traps lipid peroxyl radicals that mediate lipid peroxidation, whereas FSP1 catalyses the regeneration of CoQ10 using NAD(P)H. Pharmacological targeting of FSP1 strongly synergizes with GPX4 inhibitors to trigger ferroptosis in a number of cancer entities. In conclusion, the FSP1-CoQ10-NAD(P)H pathway exists as a stand-alone parallel system, which co-operates with GPX4 and glutathione to suppress phospholipid peroxidation and ferroptosis.}
+      \field{journaltitle}{Nature}
+      \field{month}{11}
+      \field{number}{7784}
+      \field{title}{{FSP1} is a glutathione-independent ferroptosis suppressor}
+      \field{volume}{575}
+      \field{year}{2019}
+      \field{pages}{693\bibrangedash 698}
+      \range{pages}{6}
+    \endentry
+    \entry{fsp1_2}{article}{}
+      \name{author}{8}{}{%
+        {{un=1,uniquepart=given,hash=9845261412338f09f9fda112e8d5206d}{%
+           family={Yang},
+           familyi={Y\bibinitperiod},
+           given={Ming},
+           giveni={M\bibinitperiod},
+           givenun=1}}%
+        {{un=0,uniquepart=base,hash=5f8ee26912fd8662061f5ddc6edb1c5b}{%
+           family={Tsui},
+           familyi={T\bibinitperiod},
+           given={Michelle\bibnamedelima Grace},
+           giveni={M\bibinitperiod\bibinitdelim G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1c17c1df5fdaeb918531dd98a3ab2b72}{%
+           family={Tsang},
+           familyi={T\bibinitperiod},
+           given={Jessica\bibnamedelimb Kwan\bibnamedelima Wun},
+           giveni={J\bibinitperiod\bibinitdelim K\bibinitperiod\bibinitdelim W\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2a6346f8b3367ad8958282dc193625f8}{%
+           family={Goit},
+           familyi={G\bibinitperiod},
+           given={Rajesh\bibnamedelima Kumar},
+           giveni={R\bibinitperiod\bibinitdelim K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9ee8cd2bbc915481ae912c3592eaa35a}{%
+           family={Yao},
+           familyi={Y\bibinitperiod},
+           given={Kwok-Ming},
+           giveni={K\bibinithyphendelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=117078d150417bc75763eaa92f00b7a8}{%
+           family={So},
+           familyi={S\bibinitperiod},
+           given={Kwok-Fai},
+           giveni={K\bibinithyphendelim F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=471c2cc9d6525ae594a0ed86faf0c6a2}{%
+           family={Lam},
+           familyi={L\bibinitperiod},
+           given={Wai-Ching},
+           giveni={W\bibinithyphendelim C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=134ba2d6202e7aa6cda5ec064a78ff70}{%
+           family={Lo},
+           familyi={L\bibinitperiod},
+           given={Amy\bibnamedelimb Cheuk\bibnamedelima Yin},
+           giveni={A\bibinitperiod\bibinitdelim C\bibinitperiod\bibinitdelim Y\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \list{publisher}{2}{%
+        {Springer Science}%
+        {Business Media LLC}%
+      }
+      \strng{namehash}{47181202932d049772d4bc4459431565}
+      \strng{fullhash}{61e521545feb3bb8e5753d74c11fc728}
+      \strng{bibnamehash}{47181202932d049772d4bc4459431565}
+      \strng{authorbibnamehash}{47181202932d049772d4bc4459431565}
+      \strng{authornamehash}{47181202932d049772d4bc4459431565}
+      \strng{authorfullhash}{61e521545feb3bb8e5753d74c11fc728}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Retinal pigment epithelium (RPE) degeneration plays an important role in a group of retinal disorders such as retinal degeneration (RD) and age-related macular degeneration (AMD). The mechanism of RPE cell death is not yet fully elucidated. Ferroptosis, a novel regulated cell death pathway, participates in cancer and several neurodegenerative diseases. Glutathione peroxidase 4 (GPx-4) and ferroptosis suppressor protein 1 (FSP1) have been proposed to be two main regulators of ferroptosis in these diseases; yet, their roles in RPE degeneration remain elusive. Here, we report that both FSP1-CoQ10-NADH and GSH-GPx-4 pathways inhibit retinal ferroptosis in sodium iodate (SIO)-induced retinal degeneration pathologies in human primary RPE cells (HRPEpiC), ARPE-19 cell line, and mice. GSH-GPx-4 signaling was compromised after a toxic injury caused by SIO, which was aggravated by silencing GPx-4, and ferroptosis inhibitors robustly protected RPE cells from the challenge. Interestingly, while inhibition of FSP1 caused RPE cell death, which was aggravated by SIO exposure, overexpression of FSP1 effectively protected RPE cells from SIO-induced injury, accompanied by a significant down-regulation of CoQ10/NADH and lipid peroxidation. Most importantly, in vivo results showed that Ferrostatin-1 not only remarkably alleviated SIO-induced RPE cell loss, photoreceptor death, and retinal dysfunction but also significantly ameliorated the compromised GSH-GPx-4 and FSP1-CoQ10-NADH signaling in RPE cells isolated from SIO-induced RPE degeneration. These data describe a distinct role for ferroptosis in controlling RPE cell death in vitro and in vivo and may provide a new avenue for identifying treatment targets for RPE degeneration.}
+      \field{journaltitle}{Cell Death Dis.}
+      \field{month}{5}
+      \field{number}{5}
+      \field{title}{Involvement of {FSP1-CoQ10-NADH} and {GSH-GPx-4} pathways in retinal pigment epithelium ferroptosis}
+      \field{volume}{13}
+      \field{year}{2022}
+      \field{pages}{468}
+      \range{pages}{1}
+    \endentry
     \entry{mito_ferro2}{article}{}
       \name{author}{6}{}{%
         {{un=0,uniquepart=base,hash=98a0a66d38a9d8520101724a56eaa1bc}{%
@@ -1533,7 +1950,7 @@
       \endverb
     \endentry
     \entry{mito_ferro3}{article}{}
-      \name{author}{22}{}{%
+      \name{author}{22}{ul=2}{%
         {{un=0,uniquepart=base,hash=49b48c26298be15b59ceb340826431e3}{%
            family={Doll},
            familyi={D\bibinitperiod},
@@ -1674,14 +2091,14 @@
         {Springer Science}%
         {Business Media LLC}%
       }
-      \strng{namehash}{a6f6ca42ed06bbdc5b4cb50e71779d90}
+      \strng{namehash}{755fac836bc062001a32469f4ded531b}
       \strng{fullhash}{c8717d2327947dbb7db8745e625d7a2a}
-      \strng{bibnamehash}{a6f6ca42ed06bbdc5b4cb50e71779d90}
-      \strng{authorbibnamehash}{a6f6ca42ed06bbdc5b4cb50e71779d90}
-      \strng{authornamehash}{a6f6ca42ed06bbdc5b4cb50e71779d90}
+      \strng{bibnamehash}{755fac836bc062001a32469f4ded531b}
+      \strng{authorbibnamehash}{755fac836bc062001a32469f4ded531b}
+      \strng{authornamehash}{755fac836bc062001a32469f4ded531b}
       \strng{authorfullhash}{c8717d2327947dbb7db8745e625d7a2a}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \field{labelnamesource}{author}
@@ -1747,8 +2164,8 @@
       \strng{authorbibnamehash}{ddb34d8388e2b92997a0407970f860f7}
       \strng{authornamehash}{ddb34d8388e2b92997a0407970f860f7}
       \strng{authorfullhash}{6b92e498a7e3f7257d714d457f38ff11}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \field{labelnamesource}{author}
@@ -1817,8 +2234,8 @@
       \strng{authorbibnamehash}{187cf6f5ed7ed13c933eea6e1c544fd4}
       \strng{authornamehash}{187cf6f5ed7ed13c933eea6e1c544fd4}
       \strng{authorfullhash}{45b39185e42009eb845e1691a25ac0c4}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \field{labelnamesource}{author}
@@ -6860,8 +7277,8 @@
       \strng{authorbibnamehash}{a244cad6488831c17cf55fc323864b53}
       \strng{authornamehash}{a244cad6488831c17cf55fc323864b53}
       \strng{authorfullhash}{af9048e555113261ca74fa62b13657f0}
-      \field{sortinit}{3}
-      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \field{labelnamesource}{author}
@@ -6887,12 +7304,12 @@
     \endentry
     \entry{ferro_res}{article}{}
       \name{author}{8}{}{%
-        {{un=0,uniquepart=base,hash=d2f7fd6776c2cd943da3b024cd30e114}{%
+        {{un=1,uniquepart=given,hash=d2f7fd6776c2cd943da3b024cd30e114}{%
            family={Yang},
            familyi={Y\bibinitperiod},
            given={Cuixia},
            giveni={C\bibinitperiod},
-           givenun=0}}%
+           givenun=1}}%
         {{un=0,uniquepart=base,hash=e066175f85c0a9f2572023841f62ebc2}{%
            family={He},
            familyi={H\bibinitperiod},
@@ -6946,8 +7363,8 @@
       \strng{authorbibnamehash}{b142205b39428d2f34c57a57557b624b}
       \strng{authornamehash}{b142205b39428d2f34c57a57557b624b}
       \strng{authorfullhash}{aa79d33a7b4030b39c29d07ecd84f9ed}
-      \field{sortinit}{3}
-      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \field{labelnamesource}{author}
@@ -6993,8 +7410,8 @@
       \strng{authorbibnamehash}{cf9a57ce9311b861740d0458814b4d77}
       \strng{authornamehash}{cf9a57ce9311b861740d0458814b4d77}
       \strng{authorfullhash}{cf9a57ce9311b861740d0458814b4d77}
-      \field{sortinit}{3}
-      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \field{labelnamesource}{author}
@@ -7484,8 +7901,8 @@
       \strng{authorbibnamehash}{66fa0ff3d840b5bb49b70b8e71134a60}
       \strng{authornamehash}{66fa0ff3d840b5bb49b70b8e71134a60}
       \strng{authorfullhash}{d61755cc8864d2d78a4ab6b155282ce8}
-      \field{sortinit}{4}
-      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \field{labelnamesource}{author}
@@ -7678,8 +8095,8 @@
       \strng{authorbibnamehash}{775923f9fe495ded8d26fd2bbd3c037b}
       \strng{authornamehash}{775923f9fe495ded8d26fd2bbd3c037b}
       \strng{authorfullhash}{3eedf15f9a7cdb3ac2e31d5c012508b5}
-      \field{sortinit}{4}
-      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \field{labelnamesource}{author}
@@ -7717,8 +8134,8 @@
       \strng{authorbibnamehash}{b11d5bda2dd75a71ab728427d6c17f4c}
       \strng{authornamehash}{b11d5bda2dd75a71ab728427d6c17f4c}
       \strng{authorfullhash}{b11d5bda2dd75a71ab728427d6c17f4c}
-      \field{sortinit}{4}
-      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \field{labelnamesource}{author}
@@ -8046,8 +8463,8 @@
       \strng{authorbibnamehash}{e53c0df8aef709bf5270c9e1c7ac22e0}
       \strng{authornamehash}{e53c0df8aef709bf5270c9e1c7ac22e0}
       \strng{authorfullhash}{319957af7ebb94d350f83fca1e795a57}
-      \field{sortinit}{5}
-      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \field{labelnamesource}{author}
@@ -8098,8 +8515,8 @@
       \strng{authorbibnamehash}{e45aaea03400cb42750f0d48c5b82f7a}
       \strng{authornamehash}{e45aaea03400cb42750f0d48c5b82f7a}
       \strng{authorfullhash}{e45aaea03400cb42750f0d48c5b82f7a}
-      \field{sortinit}{5}
-      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \field{labelnamesource}{author}
@@ -8179,8 +8596,8 @@
       \strng{authorbibnamehash}{2ad0b7d19bf53b8f5442266a5613e499}
       \strng{authornamehash}{2ad0b7d19bf53b8f5442266a5613e499}
       \strng{authorfullhash}{fd10a4c1849ef00f9b341fef09876326}
-      \field{sortinit}{5}
-      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \field{labelnamesource}{author}

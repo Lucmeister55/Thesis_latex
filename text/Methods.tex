@@ -46,9 +46,13 @@ For the episequencing, a PromethION nanopore sequencing device based at OHMX.bio
 
 From the whitelist, a BED file was constructed. Additionally, each gene was extended by 15kB, after which overlapping genes were joined together.
 
-Library prep involved following protocol SQK-NBD114.24, describing how to carry out native barcoding of genomic DNA (gDNA) using the Native Barcoding Kit 24 V14. Raw signal data in pod5 format was basecalled with a SUP model and 5(h)mC calling in CG context using GPU hardware on a GridION unit installed at OHMX.bio, and then subsequently demultiplexed. The basecalling model was set to fast, with the intent of making the decision of whether to reverse the voltage of the pore as fast as possible. The resulting unmapped bams were then aligned against a reference genome, and finally sorted and indexed using SAMtools \citep{samtools}.
+Library prep involved following protocol SQK-NBD114.24, describing how to carry out native barcoding of \ac{gDNA} using the Native Barcoding Kit 24 V14. Raw signal data in pod5 format was basecalled with a SUP model and 5(h)mC calling in CG context using GPU hardware on a GridION unit installed at OHMX.bio, and then subsequently demultiplexed. The basecalling model was set to fast, with the intent of making the decision of whether to reverse the voltage of the pore as fast as possible. The resulting unmapped bam files were then aligned against a reference genome, and finally sorted and indexed using SAMtools \citep{samtools}.
 
 \section{Differential Gene Expression Analysis}
+
+
+
+\section{Feature Engineering}
 
 
 
