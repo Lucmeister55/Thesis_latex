@@ -1,17 +1,6 @@
 \chapter[Methods]%
 {Methods}
 
-\section{Introduction}
-
-Firstly, differential gene expression analysis was performed. Then, feature reduction of the base-level modification information obtained from ONT episequencing was carride out. Finally, we trained a predictive model using the reduced feature matrix.
-
-\begin{figure}[ht]
-        \begin{center}
-            \includegraphics[width = \textwidth]{Fig/overview_temp.png}
-        \end{center}
-        \caption{Overview workflow.}
-\end{figure}
-
 \section{Samples}
 
 To start off, expression data from 4 cell lines was gathered, namely 2 resistant and 2 sensitive neuroblastoma cell lines in quadruplicate (16 samples in total). These cell lines were characterized in terms of sensitivity towards ferroptosis beforehand experimentally. Furthermore, neuroblastoma is highly iron addicted which makes it exceptionally vulnerable to ferroptosis \citep{nb_iron}. Metadata for each cell line can be found in Table \ref{tab:cellline_meta}.
@@ -59,3 +48,9 @@ Library prep involved following protocol SQK-NBD114.24, describing how to carry 
 \section{Feature Reduction}
 
 Since the episequencing returns many thousands of individual detected CpGs by locus, the number of features in our model will be staggering if used in its raw form. The first reduction of features will be actualized by bundling CpG sites into regions (e.g. CpG islands). A second dimensionality reduction will also be performed based on drivers derived from expression data, to remove sites or regions without genes that are differentially expressed by sensitivity.
+
+\section{Modelling}
+
+\section{Post-Analysis}
+
+\section{Sensitization}
