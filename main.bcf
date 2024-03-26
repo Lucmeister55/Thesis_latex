@@ -2427,8 +2427,16 @@
     <bcf:citekey order="62" intorder="1">long_read_adv</bcf:citekey>
     <bcf:citekey order="63" intorder="1">long_read_adv2</bcf:citekey>
     <bcf:citekey order="64" intorder="1">ont_as</bcf:citekey>
-    <bcf:citekey order="65" intorder="1">nb_iron</bcf:citekey>
-    <bcf:citekey order="66" intorder="1">samtools</bcf:citekey>
+    <bcf:citekey order="65" intorder="1">bioinf</bcf:citekey>
+    <bcf:citekey order="66" intorder="1">bioinf_ferro</bcf:citekey>
+    <bcf:citekey order="67" intorder="1">ngs_cancer</bcf:citekey>
+    <bcf:citekey order="68" intorder="1">maldi-tof</bcf:citekey>
+    <bcf:citekey order="69" intorder="1">bioinf_corona</bcf:citekey>
+    <bcf:citekey order="70" intorder="1">bioinf_clin</bcf:citekey>
+    <bcf:citekey order="71" intorder="1">bioinf_clin2</bcf:citekey>
+    <bcf:citekey order="72" intorder="1">pm_bio</bcf:citekey>
+    <bcf:citekey order="73" intorder="1">nb_iron</bcf:citekey>
+    <bcf:citekey order="74" intorder="1">samtools</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="none">

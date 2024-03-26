@@ -5,6 +5,7 @@
 \contentsline {section}{\numberline {2.2}The Prospect of Ferroptosis in Cancer Therapy}{7}{section.2.2}%
 \contentsline {section}{\numberline {2.3}DNA Methylation and its Role in Cancer}{8}{section.2.3}%
 \contentsline {section}{\numberline {2.4}DNA Methylation Detection Techniques}{10}{section.2.4}%
+\contentsline {section}{\numberline {2.5}Predictive Modeling in Clinical Bioinformatics}{13}{section.2.5}%
 \contentsline {chapter}{\numberline {3}Aims}{15}{chapter.3}%
 \contentsline {chapter}{\numberline {4}Methods}{17}{chapter.4}%
 \contentsline {section}{\numberline {4.1}Samples}{17}{section.4.1}%

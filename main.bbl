@@ -376,12 +376,12 @@
     \endentry
     \entry{bisulfite2}{inbook}{}
       \name{author}{2}{}{%
-        {{un=0,uniquepart=base,hash=f0e7cf39d9e7d3e8388f69018952b525}{%
+        {{un=1,uniquepart=given,hash=f0e7cf39d9e7d3e8388f69018952b525}{%
            family={Li},
            familyi={L\bibinitperiod},
            given={Yuanyuan},
            giveni={Y\bibinitperiod},
-           givenun=0}}%
+           givenun=1}}%
         {{un=0,uniquepart=base,hash=15c05d1adbd0e162a9f07363def24f6c}{%
            family={Tollefsbol},
            familyi={T\bibinitperiod},
@@ -1061,12 +1061,12 @@
            given={Lien\bibnamedelima Ai},
            giveni={L\bibinitperiod\bibinitdelim A\bibinitperiod},
            givenun=1}}%
-        {{un=0,uniquepart=base,hash=2909c7ce0a545c65dba3a93751e7c419}{%
+        {{un=1,uniquepart=given,hash=2909c7ce0a545c65dba3a93751e7c419}{%
            family={He},
            familyi={H\bibinitperiod},
            given={Hua},
            giveni={H\bibinitperiod},
-           givenun=0}}%
+           givenun=1}}%
         {{un=1,uniquepart=given,hash=df00a2268e1230efb248fded4b078eec}{%
            family={Pham-Huy},
            familyi={P\bibinithyphendelim H\bibinitperiod},
@@ -8738,6 +8738,442 @@
       \verb http://dx.doi.org/10.1186/s13059-021-02582-x
       \endverb
     \endentry
+    \entry{bioinf}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=688688b3ffb058a1586395c81a8d3660}{%
+           family={Kholodenko},
+           familyi={K\bibinitperiod},
+           given={Boris},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=cf07d7dc41de5a2876e78d6ee902b4b2}{%
+           family={Yaffe},
+           familyi={Y\bibinitperiod},
+           given={Michael\bibnamedelima B},
+           giveni={M\bibinitperiod\bibinitdelim B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8174ff97b2b73529cdb140387393dc8b}{%
+           family={Kolch},
+           familyi={K\bibinitperiod},
+           given={Walter},
+           giveni={W\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \list{publisher}{1}{%
+        {American Association for the Advancement of Science (AAAS)}%
+      }
+      \strng{namehash}{5a184016ba128b457bbf00fa2dba82fb}
+      \strng{fullhash}{5a184016ba128b457bbf00fa2dba82fb}
+      \strng{bibnamehash}{5a184016ba128b457bbf00fa2dba82fb}
+      \strng{authorbibnamehash}{5a184016ba128b457bbf00fa2dba82fb}
+      \strng{authornamehash}{5a184016ba128b457bbf00fa2dba82fb}
+      \strng{authorfullhash}{5a184016ba128b457bbf00fa2dba82fb}
+      \field{extraname}{1}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{extradate}{1}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Signaling network construction and analysis provide insights into biology and medicine.}
+      \field{journaltitle}{Sci. Signal.}
+      \field{month}{4}
+      \field{number}{220}
+      \field{title}{Computational approaches for analyzing information flow in biological networks}
+      \field{volume}{5}
+      \field{year}{2012}
+      \field{pages}{re1\bibrangedash re1}
+      \range{pages}{-1}
+    \endentry
+    \entry{bioinf_ferro}{article}{}
+      \name{author}{3}{}{%
+        {{un=1,uniquepart=given,hash=23b501650b17f341ebc0b12905086fb5}{%
+           family={He},
+           familyi={H\bibinitperiod},
+           given={Jie},
+           giveni={J\bibinitperiod},
+           givenun=1}}%
+        {{un=1,uniquepart=given,hash=3e02cc9d81e7945b95c1d4499a7a6e75}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Xiaoyan},
+           giveni={X\bibinitperiod},
+           givenun=1}}%
+        {{un=0,uniquepart=base,hash=4f98ad35bcf1291d154805540a29dbec}{%
+           family={Yu},
+           familyi={Y\bibinitperiod},
+           given={Mi},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \list{publisher}{1}{%
+        {Frontiers Media SA}%
+      }
+      \strng{namehash}{4519ec66fe1d8087f4e041cf2f5731ba}
+      \strng{fullhash}{4519ec66fe1d8087f4e041cf2f5731ba}
+      \strng{bibnamehash}{4519ec66fe1d8087f4e041cf2f5731ba}
+      \strng{authorbibnamehash}{4519ec66fe1d8087f4e041cf2f5731ba}
+      \strng{authornamehash}{4519ec66fe1d8087f4e041cf2f5731ba}
+      \strng{authorfullhash}{4519ec66fe1d8087f4e041cf2f5731ba}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Objective: Ferroptosis has an important role in developing pulmonary fibrosis. The present project aimed to identify and validate the potential ferroptosis-related genes in pulmonary fibrosis by bioinformatics analyses and experiments. Methods: First, the pulmonary fibrosis tissue sequencing data were obtained from Gene Expression Omnibus (GEO) and FerrDb databases. Bioinformatics methods were used to analyze the differentially expressed genes (DEGs) between the normal control group and the pulmonary fibrosis group and extract ferroptosis-related DEGs. Hub genes were screened by enrichment analysis, protein-protein interaction (PPI) analysis, and random forest algorithm. Finally, mouse pulmonary fibrosis model was made for performing an exercise intervention and the hub genes' expression was verified through qRT-PCR. Results: 13 up-regulated genes and 7 down-regulated genes were identified as ferroptosis-related DEGs by comparing 103 lung tissues with idiopathic pulmonary fibrosis (IPF) and 103 normal lung tissues. PPI results indicated the interactions among these ferroptosis-related genes. Kyoto Encyclopedia of Genes and Genomes (KEGG) Pathway enrichment and Genome-Ontology (GO) enrichment analyses showed that these ferroptosis-related genes involved in the organic anion transport, response to hypoxia, response to decrease oxygen level, HIF-1 signaling pathway, renal cell carcinoma, and arachidonic acid metabolism signaling pathway. The confirmed genes using PPI analysis and random forest algorithm included CAV1, NOS2, GDF15, HNF4A, and CDKN2A. qRT-PCR of the fibrotic lung tissues from the mouse model showed that the mRNA levels of NOS2 and GDF15 were up-regulated, while CAV1 and CDKN2A were down-regulated. Also, treadmill training led to an increased expression of CAV1 and CDKN2A and a decrease in the expression of NOS2 and GDF15. Conclusion: Using bioinformatics analysis, 20 potential genes were identified to be associated with ferroptosis in pulmonary fibrosis. CAV1, NOS2, GDF15, and CDKN2A were demonstrated to be influencing the development of pulmonary fibrosis by regulating ferroptosis. These findings suggested that, as an aerobic exercise treatment, treadmill training reduced ferroptosis in the pulmonary fibrosis tissues, and thus, reduces inflammation in the lungs. Aerobic exercise training initiate concomitantly with induction of pulmonary fibrosis reduces ferroptosis in lung. These results may develop our knowledge about pulmonary fibrosis and may contribute to its treatment.}
+      \field{journaltitle}{Front. Genet.}
+      \field{title}{Bioinformatics analysis identifies potential ferroptosis key genes in the pathogenesis of pulmonary fibrosis}
+      \field{volume}{12}
+      \field{year}{2021}
+      \field{pages}{788417}
+      \range{pages}{1}
+      \keyw{bioinformatics analysis; ferroptosis; gene expression omnibus; pulmonary fibrosis; treadmill exercise}
+    \endentry
+    \entry{ngs_cancer}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=ccdea228ddb7777a5ac545cc2dafc638}{%
+           family={McDermott},
+           familyi={M\bibinitperiod},
+           given={Ultan},
+           giveni={U\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier BV}%
+      }
+      \strng{namehash}{ccdea228ddb7777a5ac545cc2dafc638}
+      \strng{fullhash}{ccdea228ddb7777a5ac545cc2dafc638}
+      \strng{bibnamehash}{ccdea228ddb7777a5ac545cc2dafc638}
+      \strng{authorbibnamehash}{ccdea228ddb7777a5ac545cc2dafc638}
+      \strng{authornamehash}{ccdea228ddb7777a5ac545cc2dafc638}
+      \strng{authorfullhash}{ccdea228ddb7777a5ac545cc2dafc638}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The announcement earlier this year of the US\$1000 genome by Illumina has excited a debate as to when and how genomes will at last transition from the research laboratory to the clinic. Although it is still unclear what the benefit will be to patients, there is sufficient evidence supporting the importance of the genome in driving cancer development, treatment response and drug resistance. Therefore it is reasonable to assume that large-scale stratification of patients using next-generation sequencing technologies will improve patient outcome in at least some common cancer types.}
+      \field{journaltitle}{Drug Discov. Today}
+      \field{month}{12}
+      \field{number}{12}
+      \field{title}{Next-generation sequencing and empowering personalised cancer medicine}
+      \field{volume}{20}
+      \field{year}{2015}
+      \field{pages}{1470\bibrangedash 1475}
+      \range{pages}{6}
+    \endentry
+    \entry{maldi-tof}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=8bd07a3fbe9952a59cfe1cb00c65a224}{%
+           family={Pais},
+           familyi={P\bibinitperiod},
+           given={Ricardo\bibnamedelima J},
+           giveni={R\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=cfb54191cd1975e5842f2cedb5b2885b}{%
+           family={Iles},
+           familyi={I\bibinitperiod},
+           given={Ray\bibnamedelima K},
+           giveni={R\bibinitperiod\bibinitdelim K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6549aab074d46d8c195d1d7bc86f8dd8}{%
+           family={Zmuidinaite},
+           familyi={Z\bibinitperiod},
+           given={Raminta},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \list{publisher}{1}{%
+        {Bentham Science Publishers Ltd.}%
+      }
+      \strng{namehash}{16284487333c9b130b5f3992b38f2d56}
+      \strng{fullhash}{16284487333c9b130b5f3992b38f2d56}
+      \strng{bibnamehash}{16284487333c9b130b5f3992b38f2d56}
+      \strng{authorbibnamehash}{16284487333c9b130b5f3992b38f2d56}
+      \strng{authornamehash}{16284487333c9b130b5f3992b38f2d56}
+      \strng{authorfullhash}{16284487333c9b130b5f3992b38f2d56}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Current methods for diagnosing human disease are still incapable of rapidly and accurately screening for multiple diseases simultaneously on a large scale, and at an affordable price. MALDI-ToF mass spectrometry is an ultra-sensitive, ultra-fast, lowcost, high-throughput technology that has the potential to achieve this goal, allowing human phenotype characterization and thus phenomic screening for multiple disease states. In this review, we will discuss the main advances achieved so far, putting forward targeted applications of MALDI-ToF mass spectrometry in the service of human disease detection. This review focuses on the methodological workflow as MALDI-ToF data processing for phenomic analysis, using state-of-the-art bioinformatic pipelines and software tools. The role of mathematical modelling, machine learning, and artificial intelligence algorithms for disease screening are considered. Moreover, we present some previously developed tools for disease diagnostics and screening based on MALDI-ToF analysis. We discuss the remaining challenges that are ahead when implementing MALDI-ToF into clinical laboratories. Differentiating a standard profile from a single disease phenotype is challenging, but the potential to simultaneously run multiple algorithm screens for different disease phenotypes may only be limited by computing power once this initial hurdle is overcome. The ability to explore the full potential of human clinical phenomics may be closer than imagined; this review gives an insight into the benefits this technology may reap for the future of clinical diagnostics.}
+      \field{journaltitle}{Curr. Med. Chem.}
+      \field{number}{32}
+      \field{title}{{MALDI-ToF} mass spectra phenomic analysis for human disease diagnosis enabled by cutting-edge data processing pipelines and bioinformatics tools}
+      \field{volume}{28}
+      \field{year}{2021}
+      \field{pages}{6532\bibrangedash 6547}
+      \range{pages}{16}
+      \keyw{MALDI ToF; Mass spectrometry; bioinformatics; machine learning; phenomics; predictive modelling.}
+    \endentry
+    \entry{bioinf_corona}{article}{}
+      \name{author}{15}{}{%
+        {{un=0,uniquepart=base,hash=6bce4425f9ad3759a36d8d80f0a2db82}{%
+           family={Oladipo},
+           familyi={O\bibinitperiod},
+           given={Elijah\bibnamedelima Kolawole},
+           giveni={E\bibinitperiod\bibinitdelim K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3e6df5276f5b53534d23a31435af4c74}{%
+           family={Adeniyi},
+           familyi={A\bibinitperiod},
+           given={Micheal\bibnamedelima Oluwafemi},
+           giveni={M\bibinitperiod\bibinitdelim O\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5074a9ae41bac4430cc515b425a0bb01}{%
+           family={Ogunlowo},
+           familyi={O\bibinitperiod},
+           given={Mercy\bibnamedelima Temiloluwa},
+           giveni={M\bibinitperiod\bibinitdelim T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f6774d917b8f3750ad99c7612936014e}{%
+           family={Irewolede},
+           familyi={I\bibinitperiod},
+           given={Boluwatife\bibnamedelima Ayobami},
+           giveni={B\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=cab61986b95a199d68343d349993c9ea}{%
+           family={Adekanola},
+           familyi={A\bibinitperiod},
+           given={Victoria\bibnamedelima Oluwapelumi},
+           giveni={V\bibinitperiod\bibinitdelim O\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c8fd598dbfa32207ab5155258b30877e}{%
+           family={Oluseyi},
+           familyi={O\bibinitperiod},
+           given={Glory\bibnamedelima Samuel},
+           giveni={G\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a5d2a2be4d27b7f67e77a95ea674351c}{%
+           family={Omilola},
+           familyi={O\bibinitperiod},
+           given={Janet\bibnamedelima Abisola},
+           giveni={J\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7272fc956ec67229ea006dbaee521142}{%
+           family={Udoh},
+           familyi={U\bibinitperiod},
+           given={Anietie\bibnamedelima Femi},
+           giveni={A\bibinitperiod\bibinitdelim F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f1f9e090df411238ffe6cc76ac9799f0}{%
+           family={Olufemi},
+           familyi={O\bibinitperiod},
+           given={Seun\bibnamedelima Elijah},
+           giveni={S\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0237805f3a6d372628dbd88e6b8ef42a}{%
+           family={Adediran},
+           familyi={A\bibinitperiod},
+           given={Daniel\bibnamedelima Adewole},
+           giveni={D\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=545a2bc8a191a8f5de1590362284ac3e}{%
+           family={Olonade},
+           familyi={O\bibinitperiod},
+           given={Aanuoluwapo},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=15a65bf9960d42b3d522ba955520ce6a}{%
+           family={Idowu},
+           familyi={I\bibinitperiod},
+           given={Usman\bibnamedelima Abiodun},
+           giveni={U\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=06780b6279cde0b152945086802825fd}{%
+           family={Kolawole},
+           familyi={K\bibinitperiod},
+           given={Olatunji\bibnamedelima M},
+           giveni={O\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7be720edc43bbb36896049ebc6ae4d5a}{%
+           family={Oloke},
+           familyi={O\bibinitperiod},
+           given={Julius\bibnamedelima Kola},
+           giveni={J\bibinitperiod\bibinitdelim K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1a2f542ab0f3ad96f63d6fe3be143899}{%
+           family={Onyeaka},
+           familyi={O\bibinitperiod},
+           given={Helen},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \list{publisher}{1}{%
+        {MDPI AG}%
+      }
+      \strng{namehash}{940863e1be97a49462843b0762942fca}
+      \strng{fullhash}{fd1d38885af49039ec6e53b8a59f7ae1}
+      \strng{bibnamehash}{940863e1be97a49462843b0762942fca}
+      \strng{authorbibnamehash}{940863e1be97a49462843b0762942fca}
+      \strng{authornamehash}{940863e1be97a49462843b0762942fca}
+      \strng{authorfullhash}{fd1d38885af49039ec6e53b8a59f7ae1}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{At this present stage of COVID-19 re-emergence, designing an effective candidate vaccine for different variants of SARS-CoV-2 is a study worthy of consideration. This research used bioinformatics tools to design an mRNA vaccine that captures all the circulating variants and lineages of the virus in its construct. Sequences of these viruses were retrieved across the six continents and analyzed using different tools to screen for the preferable CD8+ T lymphocytes (CTL), CD4+ T lymphocytes (HTL), and B-cell epitopes. These epitopes were used to design the vaccine. In addition, several other co-translational residues were added to the construct of an mRNA vaccine whose molecular weight is 285.29686 kDa with an estimated pI of 9.2 and has no cross affinity with the human genome with an estimated over 68\% to cover the world population. It is relatively stable, with minimal deformability in its interaction with the human innate immune receptor, which includes TLR 3 and TLR 9. The overall result has proven that the designed candidate vaccine is capable of modulating cell-mediated immune responses by activating the actions of CD4+ T cells, natural killer cells, and macrophages, and displayed an increased memory T cell and B cell activities, which may further be validated via in vivo and in vitro techniques.}
+      \field{journaltitle}{Vaccines (Basel)}
+      \field{month}{12}
+      \field{number}{12}
+      \field{title}{Bioinformatics designing and molecular modelling of a universal {mRNA} vaccine for {SARS-CoV-2} infection}
+      \field{volume}{10}
+      \field{year}{2022}
+      \field{pages}{2107}
+      \range{pages}{1}
+      \keyw{SARS-CoV-2; bioinformatics; lineages; mRNA vaccine; variants}
+    \endentry
+    \entry{bioinf_clin}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=7a70be2e15fc60643a9f0c965a9b83be}{%
+           family={Belmont},
+           familyi={B\bibinitperiod},
+           given={John\bibnamedelima W},
+           giveni={J\bibinitperiod\bibinitdelim W\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=23d9a6b75a5b8bcf6571e92515ae8831}{%
+           family={Shaw},
+           familyi={S\bibinitperiod},
+           given={Chad\bibnamedelima A},
+           giveni={C\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \list{publisher}{1}{%
+        {Informa UK Limited}%
+      }
+      \strng{namehash}{63c3d4fe616ce389f541a02877737855}
+      \strng{fullhash}{63c3d4fe616ce389f541a02877737855}
+      \strng{bibnamehash}{63c3d4fe616ce389f541a02877737855}
+      \strng{authorbibnamehash}{63c3d4fe616ce389f541a02877737855}
+      \strng{authornamehash}{63c3d4fe616ce389f541a02877737855}
+      \strng{authorfullhash}{63c3d4fe616ce389f541a02877737855}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Expert Rev. Mol. Diagn.}
+      \field{month}{11}
+      \field{number}{11}
+      \field{title}{Clinical bioinformatics: emergence of a new laboratory discipline}
+      \field{volume}{16}
+      \field{year}{2016}
+      \field{pages}{1139\bibrangedash 1141}
+      \range{pages}{3}
+    \endentry
+    \entry{bioinf_clin2}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=6888e07ac8440b3bea794b7843c4229c}{%
+           family={Simon},
+           familyi={S\bibinitperiod},
+           given={Richard},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \list{publisher}{1}{%
+        {EMBO}%
+      }
+      \strng{namehash}{6888e07ac8440b3bea794b7843c4229c}
+      \strng{fullhash}{6888e07ac8440b3bea794b7843c4229c}
+      \strng{bibnamehash}{6888e07ac8440b3bea794b7843c4229c}
+      \strng{authorbibnamehash}{6888e07ac8440b3bea794b7843c4229c}
+      \strng{authornamehash}{6888e07ac8440b3bea794b7843c4229c}
+      \strng{authorfullhash}{6888e07ac8440b3bea794b7843c4229c}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{EMBO Mol. Med.}
+      \field{month}{8}
+      \field{number}{8}
+      \field{title}{Genomic biomarkers in predictive medicine: an interim analysis}
+      \field{volume}{3}
+      \field{year}{2011}
+      \field{pages}{429\bibrangedash 435}
+      \range{pages}{7}
+    \endentry
+    \entry{pm_bio}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=688688b3ffb058a1586395c81a8d3660}{%
+           family={Kholodenko},
+           familyi={K\bibinitperiod},
+           given={Boris},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=cf07d7dc41de5a2876e78d6ee902b4b2}{%
+           family={Yaffe},
+           familyi={Y\bibinitperiod},
+           given={Michael\bibnamedelima B},
+           giveni={M\bibinitperiod\bibinitdelim B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8174ff97b2b73529cdb140387393dc8b}{%
+           family={Kolch},
+           familyi={K\bibinitperiod},
+           given={Walter},
+           giveni={W\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \list{publisher}{1}{%
+        {American Association for the Advancement of Science (AAAS)}%
+      }
+      \strng{namehash}{5a184016ba128b457bbf00fa2dba82fb}
+      \strng{fullhash}{5a184016ba128b457bbf00fa2dba82fb}
+      \strng{bibnamehash}{5a184016ba128b457bbf00fa2dba82fb}
+      \strng{authorbibnamehash}{5a184016ba128b457bbf00fa2dba82fb}
+      \strng{authornamehash}{5a184016ba128b457bbf00fa2dba82fb}
+      \strng{authorfullhash}{5a184016ba128b457bbf00fa2dba82fb}
+      \field{extraname}{2}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{extradate}{2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Signaling network construction and analysis provide insights into biology and medicine.}
+      \field{journaltitle}{Sci. Signal.}
+      \field{month}{4}
+      \field{number}{220}
+      \field{title}{Computational approaches for analyzing information flow in biological networks}
+      \field{volume}{5}
+      \field{year}{2012}
+      \field{pages}{re1\bibrangedash re1}
+      \range{pages}{-1}
+    \endentry
     \entry{nb_iron}{article}{}
       \name{author}{19}{}{%
         {{un=0,uniquepart=base,hash=8c9d23060cb51964eae97f5700052ca2}{%
@@ -8864,8 +9300,8 @@
       \strng{authorbibnamehash}{f76c1b8b52b4aab688fb5fea8c091040}
       \strng{authornamehash}{f76c1b8b52b4aab688fb5fea8c091040}
       \strng{authorfullhash}{d29d09ede4cc350cfa86c14b9bc563a4}
-      \field{sortinit}{6}
-      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \field{labelnamesource}{author}
@@ -8964,8 +9400,8 @@
       \strng{authorbibnamehash}{f80c97e300d4387d2ebd0a9a5444d0fb}
       \strng{authornamehash}{f80c97e300d4387d2ebd0a9a5444d0fb}
       \strng{authorfullhash}{37a3bf842f43613136a8d61cc93caab7}
-      \field{sortinit}{6}
-      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \field{labelnamesource}{author}
